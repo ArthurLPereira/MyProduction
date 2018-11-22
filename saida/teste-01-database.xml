@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curriculo_lattes data_processamento="20/11/2018 02:00:21">
+  <pesquisador id="4935788335854516">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial></nome_inicial>
+      <nome_completo>Wladmir Cardoso Brandão</nome_completo>
+      <nome_citacao_bibliografica>BRANDÃO, Wladmir Cardoso;BRANDÃO, W.;BRANDÃO, W.C.;BRANDÃO, WLADMIR;BRANDÃO, WLADMIR C.;Cardoso Brandão, Wladmir;BRANDAO, WLADMIR CARDOSO</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Pontifícia Universidade Católica de Minas Gerais, Instituto de Ciências Exatas e Informática da PUC Minas, Programa de Pós-Graduação em Informática. Rua Walter Ianni, 255 São Gabriel 31980110 - Belo Horizonte, MG - Brasil Telefone: (31) 34395204 URL da Homepage: http://www.wladmirbrandao.com</endereco_profissional>
+      <endereco_profissional_lat>0</endereco_profissional_lat>
+      <endereco_profissional_long>0</endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2008</ano_inicio>
+          <ano_conclusao>2013</ano_conclusao>
+          <tipo>Doutorado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade Federal de Minas Gerais, UFMG, Brasil</nome_instituicao>
+          <descricao>Título: Exploiting Entities for Query Expansion, Ano de obtenção: 2013. Orientador: Nivio Ziviani. Palavras-chave: query expansion; relevance feedback; learning to rank; named entity recognition; Wikipedia. Grande área: Ciências Exatas e da Terra Setores de atividade: Pesquisa e desenvolvimento científico.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2003</ano_inicio>
+          <ano_conclusao>2005</ano_conclusao>
+          <tipo>Mestrado em Ciência da Informação</tipo>
+          <nome_instituicao>Universidade Federal de Minas Gerais, UFMG, Brasil</nome_instituicao>
+          <descricao>Título: Método para produção de representações conceituais a partir da literatura especilizada utilizando a abordagem Analítico-Sintética,Ano de Obtenção: 2005. Orientador: Lídia Alvarenga. Palavras-chave: ciência da informação; representação do conhecimento; teoria da classificação; método analítico-sintético; classificação facetada; modelagem. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Tratamento de Informação / Especialidade: Teoria da Classificação. Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Tratamento de Informação / Especialidade: Recuperação de Informação.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1996</ano_inicio>
+          <ano_conclusao>1996</ano_conclusao>
+          <tipo>Especialização em Gestão Estratégica</tipo>
+          <nome_instituicao>(Carga Horária: 420h)</nome_instituicao>
+          <descricao>Universidade Federal de Minas Gerais, UFMG, Brasil. Título: Aplicação de um plano de marketing em pequenas empresas. Orientador: Wagner Saleme.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2000</ano_inicio>
+          <ano_conclusao>2001</ano_conclusao>
+          <tipo>Aperfeiçoamento em Gestão Empresarial</tipo>
+          <nome_instituicao>(Carga Horária: 300h)</nome_instituicao>
+          <descricao>Serviço Nacional de Aprendizagem Comercial, SENAC, Brasil. Ano de finalização: 2001.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1991</ano_inicio>
+          <ano_conclusao>1995</ano_conclusao>
+          <tipo>Graduação em Ciência da Computação</tipo>
+          <nome_instituicao>Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil</nome_instituicao>
+          <descricao></descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2017</ano_inicio>
+          <ano_conclusao>2018</ano_conclusao>
+          <nome>Explorando evidências semânticas de entidades em recuperação de informação</nome>
+          <descricao>Descrição: Investigar a hipótese de que o uso de evidências semânticas de entidades aumenta a efetividade em tarefas de recuperação de informação. Construção de arcabouço para avaliação da efetividade da utilização de evidências semânticas de entidades em tarefas relacionadas à busca e recomendação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Claudinei Gomes Mendes - Integrante / Lucas Henrique Resende Mari - Integrante / Lucas de Souza Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de orientações: 1</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2016</ano_inicio>
+          <ano_conclusao>2017</ano_conclusao>
+          <nome>Stemming Baseado em Autômatos para Recuperação de Informação</nome>
+          <descricao>Descrição: Proposição e avaliação de algoritmos de stemming baseados em autômatos finitos determinísticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Cleber Oliveira Damasceno - Integrante / Raphael Matori da Rocha - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Auxílio financeiro / Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2016</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>BigDataClima: Modelos Neurais para Cenários Climáticos por meio de Big Data</nome>
+          <descricao>Descrição: Modelar e identificar padrões atmosféricos usando técnicas de mineração de dados baseadas em redes neurais artificiais sobre um volume massivo de dados, de fontes diversas, em tempo de processamento adequado para seu uso. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2016</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Proposta de uma Metodologia de Busca de Informações e Estimativa de Demanda e Consumo de Clientes Livres Potenciais</nome>
+          <descricao>Descrição: Proposição de um sistema semiautomático de monitoramento ambiental para apoio na tomada de decisão de prospecção de novos clientes livres do setor elétrico. Espera-se obter um aumento do grau de assertividade na prospecção e na estimativa de demanda e consumo de energia de clientes. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2015</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Descoberta de Conhecimento de Dados Complexos via Análise Formal de Conceitos em Ambientes de Big Data</nome>
+          <descricao>Descrição: Proposição de abordagem para construção de modelos computacionais para redes sociais baseada em regras de implicação oriundas da teoria de análise formal de conceitos. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2015</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>MASWeb: Modelos, Algoritmos e Sistemas para Web</nome>
+          <descricao>Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2014</ano_inicio>
+          <ano_conclusao>2017</ano_conclusao>
+          <nome>Extração e Recuperação de Informação sobre Entidades na Web</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2014</ano_inicio>
+          <ano_conclusao>2016</ano_conclusao>
+          <nome>Entity-Related Information Extraction and Retrieval from the Web</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Microsoft Corporation - Cooperação.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2014</ano_inicio>
+          <ano_conclusao>2015</ano_conclusao>
+          <nome>Recuperação de Informação sobre Entidades na Web</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2007</ano_inicio>
+          <ano_conclusao>2009</ano_conclusao>
+          <nome>CNPq/CT-INFO/InfoWeb: Métodos e Ferramentas para Tratamento da Informação Disponível na Web</nome>
+          <descricao>Descrição: Desenvolvimento de novos métodos e ferramentas para tratamento de informação existente em grandes repositórios de dados e coleções de documentos disponíveis na Web. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (21) / Doutorado: (13) . Integrantes: Wladmir Cardoso Brandão - Integrante / Alberto Henrique Frade Laender - Integrante / Berthier Ribeiro de Araújo Neto - Integrante / Wagner Meira Júnior - Integrante / Nivio Ziviani - Coordenador / Marcos André Gonçalves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Número de produções C, T A: 4</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2008</ano_conclusao>
+          <nome>RedeCI - Análise de Redes Sociais Aplicada ao Campo da Ciência da Informação</nome>
+          <descricao>Descrição: Construção e manutenção de base de dados de produção científica da Ciência da Informação no Brasil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Antonio Braz de Oliveira e Silva - Integrante / Fernando Silva Parreiras - Integrante / Jaime Sadao Yamassaki Bastos - Integrante / Marta Araújo Tavares Ferreira - Coordenador. Número de produções C, T A: 4</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2003</ano_inicio>
+          <ano_conclusao>2005</ano_conclusao>
+          <nome>Métodos para Representação de Conhecimento</nome>
+          <descricao>Descrição: Construção de métodos para representação conceitual utilizando técnicas de classificação facetada e abordagem analítico-sintética. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Lídia Alvarenga - Coordenador. Número de produções C, T A: 1</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação.</descricao>
+    </area_atuacao>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2017</ano>
+          <descricao>Professor Homenageado da Turma Formada no 1o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2017</ano>
+          <descricao>Melhor artigo de estudante na área de Banco de Dados e Integração de Sistemas de Informação na 19th International Conference on Enterprise Information Systems (ICEIS 2017), Institute for Systems and Technologies of Information, Control and Communication (INSTICC).</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2017</ano>
+          <descricao>Melhor trabalho da área de Ciências Exatas e da Terra no 25o. Seminário de Iniciação Científica, Pontifícia Universidade Católica de Minas Gerais (PUC Minas).</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2017</ano>
+          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2016</ano>
+          <descricao>Paraninfo da Turma Formada no 1o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2016</ano>
+          <descricao>Patrono da Turma Formada no 2o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2015</ano>
+          <descricao>Professor Homenageado da Turma Formada no 1o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2015</ano>
+          <descricao>Patrono da Turma Formada no 2o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>Patrono da Turma Formada no 1o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>Microsoft Azure Research Award, Microsoft.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>Patrono da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2013</ano>
+          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2013 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2003</ano>
+          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2003 no Curso de Ciência da Computação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2002</ano>
+          <descricao>Microsoft Certified Professional, Microsoft.</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>4414718560764818</id_lattes_colaborador>
+        <id_lattes_colaborador>1126314445760059</id_lattes_colaborador>
+        <id_lattes_colaborador>5151080740697775</id_lattes_colaborador>
+        <id_lattes_colaborador>3527197809276361</id_lattes_colaborador>
+        <id_lattes_colaborador>6155937639497516</id_lattes_colaborador>
+        <id_lattes_colaborador>2000159854235169</id_lattes_colaborador>
+        <id_lattes_colaborador>1162362624079364</id_lattes_colaborador>
+        <id_lattes_colaborador>9205421345814071</id_lattes_colaborador>
+        <id_lattes_colaborador>5192167823493756</id_lattes_colaborador>
+        <id_lattes_colaborador>4935788335854516</id_lattes_colaborador>
+        <id_lattes_colaborador>9080381631282096</id_lattes_colaborador>
+        <id_lattes_colaborador>2907572425394470</id_lattes_colaborador>
+        <id_lattes_colaborador>0649348132051570</id_lattes_colaborador>
+        <id_lattes_colaborador>3564597309576489</id_lattes_colaborador>
+        <id_lattes_colaborador>3286329883412205</id_lattes_colaborador>
+        <id_lattes_colaborador>6261175351521953</id_lattes_colaborador>
+        <id_lattes_colaborador>8710167967324399</id_lattes_colaborador>
+        <id_lattes_colaborador>7814251057051192</id_lattes_colaborador>
+        <id_lattes_colaborador>6447152946871851</id_lattes_colaborador>
+        <id_lattes_colaborador>0864387467991172</id_lattes_colaborador>
+        <id_lattes_colaborador>6895596224159751</id_lattes_colaborador>
+        <id_lattes_colaborador>7027397326836366</id_lattes_colaborador>
+        <id_lattes_colaborador>4737852130924504</id_lattes_colaborador>
+        <id_lattes_colaborador>6343812963286391</id_lattes_colaborador>
+        <id_lattes_colaborador>8886542904032896</id_lattes_colaborador>
+        <id_lattes_colaborador>0876621345057877</id_lattes_colaborador>
+        <id_lattes_colaborador>1197632799680549</id_lattes_colaborador>
+        <id_lattes_colaborador>2468284485612789</id_lattes_colaborador>
+        <id_lattes_colaborador>7889873539154418</id_lattes_colaborador>
+        <id_lattes_colaborador>7898883574312931</id_lattes_colaborador>
+        <id_lattes_colaborador>9355913138976768</id_lattes_colaborador>
+        <id_lattes_colaborador>3743547049132556</id_lattes_colaborador>
+        <id_lattes_colaborador>3841441176161322</id_lattes_colaborador>
+        <id_lattes_colaborador>8324937657941048</id_lattes_colaborador>
+        <id_lattes_colaborador>3405503472010994</id_lattes_colaborador>
+        <id_lattes_colaborador>1864473087690223</id_lattes_colaborador>
+        <id_lattes_colaborador>6616037648507681</id_lattes_colaborador>
+        <id_lattes_colaborador>6188724715662481</id_lattes_colaborador>
+        <id_lattes_colaborador>0133030200436061</id_lattes_colaborador>
+        <id_lattes_colaborador>2484471713795378</id_lattes_colaborador>
+        <id_lattes_colaborador>8060260176693064</id_lattes_colaborador>
+        <id_lattes_colaborador>2652890139812923</id_lattes_colaborador>
+        <id_lattes_colaborador>5672923385898818</id_lattes_colaborador>
+        <id_lattes_colaborador>0898459356361957</id_lattes_colaborador>
+        <id_lattes_colaborador>0037340114779480</id_lattes_colaborador>
+        <id_lattes_colaborador>3457219624656691</id_lattes_colaborador>
+        <id_lattes_colaborador>4656690295059138</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.15388/infedu.2017.12</doi>
+          <titulo>Automatic content recommendation and aggregation according to SCORM</titulo>
+          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
+          <revista>INFORMATICS IN EDUCATION</revista>
+          <volume>INFORMATICS IN EDUCATION</volume>
+          <paginas>225-256</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5753/rbie.2016.24.1.11</doi>
+          <titulo>Metodologia para recomendação e agregação de objetos de aprendizagem no padrão SCORM</titulo>
+          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
+          <revista>Revista Brasileira de Informática na Educação</revista>
+          <volume>Revista Brasileira de Informática na Educação</volume>
+          <paginas>11-30</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Learning to expand queries using entities</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso; SANTOS, Rodrygo Luis Teodoro ; ZIVIANI, Nivio ; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares</autores>
+          <revista>Journal of The American Society For Information Science and Technology (Online)</revista>
+          <volume>Journal of The American Society For Information Science and Technology (Online)</volume>
+          <paginas>1870-1883</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1145/2641383.2641393</doi>
+          <titulo>Exploiting entities for query expansion</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <revista>ACM SIGIR Forum</revista>
+          <volume>ACM SIGIR Forum</volume>
+          <paginas>43-43</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s10791-009-9119-7</doi>
+          <titulo>Classifying documents with link-based bibliometric measures</titulo>
+          <autores>COUTO, Thierson ; ZIVIANI, Nivio ; CALADO, Pável Pereira ; DE CRISTO, Marco Antônio Pinheiro ; GONÇALVES, Marcos André ; DE MOURA, Edleno Silva ; BRANDÃO, W.</autores>
+          <revista>Information Retrieval (Dordrecht. Online)</revista>
+          <volume>Information Retrieval (Dordrecht. Online)</volume>
+          <paginas>315-345</paginas>
+          <numero></numero>
+          <ano>2010</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5433/1981-8920.2007v12n1espp110</doi>
+          <titulo>Redes em Ciência da Informação: evidências comportamentais dos pesquisadores e tendências evolutivas das redes de coautoria.</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e</autores>
+          <revista>Informação & Informação (UEL. Online)</revista>
+          <volume>Informação & Informação (UEL. Online)</volume>
+          <paginas>110</paginas>
+          <numero></numero>
+          <ano>2007</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/S1413-99362006000300002</doi>
+          <titulo>RedeCI: colaboração e produção científica em ciência da informação no Brasil</titulo>
+          <autores>PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso</autores>
+          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
+          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
+          <paginas>302-317</paginas>
+          <numero>2</numero>
+          <ano>2006</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Proposta para um esquema de classificação das fontes de informação para negócio</titulo>
+          <autores>SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso</autores>
+          <revista>Datagramazero (Rio de Janeiro)</revista>
+          <volume>Datagramazero (Rio de Janeiro)</volume>
+          <paginas>2</paginas>
+          <numero>5</numero>
+          <ano>2005</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Impactos e desafios na implementação de uma infra-estrutura de software livre nas organizações: estudo de caso de uma empresa do setor siderúrgico</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva</autores>
+          <revista>IP (Belo Horizonte)</revista>
+          <volume>IP (Belo Horizonte)</volume>
+          <paginas>53-66</paginas>
+          <numero></numero>
+          <ano>2005</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>A internet como fonte de informações para negócio: um ensaio sobre a realidade da internet brasileira</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
+          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
+          <paginas>88-99</paginas>
+          <numero>1</numero>
+          <ano>2004</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Monitoração ambiental em contextos dinâmicos: busca e uso de informação por gerentes bancários</titulo>
+          <autores>BASTOS, Jaime Sadao Yamassaki ; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso</autores>
+          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
+          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
+          <paginas>218-229</paginas>
+          <numero>2</numero>
+          <ano>2004</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>O uso de portais departamentais na gestão dos processos de desenvolvimento de software: o caso da Unisys do Brasil</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva</autores>
+          <revista>Informação & Sociedade (UFPB. Online)</revista>
+          <volume>Informação & Sociedade (UFPB. Online)</volume>
+          <paginas>139-157</paginas>
+          <numero>2</numero>
+          <ano>2004</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <texto_em_jornal>
+        <texto>
+          <ano>2015</ano>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Mineração de Dados</titulo>
+          <nome_jornal>Revista PUC Minas, </nome_jornal>
+          <data>01 set. 2015</data>
+          <volume>11</volume>
+          <paginas>54-55</paginas>
+        </texto>
+        <texto>
+          <ano>2004</ano>
+          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki</autores>
+          <titulo>Inclusão digital: utilização de código aberto pode facilitar o acesso da sociedade à informação</titulo>
+          <nome_jornal>Revista de Economia do Jornal Estado de Minas</nome_jornal>
+          <data>01 jul. 2004</data>
+          <volume></volume>
+          <paginas>16-17</paginas>
+        </texto>
+    </texto_em_jornal>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Paula Raissa Costa e ; DIAS, Sérgio Mariano ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho ; ZARATE, Luis Enrique</autores>
+          <titulo>Formal concept analysis applied to professional social networks analysis</titulo>
+          <nome_evento>International Conference on Enterprise Information Systems (ICEIS)</nome_evento>
+          <ano>2017</ano>
+          <volume>1</volume>
+          <paginas>123-134</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DA SILVEIRA, Márcio Vinícius Campos ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Characterizing crimes from Web</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PEREIRA-JUNIOR, Otmar Martins ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho</autores>
+          <titulo>Automatic formal specification generation of APIs by mining unit tests</titulo>
+          <nome_evento>ACM Symposium on Applied Computing (SAC)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1542-1545</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PISTOLATO, Amanda Carolina ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>ConnectCity: a collaborative e-government approach to report city incidents</titulo>
+          <nome_evento>IADIS International Conference on WWW/INTERNET (ICWI)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SOUZA, Caio Henrique Prado ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Análise comparativa de abordagens para análise de sentimento utilizando tweets em língua portuguesa</titulo>
+          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LESSA, Leandro Figueira ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Abordagem para descoberta de conhecimento em instrumentos avaliativos de organizações de ensino superior</titulo>
+          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DE PAULA, Andrey Leonardo ; BRANDÃO, Wladmir Cardoso ; GOMES, Rodrigo Richard</autores>
+          <titulo>Utilizando entidades na criação de descritores para avaliar a qualidade de recomendações de novos itens no problema de Cold-Start</titulo>
+          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso ; ZARATE, Luis Enrique</autores>
+          <titulo>Análise de redes sociais profissionais por meio de análise formal de conceitos</titulo>
+          <nome_evento>Symposium on Knowledge Discovery</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>ARPPA: mining professional profiles from LinkedIn using association rules</titulo>
+          <nome_evento>International Conference on Information</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>72-77</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>FERREIRA, Wadson Gomes ; DOS SANTOS, Willian Antônio ; DE SOUZA, Breno Macena Pereira ; ZAIDAN, Tiago Matta Machado ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Assessing the efficiency of suffix stripping approaches for portuguese stemming</titulo>
+          <nome_evento>International Symposium on String Processing and Information Retrieval (SPIRE)</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>210-221</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>OLIVEIRA, Rafael de Almeida ; BRANDÃO, Wladmir Cardoso ; MARQUES-NETO, Humberto Torres</autores>
+          <titulo>Characterizing user behavior on a mobile SMS-based chat service</titulo>
+          <nome_evento>Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>130-139</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PEREIRA, Bruno Laporais ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>ARCA: mining crime patterns using association rules</titulo>
+          <nome_evento>IADIS International Conference on Applied Computing (AC)</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas>159-166</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
+          <titulo>Recomendação e agregação de conteúdos relacionados em conformidade com o padrão SCORM</titulo>
+          <nome_evento>Simpósio Brasileiro de Informática na Educação (SBIE)</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas>953-957</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DE OLIVEIRA, Vitor Campos ; GOMES, Guilherme ; BELÉM, Fabiano Muniz ; BRANDÃO, Wladmir Cardoso ; DE ALMEIDA, Jussara Marques ; ZIVIANI, Nivio ; GONÇALVES, Marcos André</autores>
+          <titulo>Automatic query expansion based on tag recommendation</titulo>
+          <nome_evento>ACM International Conference on Information and Knowledge Management (CIKM)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas>1985-1989</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BOTELHO, Fabiano Cupertino ; BRANDÃO, Wladmir Cardoso ; ZIVIANI, Nivio</autores>
+          <titulo>Minimal perfect hashing and bloom filters made practical</titulo>
+          <nome_evento>IADIS International Conference on Applied Computing (AC)</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>465-470</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BRANDÃO, Wladmir Cardoso; DA SILVA, Altigran Soares ; DE MOURA, Edleno Silva ; ZIVIANI, Nivio</autores>
+          <titulo>Exploiting entity semantics for query expansion</titulo>
+          <nome_evento>IADIS International Conference on WWW/INTERNET (ICWI)</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>365-372</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva</autores>
+          <titulo>Uma abordagem baseada em métricas de redes complexas para o estabelecimento do grau de influência de termos em documentos</titulo>
+          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BRANDÃO, Wladmir Cardoso; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares ; ZIVIANI, Nivio</autores>
+          <titulo>A self-supervised approach for extraction of attribute-value pairs from Wikipedia articles</titulo>
+          <nome_evento>International Symposium on String Processing and Information Retrieval (SPIRE)</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>279-289</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva</autores>
+          <titulo>Produtividade científica em programas de pós-graduação em ciência da informação no Brasil e nos EUA</titulo>
+          <nome_evento>I Colóquio Mediações e Usos de Saberes e da Informação: Um Diálogo França-Brasil</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas>248-262</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Redes de co-autoria dos professores da ciência da informação: um retrato da colaboração científica dessa disciplina no Brasil</titulo>
+          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <ano>2006</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Proposta para um esquema de classificação das fontes de informação para negócio</titulo>
+          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Informação e cooperação nas comunidades de desenvolvimento de software livre: um panorama do cenário brasileiro</titulo>
+          <nome_evento>Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Inclusão digital, política de software e outras políticas de informação</titulo>
+          <nome_evento>Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BAX, Marcello Peixoto ; ALVARENGA, Lídia ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Sistema automático de disseminação seletiva de informação</titulo>
+          <nome_evento>IFLA World Library and Information Congress: Management and Marketing (IFLA MM)</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Gestão do conhecimento: um estudo sobre empresas do setor de informática em Minas Gerais</titulo>
+          <nome_evento>Congresso Brasileiro de Gestão do Conhecimento (KMBRASIL)</nome_evento>
+          <ano>2003</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <apresentacao_trabalho>
+        <trabalho_apresentado>
+          <titulo>Google cluster: arquitetura e componentes</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2008</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Gestão de conteúdo no apoio à gestão do conhecimento</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2005</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Gestão do conhecimento em organizações brasileiras</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2005</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+    </apresentacao_trabalho>
+    <producao_bibliografica>
+        <producao>
+          <titulo>Exploiting entities for query expansion</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2013</ano>
+          <natureza>Tese de Doutorado</natureza>
+        </producao>
+        <producao>
+          <titulo>Método para produção de representações conceituais a partir de literatura especializada utilizando a abordagem analítico-sintética</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2005</ano>
+          <natureza>Dissertação de Mestrado</natureza>
+        </producao>
+    </producao_bibliografica>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>Construção e Publicação de Artigos Científicos em Computação</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <ano>2015</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <producao_tecnica>
+        <producao>
+          <titulo>Oficina de Elaboração de Projetos de Pesquisa</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <natureza>Curso de curta duração ministrado/Outra</natureza>
+          <ano>2016</ano>
+        </producao>
+        <producao>
+          <titulo>Gestão Eletrônica de Documentos</titulo>
+          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <natureza>Curso de curta duração ministrado/Especialização</natureza>
+          <ano>2007</ano>
+        </producao>
+    </producao_tecnica>
+    <orientacao_mestrado_em_andamento>
+        <dissertacao>
+          <nome_aluno>Leandro Figueira Lessa</nome_aluno>
+          <titulo_trabalho>Graduate course recommendation</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Úrsula Rosa Monteiro de Castro</nome_aluno>
+          <titulo_trabalho>Characterizing criminal patterns and predicting crimes from Web</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_em_andamento>
+    <orientacao_especializacao_concluido>
+        <monografia>
+          <nome_aluno>Cristiano Saúde Belém</nome_aluno>
+          <titulo_trabalho>Proposição de metodologia de implantação de portais corporativos baseada na experiência dos Correios de Minas Gerais</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Aperfeiçoamento/Especialização em Gestão da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </monografia>
+        <monografia>
+          <nome_aluno>Nohelen Maria Souto Ribeiro</nome_aluno>
+          <titulo_trabalho>Construção de uma proposta metodológica para implantação de gestão do conhecimento em órgãos públicos</titulo_trabalho>
+          <ano>2008</ano>
+          <instituicao>(Aperfeiçoamento/Especialização em Gestão da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </monografia>
+    </orientacao_especializacao_concluido>
+    <orientacao_tcc_concluido>
+        <tcc>
+          <nome_aluno>Matheus de Oliveira Salim</nome_aluno>
+          <titulo_trabalho>Predição do sucesso dos times da NFL utilizando análise de redes complexas</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Dayene Dias do Vale</nome_aluno>
+          <titulo_trabalho>Identificando esteriótipos da percepção online de confiabilidade</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Ana Carolina Conceição de Jesus</nome_aluno>
+          <titulo_trabalho>Análise do comportamento de rotatividade no LinkedIn utilizando aprendizado de máquina</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Daniel Reis de Almeida</nome_aluno>
+          <titulo_trabalho>Explorando entidades reconhecidas em sinopse para a recomendação de filmes</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Vinícius Ferreira Salgado</nome_aluno>
+          <titulo_trabalho>CRION: Dataset para análise e predição de crimes</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Engenharia de Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Dehua Chen</nome_aluno>
+          <titulo_trabalho>Avaliação de arquiteturas de aprendizagem profunda para construção de sistemas de diálogo orientado a objetivo</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Felipe Coelho Silva</nome_aluno>
+          <titulo_trabalho>SSV: Interactive visualization system for social media stock-related content analysis</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Rodolpho Rodrigo Tomaz Lopes</nome_aluno>
+          <titulo_trabalho>Abordagem para recomendação de cursos de especialização através do LinkedIn</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>William Célio dos Santos Pereira</nome_aluno>
+          <titulo_trabalho>Explorando tweets para mineração de opiniões sobre sítios de comércio eletrônico</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Sidrac Victor Pedercini Barony</nome_aluno>
+          <titulo_trabalho>Otimização de projeto e consulta em bancos de dados de eventos climáticos</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Tiago Fortunato Lino</nome_aluno>
+          <titulo_trabalho>Proposta de viabilidade de aplicação de um algoritmo de busca distribuído para compartilhamento dinâmico de rotas</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Márcio Vinícius Campos da Silveira</nome_aluno>
+          <titulo_trabalho>Predição de padrões criminais utilizando dados da Web</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Raphael Matori da Rocha</nome_aluno>
+          <titulo_trabalho>Automata-based stemming</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Victor Portella Nunes</nome_aluno>
+          <titulo_trabalho>Proposta de um algoritmo paralelo de stemming com processamento GPU em plataforma CUDA</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Caio Henrique Prado de Souza</nome_aluno>
+          <titulo_trabalho>Análise comparativa de abordagens para análise de sentimento utilizando tweets em língua portuguesa</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Amanda Carolina Pistolato</nome_aluno>
+          <titulo_trabalho>ConnectCity: A collaborative e-government social network based on incidents</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Mikaele Maia Cassaro</nome_aluno>
+          <titulo_trabalho>Proposta de banco de dados para reciclagem e reuso de materiais eletrônicos</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Wadson Gomes Ferreira</nome_aluno>
+          <titulo_trabalho>Proposta de abordagem não supervisionada para classificação de artigos da Wikipedia</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Lucas de Bessa Silva</nome_aluno>
+          <titulo_trabalho>Análise de impacto de variações de carga em SGBDRs multi-inquilino de instância em nuvem</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Lucas Fernando Maçoni Ferreira</nome_aluno>
+          <titulo_trabalho>VaiPedirOQue: Sistema colaborativo móvel para busca e avaliação de produtos em bares e restaurantes</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Thiago Gonçalves Teixeira</nome_aluno>
+          <titulo_trabalho>Descoberta de conhecimento em dados de utilização de rede universitária: Um estudo de caso na PUC Minas</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Alline Cristiane Dias</nome_aluno>
+          <titulo_trabalho>Proposta de aplicativo móvel para disseminação de informação meteorológica</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Leonardo de Jesus Carmônio</nome_aluno>
+          <titulo_trabalho>Aplicabilidade de midias sociais para mensurar opinião da população online: um estudo de caso das eleições presidenciais no Brasil em 2014</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Paula Raissa Costa e Silva</nome_aluno>
+          <titulo_trabalho>ARPPA: Mining professional profiles from LinkedIn using association rules</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Bruno Laporais Pereira</nome_aluno>
+          <titulo_trabalho>ARCA: Mining crime patterns using association rules</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>César Augusto Silveira de Andrade</nome_aluno>
+          <titulo_trabalho>Análise cooperativa de soluções antivírus para estações de trabalho</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Carlos Antônio Barbosa Nascimento Junior</nome_aluno>
+          <titulo_trabalho>Aplicação móvel para suporte à gestão acadêmica</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Eduardo Guilherme de Andrade</nome_aluno>
+          <titulo_trabalho>Aplicação de SOA para integração de aplicações móveis e Web</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Victor de Sousa Oliveira</nome_aluno>
+          <titulo_trabalho>Metalinguagem para geração e correção automática de avaliações acadêmicas</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Gilson Assunção Rodrigues</nome_aluno>
+          <titulo_trabalho>Proposta de melhoria do processo de gerenciamento de incidentes baseado na abordagem ITIL: Um estudo de caso em uma empresa de grande porte do ramo varejista</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Victor Henrique Bernardo do Nascimento</nome_aluno>
+          <titulo_trabalho>Um estudo de caso sobre virtualização de estações de trabalho em ambiente corporativo</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Sandra Maria Pereira</nome_aluno>
+          <titulo_trabalho>Proposta de arquitetura de informação para a distribuição de conteúdo interativo do Sistema Brasileiro de Televisão Digital Terrestre - SBTVD-T</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Ciência da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Vinícius Soares Pires e Luz</nome_aluno>
+          <titulo_trabalho>Modelagem do fluxo de informação para melhoria do processo de integração em uma indústria farmacêutica: um estudo de caso</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Engenharia de Produção) - Faculdade de Engenharia de Agrimensura de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Natália de Fátima Fernandes Silva</nome_aluno>
+          <titulo_trabalho>Caracterização de problemas de comunicação da rede social RDEIN-BH</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Ciência da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Eduardo Gambogi Cardoso</nome_aluno>
+          <titulo_trabalho>Proposta de modelagem de um banco de dados para análise de rede social</titulo_trabalho>
+          <ano>2006</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Márcio Teixeira Miranda</nome_aluno>
+          <titulo_trabalho>Migração automática de dados entre uma base de dados de Survey on-line e uma base de dados para Análise de Rede Social</titulo_trabalho>
+          <ano>2006</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Irleu Baldini das Neves</nome_aluno>
+          <titulo_trabalho>Automatização de carga de dados em banco de dados para análise de rede social: Uma proposta de utilização da API do Google</titulo_trabalho>
+          <ano>2006</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Juliana Maria Ribeiro</nome_aluno>
+          <titulo_trabalho>Impactos decorrentes da portabilidade de um Sistema de Informação para diferentes Sistemas Gerenciadores de Bancos de Dados Relacionais: o caso do Group Software</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Glayce Kelen Horta</nome_aluno>
+          <titulo_trabalho>Estudo comparatório entre modelos de dados multidimensionais e modelos de dados relacionais</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Rodrigo Bessa Sze</nome_aluno>
+          <titulo_trabalho>Um sistema para auxílio ao aprendizado de álgebra relacional</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Daniel Mourão Felizardo</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de uma proposta de ontologia para o problema de representações geográficas</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Samuel Gontijo</nome_aluno>
+          <titulo_trabalho>Uso de ontologia para a definição de um histórico escolar</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_concluido>
+    <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Adriane de Jesus Miranda Gomes</nome_aluno>
+          <titulo_trabalho>Abordagem supervisionada para identificação de mensagens maliciosas em chats SMS</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Claudinei Gomes Mendes</nome_aluno>
+          <titulo_trabalho>Explorando evidências semânticas de entidades em recuperação de informação</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_concluido>
+    <participacao_evento>
+        <evento>
+          <titulo>Simpósio Brasileiro de Multimidia e Web (WebMedia).Membro de Comitê de Programa. 2017. (Simpósio).</titulo>
+          <ano>2017</ano>
+        </evento>
+        <evento>
+          <titulo>IADIS International Conference on WWW/INTERNET (ICWI). ConnectCity: a collaborative e-government approach to report city incidents. 2016. (Congresso).</titulo>
+          <ano>2016</ano>
+        </evento>
+        <evento>
+          <titulo>Simpósio Brasileiro de Multimidia e Web (WebMedia).Membro de Comitê de Programa. 2016. (Simpósio).</titulo>
+          <ano>2016</ano>
+        </evento>
+        <evento>
+          <titulo>International Symposium on String Processing and Information Retrieval (SPIRE).Assessing the Efficiency of Suffix Stripping Approaches for Portuguese Stemming. 2015. (Simpósio).</titulo>
+          <ano>2015</ano>
+        </evento>
+        <evento>
+          <titulo>IV International Workshop Innovation and Clusters. 2014. (Seminário).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>6th Alberto Mendelzon International Workshop on Foundations of Data Management.Explointing Entity Semantics for Query Expansion. 2012. (Oficina).</titulo>
+          <ano>2012</ano>
+        </evento>
+        <evento>
+          <titulo>3o. Workshop de Pesquisa do Instituto Nacional de Ciência e Tecnologia para Web (INWEB2011).Exploiting entity semantics for query expansion. 2011. (Oficina).</titulo>
+          <ano>2011</ano>
+        </evento>
+        <evento>
+          <titulo>IADIS International Conference Applied Computing 2011 (AC2011). Minimal perfect hashing and bloom filters made practical. 2011. (Congresso).</titulo>
+          <ano>2011</ano>
+        </evento>
+        <evento>
+          <titulo>IADIS International Conference WWW/INTERNET 2011 (ICWI2011). Exploiting entity semantics for query expansion. 2011. (Congresso).</titulo>
+          <ano>2011</ano>
+        </evento>
+        <evento>
+          <titulo>International Symposium on String Processing and Information Retrieval (SPIRE).A Self-Supervised Approach for Extraction of Attribute-Value Pairs from Wikipedia Articles. 2010. (Simpósio).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>XI Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2010). Uma abordagem baseada em métricas de redes complexas para o estabelecimento do grau de influência de termos de documentos. 2010. (Congresso).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>1o. Workshop de Pesquisa do Instituto Nacional de Ciência e Tecnologia para Web (INWEB2009). 2009. (Oficina).</titulo>
+          <ano>2009</ano>
+        </evento>
+        <evento>
+          <titulo>I Colóquio Mediações e Usos de Saberes e da Informação (REDEMUSSI2008).Produtividade científica em programas de pós-graduação em ciência da informação no Brasil e nos EUA. 2008. (Outra).</titulo>
+          <ano>2008</ano>
+        </evento>
+        <evento>
+          <titulo>V Semana da Informática.Google cluster: arquitetura e componentes. 2008. (Encontro).</titulo>
+          <ano>2008</ano>
+        </evento>
+        <evento>
+          <titulo>VII Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2006).Redes de co-autoria dos professores da ciência da informação: um retrato da colaboração científica dessa disciplina no Brasil. 2006. (Encontro).</titulo>
+          <ano>2006</ano>
+        </evento>
+        <evento>
+          <titulo>Gestão do Conhecimento para a Área Jurídica (IBC2005).Gestão do conhecimento em organizações brasileiras. 2005. (Encontro).</titulo>
+          <ano>2005</ano>
+        </evento>
+        <evento>
+          <titulo>VI Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2005).Proposta para um esquema de classificação das fontes de informação para negócio. 2005. (Encontro).</titulo>
+          <ano>2005</ano>
+        </evento>
+        <evento>
+          <titulo>V Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM2004). Informação e cooperação nas comunidades de desenvolvimento de software livre: um panorama do cenário brasileiro. 2004. (Congresso).</titulo>
+          <ano>2004</ano>
+        </evento>
+        <evento>
+          <titulo>2º Congresso Brasileiro de Gestão do Conhecimento (KMBRASIL2003). Gestão do conhecimento: um estudo sobre empresas do setor de informática em Minas Gerais. 2003. (Congresso).</titulo>
+          <ano>2003</ano>
+        </evento>
+        <evento>
+          <titulo>II Encontro sobre Bibliotecas Digitais. 2003. (Encontro).</titulo>
+          <ano>2003</ano>
+        </evento>
+    </participacao_evento>
+    <organizacao_evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo>I Ciclo de Seminários NETIC</titulo>
+          <natureza>Outro</natureza>
+          <ano>2004</ano>
+        </evento>
+        <evento>
+          <titulo>II Ciclo de Seminários NETIC</titulo>
+          <natureza>Outro</natureza>
+          <ano>2004</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+    </organizacao_evento>
+  </pesquisador>
+</curriculo_lattes>

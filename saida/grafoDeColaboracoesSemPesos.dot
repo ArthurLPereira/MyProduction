@@ -1,0 +1,18 @@
+strict graph grafo1 {
+	graph [bb="1.4211e-14,1.7764e-15,203,21",
+		id=grafo1,
+		overlap=False
+	];
+	node [fontsize=12,
+		label="\N",
+		shape=rectangle,
+		style=filled
+	];
+	0	 [URL="membro-4935788335854516.html",
+		color="#0A6EA4",
+		fontcolor="#FFFFFF",
+		height=0.29167,
+		label="Wladmir Cardoso Brandão [0]",
+		pos="101.5,10.5",
+		width=2.8194];
+}

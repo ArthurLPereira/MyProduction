@@ -1,0 +1,191 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Pesquisadores</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Pesquisadores</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Total de prêmios e títulos'}, 
+series: [{data: [[2002,
+1],
+[2003,
+1],
+[2013,
+1],
+[2014,
+4],
+[2015,
+2],
+[2016,
+2],
+[2017,
+4]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Total de prêmios e títulos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 15<br>
+                    
+                    
+                    <div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Melhor artigo de estudante na área de Banco de Dados e Integração de Sistemas de Informação na 19th International Conference on Enterprise Information Systems (ICEIS 2017), Institute for Systems and Technologies of Information, Control and Communication (INSTICC).. 2017.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Melhor trabalho da área de Ciências Exatas e da Terra no 25o. Seminário de Iniciação Científica, Pontifícia Universidade Católica de Minas Gerais (PUC Minas).. 2017.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 1o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2017.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 2o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2017.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Paraninfo da Turma Formada no 1o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2016.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Patrono da Turma Formada no 2o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2016.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Patrono da Turma Formada no 2o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2015.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 1o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2015.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Microsoft Azure Research Award, Microsoft.. 2014.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Patrono da Turma Formada no 1o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2014.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Patrono da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2014.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2014.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 2o. Período de 2013 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.. 2013.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2003"><h3 class="year">2003</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Professor Homenageado da Turma Formada no 2o. Período de 2003 no Curso de Ciência da Computação, Pontifícia Universidade Católica de Minas Gerais.. 2003.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div><div id="dv-year-2002"><h3 class="year">2002</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Microsoft Certified Professional, Microsoft.. 2002.<br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandão</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2000 até 2017
+<br>Data de processamento: 20/11/2018 02:00:20<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              

@@ -1,0 +1,1692 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML lang="pt-BR">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript" src="/buscatextual/ruxitagentjs_2bnr_0.js" data-dtconfig="reportUrl=/dynaTraceMonitor|bandwidth=300|agentUri=/buscatextual/ruxitagentjs_2bnr_0.js|rid=RID_1810802124|rpid=-2023319922|domain=cnpq.br"></script><link href="images/v2/fav_ico_lattes.ico" rel="Shortcut Icon">
+<meta content="Sistema de Curr&iacute;culos Lattes 2.0 (CNPq)" http-equiv="generator">
+<meta content="curr&iacute;culo,curriculo,curriculum,cv,vitae,lattes,produ&ccedil;&atilde;o,producao,cient&iacute;fica,cientifica,Brasil" http-equiv="keywords">
+<TITLE>Curr&iacute;culo do Sistema de Curr&iacute;culos Lattes (Theldo Cruz Franqueira)</TITLE>
+<link type="text/css" rel="stylesheet" href="css/import.css">
+<link type="text/css" href="css/tablet-mobile.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="css/jquery.megamenu.css">
+<link type="text/css" rel="stylesheet" href="css/style_curiculo.css">
+<link type="text/css" rel="stylesheet" href="css/v2/espelho.css">
+<link type="text/css" rel="stylesheet" href="css/impressao.css">
+<script type="text/javascript" src="js/v2/jquery.min.js"></script><script src="js/jquery.cookie.js" type="text/javascript"></script><script src="js/acessibilidade.js" type="text/javascript"></script><script type="text/javascript" src="js/v2/tooltip-position.js"></script><script type="text/javascript" src="js/v2/jquery.tipsy.js"></script><script type="text/javascript" src="js/v2/jquery.megamenu.js"></script><script type="text/javascript" src="js/v2/byOrder.js"></script><script type="text/javascript" src="js/v2/font-size.js"></script><script type="text/javascript" src="js/v2/cv_citacoes.js"></script><script type="text/javascript" src="js/v2/hint_ajax.js"></script><script type="text/javascript" src="js/v2/menuFlowScroll.js"></script><script type="text/javascript" src="js/v2/videoUtils.js"></script><script type="text/javascript">
+			
+			var menu = {
+				iniciar: function(id) {
+					jkmegamenu.definemenu("ancora-menu-" + id, "menu-" + id, "focus");
+				}
+			};
+			
+			function abreLinkHistoricoPublicacoes(codigo,nome){
+            	var j = window.open("historicoAtualizacao.jsp?id="+codigo+"&nome="+nome+"&fromBusca=1", "historico","resizable=no,menubar=no,toolbar=no,status=yes,scrollbars=yes,width=550px,height=470px,left=0,top=0");
+            	if(j){
+            		j.focus();
+            	} else {
+            		alert('Por favor, desabilite o bloqueador de popups');
+            	}
+			}
+			
+			var autores = {
+				exibir: function() {
+					$(this).hide().parent().find(".autores-et-al").show();
+				},
+				ocultar: function() {
+					$(this).parent().hide().parent().find(".autores-et-al-plus").show();
+				}
+			};
+				
+			$(document).ready(function(){
+			
+				$(".ajaxJCR").ajaxJCR();
+				
+				$(".ajaxCAPES").ajaxCAPES();
+				
+				$(".ajaxINPI").ajaxINPI();
+				
+				$("div.citacoes").verificarCitacoes();
+				
+				$(".tooltip").tipsy({gravity: 's'});
+				
+				$(".autores-et-al-plus").click(autores.exibir);
+				
+				$(".autores-et-al-minus").click(autores.ocultar);
+        			
+      		});			  
+      		
+      		                                
+		
+	</script><script type="text/javascript">
+					
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-35652740-1']);
+					  _gaq.push(['_trackPageview']);
+					
+					  (function() {
+					    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+					
+					</script>
+</HEAD>
+<BODY>
+<div class="page min-width">
+<div class="header">
+<div class="header-content max-width">
+<div class="identity center">
+<div class="combo">
+<h1 class="escondido"> Curr&iacute;culo Lattes - Busca Textual - Visualiza&ccedil;&atilde;o do Curr&iacute;culo </h1>
+<a href="http://lattes.cnpq.br/" title="Curr&iacute;culo Lattes" target="_blank"><img title="Curr&iacute;culo Lattes" alt="Curr&iacute;culo Lattes" src="images/titulo-sistema.png"></a>
+</div>
+<div class="menu-header">
+<span class="tituloFlow"></span><span class="linksFlow"><a title="Imprimir curr&iacute;culo" class="bt-menu-header titBottom  icons-top icons-top-print" href="javascript:window.print()"></a><a title="Aumentar a fonte" class="bt-menu-header titBottom fontMais icons-top icons-top-fontMais" href="javascript:void(0)"></a><a title="Fonte padr&atilde;o" class="bt-menu-header titBottom fontMenos icons-top icons-top-fontMenos" href="javascript:void(0)"></a><a title="Alto contraste" class="bt-menu-header titBottom contraste icons-top icons-top-contraste-en" href="javascript:void(0)"></a><a href="download.do?metodo=apresentar&amp;idcnpq=3356241223151750" target="_blank" class="bt-menu-header titBottom fontMenos icons-top icons-top-xml" title="Baixar Currículo em XML" /><a title="Ajuda" class="bt-menu-header titBottom icons-top icons-top-help" target="_blank" href="http://ajuda.cnpq.br/index.php"></a></span>
+</div>
+<div class="logo">
+<a target="_blank" href="http://cnpq.br/">
+<h2>CNPq - Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-wrapper">
+<div class="center navigation-wrapper-line">
+<div class="menuPrincipal">
+<div class="menuCtl menuAcesso">
+<div class="menucent"><script type='text/javascript'>menu.iniciar("dados-gerais");</script>
+		
+		
+		<a id="ancora-menu-dados-gerais" href="javascript:void(0)" class="acessibilidade"><span></span>Dados gerais</a>
+		
+	
+		
+		
+		<div id="menu-dados-gerais" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#Identificacao">Identificação</a></li>
+		
+	
+		
+		
+		<li><a href="#Endereco">Endereço</a></li>
+		
+	
+		
+		
+		<li><a href="#Idiomas">Idiomas</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("formacao");</script>
+		
+		
+		<a id="ancora-menu-formacao" href="javascript:void(0)" class="acessibilidade separador"><span></span>Formação</a>
+		
+	
+		
+		
+		<div id="menu-formacao" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#FormacaoAcademicaTitulacao">Formação acadêmica/titulação</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("atuacao");</script>
+		
+		
+		<a id="ancora-menu-atuacao" href="javascript:void(0)" class="acessibilidade separador"><span></span>Atuação</a>
+		
+	
+		
+		
+		<div id="menu-atuacao" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#AtuacaoProfissional">Atuação profissional</a></li>
+		
+	
+		
+		
+		<li><a href="#MembroCorpoEditorial">Membro de corpo editorial</a></li>
+		
+	
+		
+		
+		<li><a href="#AreasAtuacao">Áreas de atuação</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	
+		
+		
+		<a id="ancora-menu-projetos" href="#ProjetosPesquisa" class="acessibilidade separador"><span></span>Projetos</a>
+		
+	<script type='text/javascript'>menu.iniciar("projetos");</script>
+		
+		
+		<div id="menu-projetos" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#ProjetosExtensao">Projetos de extensão</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("producoes");</script>
+		
+		
+		<a id="ancora-menu-producoes" href="#ProducoesCientificas" class="acessibilidade separador"><span></span>Produções</a>
+		
+	
+		
+		
+		<div id="menu-producoes" class="megamenu">
+		
+		<div class='column'><div class='subtitMenu'><a href='#ProducaoBibliografica'>Produção Bibliográfica</a></div><h3></h3><ul>
+		
+		
+		<li><a href="#ArtigosCompletos">Artigos completos publicados em periódicos</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtigosAceitos">Artigos aceitos para publicação</a></li>
+		
+	
+		
+		
+		<li><a href="#LivrosCapitulos">Livros e capítulos</a></li>
+		
+	
+		
+		
+		<li><a href="#TextosJornaisRevistas">Textos em jornais ou revistas (magazine)</a></li>
+		
+	
+		
+		
+		<li><a href="#TrabalhosPublicadosAnaisCongresso">Trabalhos publicados em anais de congressos</a></li>
+		
+	
+		
+		
+		<li><a href="#ApresentacaoTrabalho">Apresentações de trabalho</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas">Partitura musical</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas">Tradução</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas">Prefácio, pósfacio</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas">Outras produções bibliográficas</a></li>
+		
+	</ul></div><div class='column'><div class='subtitMenu'><a href='#ProducaoTecnica'>Produção Técnica</a></div><h3></h3><ul>
+		
+		
+		<li><a href="#AssessoriaConsultoria">Assessoria e consultoria</a></li>
+		
+	
+		
+		
+		<li><a href="#SoftwareSemPatente">Programas de computador sem registro</a></li>
+		
+	
+		
+		
+		<li><a href="#ProdutosTecnologicos">Produtos tecnológicos</a></li>
+		
+	
+		
+		
+		<li><a href="#ProcessosTecnicas">Processos e técnicas</a></li>
+		
+	
+		
+		
+		<li><a href="#TrabalhosTecnicos">Trabalhos técnicos</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Cartas, mapas ou similares</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Curso de curta duração ministrado</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Desenvolvimento de material didático ou instrucional</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Editoração</a></li>
+		
+	
+		
+		
+		<li><a href="#ManutencaoObraArtistica">Manutenção de obra artística</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Maquete</a></li>
+		
+	
+		
+		
+		<li><a href="#EntrevistasMesasRedondas">Entrevistas, mesas redondas, programas e comentários na mídia</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica">Relatório de pesquisa</a></li>
+		
+	
+		
+		
+		<li><a href="#RedesSociais">Redes sociais, websites e blogs</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducoesTecnicas">Outras produções técnicas</a></li>
+		
+	</ul></div><div class='column'><div class='subtitMenu'><a href='#ProducaoArtisticaCultural'>Produção Artística/Cultural</a></div><h3></h3><ul>
+		
+		
+		<li><a href="#ArtesCenicas">Artes cênicas</a></li>
+		
+	
+		
+		
+		<li><a href="#Musica">Música</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtesVisuais">Artes visuais</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesArtisticas">Outras produções artísticas/culturais</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("eventos");</script>
+		
+		
+		<a id="ancora-menu-eventos" href="#Eventos" class="acessibilidade separador"><span></span>Eventos</a>
+		
+	
+		
+		
+		<div id="menu-eventos" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#ParticipacaoEventos">Participação em eventos, congressos, exposições e feiras</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("orientacoes");</script>
+		
+		
+		<a id="ancora-menu-orientacoes" href="#Orientacoes" class="acessibilidade separador"><span></span>Orientações</a>
+		
+	
+		
+		
+		<div id="menu-orientacoes" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#Orientacoesconcluidas">Orientações e supervisões concluídas</a></li>
+		
+	
+		
+		
+		<li><a href="#Orientacaoemandamento">Orientações e supervisões em andamento</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("bancas");</script>
+		
+		
+		<a id="ancora-menu-bancas" href="#Bancas" class="acessibilidade separador"><span></span>Bancas</a>
+		
+	
+		
+		
+		<div id="menu-bancas" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="#ParticipacaoBancasTrabalho">Participação em bancas de trabalhos de conclusão</a></li>
+		
+	
+		
+		
+		<li><a href="#ParticipacaoBancasComissoes">Participação em bancas de comissões julgadoras</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	<script type='text/javascript'>menu.iniciar("informacoes-complementares");</script>
+		
+		
+		<a id="ancora-menu-informacoes-complementares" href="javascript:void(0)" class="acessibilidade separador"><span></span>+</a>
+		
+	
+		
+		
+		<div id="menu-informacoes-complementares" class="megamenu">
+		
+		<div class='column'><h3></h3><ul>
+		
+		
+		<li><a href="visualizacv.do?metodo=apresentar&id=K4787039Y6&tipo=completo&idiomaExibicao=1">Mostrar informações complementares</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div>
+		
+	</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="main-content max-width min-width center">
+<div class="layout-cell layout-cell-12">
+<div class="layout-cell-pad-main">
+<img class="foto" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4787039Y6"><div class="infpessoa">
+<h2 class="nome">Theldo Cruz Franqueira</h2>
+<ul class="informacoes-autor">
+<li>
+<span class="img_link icone-informacao-autor"></span>Endere&ccedil;o para acessar este CV: http://lattes.cnpq.br/3356241223151750</li>
+<li>
+<span class="img_cert icone-informacao-autor"></span>&Uacute;ltima atualiza&ccedil;&atilde;o do curr&iacute;culo em 26/03/2015</li>
+</ul>
+</div><br class="clear" /><div class="title-wrapper">
+<h1 class="ui-hidden"></h1>
+<hr class="separator">
+<p class="resumo">Possui gradua&ccedil;&atilde;o pela Universidade Federal de Minas Gerais(1983), gradua&ccedil;&atilde;o  em Engenharia Mec&acirc;nica pela Pontif&iacute;cia Universidade Cat&oacute;lica de Minas Gerais(1983), gradua&ccedil;&atilde;o  em Engenharia El&eacute;trica pela Pontif&iacute;cia Universidade Cat&oacute;lica de Minas Gerais(1993), especializa&ccedil;&atilde;o  em Especializa&ccedil;&atilde;o em Ci&ecirc;ncia da Computa&ccedil;&atilde;o pela Universidade Federal de Minas Gerais(1985), mestrado em Ci&ecirc;ncias da Computa&ccedil;&atilde;o pela Universidade Federal de Minas Gerais(1986), mestrado em Engenharia El&eacute;trica pela Universidade Federal de Minas Gerais(1993), doutorado em Comunica&ccedil;&atilde;o pela Universidade Federal do Rio de Janeiro(2002) e doutorado em Ci&ecirc;ncias da Informa&ccedil;&atilde;o pela Universidade Federal de Minas Gerais(2004). Atualmente &eacute; PROFESSOR do Centro Federal de Educa&ccedil;&atilde;o Tecnol&oacute;gica de Minas Gerais, PROFESSOR da Pontif&iacute;cia Universidade Cat&oacute;lica de Minas Gerais e Membro de corpo editorial da Abak&oacute;s. Tem experi&ecirc;ncia na &aacute;rea de Ci&ecirc;ncia da Computa&ccedil;&atilde;o, com &ecirc;nfase em Teoria da Computa&ccedil;&atilde;o. Atuando principalmente nos seguintes temas:rob&oacute;tica. <span style="font-weight: bold" class="texto"> (Texto gerado automaticamente pela aplica&ccedil;&atilde;o CVLattes)</span>
+</p>
+</div><br class="clear" /><div class="title-wrapper">
+<a name="Identificacao">
+<h1>Identifica&ccedil;&atilde;o</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Nome</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Theldo Cruz Franqueira</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Nome em citações bibliográficas</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">FRANQUEIRA, T. C.</div>
+</div>
+</div>
+</div><br class="clear" /><div class="title-wrapper">
+<a name="Endereco">
+<h1>Endere&ccedil;o</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Endereço Profissional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Pontifícia Universidade Católica de Minas Gerais, Instituto de Informática. <br class="clear" />Av. Dom José Gaspar 500 - Pr.34<br class="clear" />Coração Eucarístico<br class="clear" />30535-610 - Belo Horizonte, MG - Brasil<br class="clear" />Telefone: (31) 33194117<br class="clear" />Fax: (31) 33194002</div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="FormacaoAcademicaTitulacao">
+<h1>Forma&ccedil;&atilde;o acad&ecirc;mica/titula&ccedil;&atilde;o</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2000 - 2004</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Doutorado em Ciências da Informação<span class="ajaxCAPES" data-param="&codigoCurso=32001010028P2&nivelCurso=D"></span>. <br class="clear" />Universidade Federal de Minas Gerais, UFMG, Brasil.
+		
+	<br class="clear" />Título: Sobrecarga informacional e colaboração em um ambiente educacional em rede, Ano de obtenção: 2005. <br class="clear" />Orientador: <a class='icone-lattes' target='_blank' href='http://lattes.cnpq.br/6523065261260011'><img src='images/curriculo/logolattes.gif' /></a>Ricardo Rodrigues Barbosa. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1998 - 2002</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Doutorado em Comunicação<span class="ajaxCAPES" data-param="&codigoCurso=31001017064P6&nivelCurso=D"></span>. <br class="clear" />Universidade Federal do Rio de Janeiro, UFRJ, Brasil.
+		
+	<br class="clear" />Título: Estudo exploratório da colaboração em um ecossistema comunicativo em rede para fins educacionais, Ano de obtenção: 2003. <br class="clear" />Orientador: Francisco Antônio Dória. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1990 - 1993</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Mestrado em Engenharia Elétrica<span class="ajaxCAPES" data-param="&codigoCurso=32001010015P8&nivelCurso=M"></span>. <br class="clear" />Universidade Federal de Minas Gerais, UFMG, Brasil.
+		
+	<br class="clear" />Título: Um estudo sobre quatérnios e sua aplicação em robótica,Ano de Obtenção: 1993.<br class="clear" />Orientador: <a class='icone-lattes' target='_blank' href='http://lattes.cnpq.br/2382263038082874'><img src='images/curriculo/logolattes.gif' /></a>José Maria Galvez.<br class="clear" />Palavras-chave: robótica.</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1983 - 1986</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Mestrado em Ciências da Computação<span class="ajaxCAPES" data-param="&codigoCurso=32001010004P6&nivelCurso=M"></span>. <br class="clear" />Universidade Federal de Minas Gerais, UFMG, Brasil.
+		
+	<br class="clear" />Título: Ferramenta para auxílio ao projeto de sistemas de controle,Ano de Obtenção: 1986.<br class="clear" />Orientador: Newton Alberto de Castilho Lages.<br class="clear" />Palavras-chave: cálculo numérico; sistemas de controle; sistemas digitais.<br class="clear" />Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1983 - 1985</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Especialização em Especialização em Ciência da Computação<span class="ajaxCAPES" data-param="&codigoCurso=&nivelCurso="></span>. <br class="clear" />Universidade Federal de Minas Gerais, UFMG, Brasil.
+		
+	<br class="clear" />Título: Ferramenta para auxílio ao projeto de sistemas de controle. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1990 - 1993</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Graduação em Engenharia Elétrica<span class="ajaxCAPES" data-param="&codigoCurso=&nivelCurso="></span>. <br class="clear" />Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.
+		
+	</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1979 - 1983</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Graduação<span class="ajaxCAPES" data-param="&codigoCurso=&nivelCurso="></span>. <br class="clear" />Universidade Federal de Minas Gerais, UFMG, Brasil.
+		
+	</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1979 - 1983</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Graduação em Engenharia Mecânica<span class="ajaxCAPES" data-param="&codigoCurso=&nivelCurso="></span>. <br class="clear" />Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.
+		
+	</div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<div class="layout-cell layout-cell-12 data-cell"></div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="AtuacaoProfissional">
+<h1>Atua&ccedil;&atilde;o Profissional</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><br class="clear" /><div class="inst_back">
+<b>Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil.
+		
+	</b>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Atividades</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1989 - 12/1989</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Informática, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />LINGUAGENS DE PROGRAMACAO.<br class="clear" /></div>
+</div><br class="clear" /><div class="inst_back">
+<b>Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.
+		
+	</b>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Atividades</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1992 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Engenharia Mecânica - ênfase Mecatrônica, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Técnicas de Programação para Engenharia<br class="clear" />Introdução à Computação para Engenharia<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1986 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Ciência da Computação, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Inglês Técnico para Computação<br class="clear" />Seminários I<br class="clear" />Algoritmos e Estruturas de Dados I e II<br class="clear" />Algoritmos e Técnicas de Programação I, II e III<br class="clear" />Algoritmos Recursivos<br class="clear" />Introdução aos Sistemas Lógicos<br class="clear" />Linguagens de Programação<br class="clear" />Programação de Computadores<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1986 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Engenharia Eletrônica e de Telecomunicações, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Programação de Computadores<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1985 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Engenharia Mecânica, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Programação Científica<br class="clear" />Iniciação à Ciência da Computação<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1984 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Engenharia Elétrica, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Programação Científica<br class="clear" />Programação de Computadores<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2004 - 07/2004</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Física, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Ferramentas Computacionais<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/1991 - 12/1994</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, Arquitetura, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear" /></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear" />Programação de Computadores para Arquitetura<br class="clear" /></div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="ProjetosExtensao">
+<h1>Projetos de extens&atilde;o</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><a name='PP_Reciclagem, montagem e manuten&ccedil;&atilde;o de equipamentos de computa&ccedil;&atilde;o para doa&ccedil;&atilde;o de m&aacute;quinas &agrave;s entidades sociais atendidas pelas a&ccedil;&otilde;es de extens&atilde;o da PUC Minas'></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2010 - 2011</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Reciclagem, montagem e manutenção de equipamentos de computação para doação de máquinas às entidades sociais atendidas pelas ações de extensão da PUC Minas<br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Contribuir para a missão assistencial e filantrópica da PUC Minas, por meio do oferecimento às entidades sociais atendidas pelos projetos e ações de extensão da Universidade condições de contar com equipamentos de computação necessários para o desenvolvimento de suas atividades de natureza comunitária e assistencial.. <br class="clear" />Situação: Concluído; Natureza: Extensão. <br class="clear" />Alunos envolvidos: Graduação: (3) . <br class="clear" />Integrantes: Theldo Cruz Franqueira - Coordenador / Carolina Angélica Barbosa Saliba - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="MembroCorpoEditorial">
+<h1>Membro de corpo editorial</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2012 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Periódico: Abakós</div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="AreasAtuacao">
+<h1>&Aacute;reas de atua&ccedil;&atilde;o</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação. <br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação. <br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Engenharias / Área: Engenharia Elétrica / Subárea: Eletrônica Industrial, Sistemas e Controles Eletrônicos. <br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Linguagens de Programação. <br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação. <br class="clear" /></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação. <br class="clear" /></div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="Idiomas">
+<h1>Idiomas</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Inglês</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Espanhol</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Compreende Bem, Fala Razoavelmente, Lê Pouco, Escreve Pouco. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Francês</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco. </div>
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="ProducoesCientificas">
+<h1>Produ&ccedil;&otilde;es</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ProducaoBibliografica"></a><br class="clear" /><div class="inst_back">
+<b>Produção bibliográfica</b>
+</div>
+<a name="Citacoes"></a>
+<div id="artigos-completos"></div>
+<div class="cita-artigos">
+<b><a name="TrabalhosPublicadosAnaisCongresso"></a>Trabalhos completos publicados em anais de congressos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="images/curriculo/ico_relevante.gif" style='icone-relevancia' />
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>; COSTA, J. W. ; ISHITANI, L. ; BRUGGER, G. R. . Um ambiente de apoio ao ensino presencial. In: XXV Congresso da Sociedade Brasileira de Computação, 2005, São Leopoldo/RS. XXV Congresso da Sociedade Brasileira de Computação: A universalidade da computação: Um agente de inovação e conhecimento, 2005, 2005. p. 2363-2370. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>; RIBAS, C. B. ; BRUGGER, G. R. ; COSTA, J. W. . Ambientes de Aprendizagem e o Processo de Conhecimento. In: Seminário Nacional de Tecnologia para EAD, 2002, 2002, Uberlândia/MG. Seminário Nacional de Tecnologia para EAD, 2002, 2002. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Projeto do site acadêmico do DCC-PUC-Minas. In: VI Congresso Internacional de Educação à Distância, 2000, Rio de Janeiro. Projeto do site acadêmico do DCC-PUC-Minas, 2000. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="images/curriculo/ico_relevante.gif" style='icone-relevancia' />
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Avaliação de algoritmos paralelos para a aplicação de quatérnios em robótica. In: XV CILAMCE, 1994, Belo Horizonte. Anais do XV CILAMCE. Belo Horizonte: UFMG, 1994. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Um estudo sobre quatérnios e sua aplicação em robótica. In: I Simpósio Brasileiro de Automação Inteligente, 1993, Rio Claro/SP. Anais do I Simpósio Brasileiro de Automação Inteligente. Rio Claro/SP: UNESP, 1993. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Ferramenta para auxílio ao projeto de sistemas de controle. In: IV Encontro Regional de Matemática Aplicada e Computacional, 1987, Belo Horizonte. Anais do IV Encontro Regional de Matemática Aplicada e Computacional, 1987. p. 19-34. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="TrabalhosPublicadosAnaisCongresso"></a>Resumos expandidos publicados em anais de congressos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>; PAIM, I ; COSTA, J. W. ; MOREIRA, M. . Projeto de curso de informática em educação a distância. In: VI Congresso Internacional de Educação a Distância, 1999. VI Congresso Internacional de Educação a Distância, 1999. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="OutrasProducoesBibliograficas"></a>Outras produções bibliográficas</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. FAST BASIC : Beyond TRS-80 BASIC, 1982. (Tradução/Livro). </div>
+</div>
+<br class="clear">
+<a name="ProducaoTecnica"></a><br class="clear" /><div class="inst_back">
+<b>Produção técnica</b>
+</div>
+<div class="cita-artigos">
+<b><a name="TrabalhosTecnicos"></a>Trabalhos técnicos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Avaliação de algoritmos paralelos para a aplicação de quatérnios em robótica. 1994. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Estudo e projeto de um posicionador cartesiano industrial - Fase II - &#61623; Relatório Final do Projeto de Pesquisa  (PUC-MG FIP #26/92). 1993. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Estudo e projeto de um posicionador cartesiano industrial - Fase I - Relatório Final do Projeto de Pesquisa  (PUC-MG FIP #46/91). 1992. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Pacote de rotinas de Cálculo Numérico, incluindo resumo de métodos e programas implementados em linguagem FORTRAN para integração. 1983. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Pacote de rotinas de Cálculo Numérico, incluindo resumo de métodos e programas implementados em linguagem  FORTRAN para resolução de sistemas lineares. 1983. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Pacote de rotinas de Cálculo Numérico, incluindo resumo de métodos e programas implementados em linguagem  FORTRAN para  resolução de equações algébricas e transcendentes. 1983. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Pacote de rotinas de Cálculo Numérico, incluindo resumo de métodos e programas implementados em linguagem  FORTRAN para interpolação. 1983. </div>
+</div>
+<br class="clear">
+<a name="DemaisProducaoTecnica"></a><br class="clear" /><div class="inst_back">
+<b>Demais tipos de produção técnica</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="images/curriculo/ico_relevante.gif" style='icone-relevancia' />
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Fundamentos de Programação.
+							2006. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Algoritmos Recursivos.
+							2006. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Introdução aos Sistemas Lógicos.
+							2006. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="images/curriculo/ico_relevante.gif" style='icone-relevancia' />
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Algoritmos e Estruturas de Dados I.
+							2004. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Algoritmos e Técnicas de Programação II.
+							2002. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Algoritmos e Técnicas de Programação I.
+							1998. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Programação de Computadores.
+							1994. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/3356241223151750" target="_blank">FRANQUEIRA, T. C.</a></b>. Linguagens de Programação.
+							1992. (Desenvolvimento de material didático ou instrucional - Material didático). </div>
+</div>
+<br class="clear">
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="Bancas">
+<h1>Bancas</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ParticipacaoBancasTrabalho"></a><br class="clear" /><div class="inst_back">
+<b>Participação em bancas de trabalhos de conclusão</b>
+</div>
+<div class="cita-artigos">
+<b>Trabalhos de conclusão de curso de graduação</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; MINI, R. F.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Matheus Lincoln Martins Pereira.Otimização de Teclados Virtuais Utilizando Algoritmo Genético.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; ADRIANO, J. S.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Paola Sossai Aguiar.Quantificação semiautomática de expressão de células cancerígenas em lâminas de câncer do colo do útero colorizadas através de imunohistoquímica.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; MINI, R. F.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Thiago Melo Machado.Solving Constrained Engineering Optimization Problems with a Hybrid PSO using SIVIA.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; NOBRE, C. N.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Tiago Moreira Hübner Cançado Santana.Reconhecimento de faces com variação de iluminação baseado em simetria facial.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">NOBRE, C. N.; MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Kássia Caroline da Silva.Avaliação de emoções de idosos ao jogarem jogos para smartphones.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MOTA, R. R.; BIRCHAL, M. A. S.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Pedro Ferraz de Azevedo Marques.Solução tecnológica para o ensino de música nas escolas de educação infantil e ensino fundamental.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">RIBEIRO, A. I. J. T.; MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Caio Eduardo Ribeiro.Desenvolvimento de uma plataforma de inteligência de negócios para comissões de avaliação de universidade.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">RIBEIRO, A. I. J. T.; MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Fabrício Rodrigues de Souza.Simulação e análise de redes LTE/LTE-ADVANCED.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">RIBEIRO, A. I. J. T.; MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Mariana Ramos de Brito.Análise de congestionamento em redes veiculares.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>10. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; ZUIM, R. L.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Francismar Benevides Riccio Machado.Sistema de computação embutido para automação de ambientes.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>11. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; ZUIM, R. L.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Gustavo Pereira Dias.Ambiente Web para acesso a Laboratório de Robótica com Lego Mindstorms.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MOTA, R. R.; SONG, M. A. J.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Gabriel Borges Ruas.Ferramenta para gerenciamento de Sprint utilizando o EPF Composer.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>13. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MOTA, R. R.; SONG, M. A. J.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Matheus Miranda de Queiroz.Comparação de métodos para detecção de variação em área de pupilas com implementações em CPU e GPU.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>14. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">PATROCINIO JUNIOR, Z. C. G.; FIGUEIREDO, F. L. P. D.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Stepheson Alves de Oliveira.Isomorfismo de grafos de descritores locais para identificação de imagens.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>15. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">PATROCINIO JUNIOR, Z. C. G.; PIETROBON, C. A. M.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Yuri Hoffmann Ribeiro.Análise Comparativa de Estruturas Métricas para Indexação e Recuperação de Imagens Usando Descritores Globais.
+							2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>16. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">FREITAS, H. C.; ZUIM, R. L.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Ronan Natalízio Barbosa.Estudo de viabilidade de paralelização e otimização do algoritmo de Viterbi para reconhecimento de voz usando a API SphinxPocket.
+							2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>17. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">SILVA, J. P. D.; RIBEIRO, A. I. J. T.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Pedro Galvão de Oliveira Silva.Resolução de perguntas por meio de Processamento da Linguagem Natural e Extração de Informação.
+							2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>18. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, M. V.; SOUZA, M. R. S.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Filipe Ronan Domingues Braz.Marketing Digital em Shoppings por meio de tecnologia Bluetooth.
+							2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>19. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, M. V.; SILVA, J. P. D.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Davidson Raphael Oliveira Guimarães.Compreensão da Web Brasileira a partir do Mapeamento Topológico do Domínio .gov.br.
+							2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>20. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; MINI, R. F.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Diego Luiz Siqueira.Rastreamento e classificação de veículos em rodovias através de técnicas de visão computacional.
+							2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>21. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">FIGUEIREDO, F. L. P. D.; BIRCHAL, M. A. S.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Rafael Sander Nogueira.Simulação e Análise de Redes Integradas UMTS-WiMax.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>22. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MOTA, R. R.; SANTOS, C. J.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Rodrigo Britto Martins.Correção de Distorções Radiais em Fotografias de Câmeras Convencionais Baseada na Transformada de Hough.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>23. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">RIBAS, C. B.; JEUNON, B.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Bernardo Martins Horta.Gestão de Risco   Análise de Risco no Centro de Recursos Computacionais (CRC).
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>24. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">PATROCINIO JUNIOR, Z. C. G.; MACHADO, M. V.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Jonathan Joviano Casagrande Filho.Criação de Quadro de Horário.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>25. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">PATROCINIO JUNIOR, Z. C. G.; MACHADO, M. V.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Luciana dos Santos Belo.Análise de Vocabulário Visual para Recuperação de Informação de Vídeo.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>26. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARQUES NETO, H. T.; BARBOSA, M. A. S.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Pedro Henrique Bragioni Las Casas.Detecção de spammers na rede de origem.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>27. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; CONWAY, J. C. D.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Vagner Dantas Salviano.Avaliação de máquinas virtuais para algoritmos multithread.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>28. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; CONWAY, J. C. D.; <b>FRANQUEIRA, T. C.</b>.  Participação em banca de Vinícius Oliveira e Silva.Avaliação de desempenho do algoritmo de criptografia AES implementado com a API CUDA para computação de propósito geral em processadores gráficos da Nvidia.
+							2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>29. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; <b>FRANQUEIRA, T. C.</b>; ZUIM, R. L..  Participação em banca de Bruno César Campos Silva.Ambiente de Simulação de Computação Química.
+							2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>30. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; <b>FRANQUEIRA, T. C.</b>; ZUIM, R. L..  Participação em banca de Flávio Geraldo Queiroz..PPSEImage   Parallel Problem-Solving Environment dediacado para processamento digital de imagens.
+							2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>31. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">ZUIM, R. L.; <b>FRANQUEIRA, T. C.</b>; MARTINS, C. A. P..  Participação em banca de Cézar da Cunha Barcelos.Computador de bordo automotivo.
+							2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>32. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; <b>FRANQUEIRA, T. C.</b>; ZUIM, R. L..  Participação em banca de Bruno Ferreira Lima.DPPSEImage   Distributed Parallel Problem-Solving Environment Específico para processamento digital de imagens.
+							2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>33. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>; PATROCINIO JUNIOR, Z. C. G..  Participação em banca de Priscila Paula Braga Magalhães.Desenvolvimento de um algoritmo de esqueletização de imagens segmentadas de objetos alongados.
+							2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>34. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>; PATROCINIO JUNIOR, Z. C. G..  Participação em banca de Rodrigo Amaral Falco.Recuperação de imagens baseada em conteúdo utilizando atributos de textura.
+							2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>35. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">OLIVEIRA, R. A. R.; <b>FRANQUEIRA, T. C.</b>; BIRCHAL, M. A. S..  Participação em banca de Bruno de Líbero Hauck Ferreira.Sistema Web para localização de pontos de acesso em ambientes LAN e MAN wireless.
+							2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>36. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MARTINS, C. A. P.; <b>FRANQUEIRA, T. C.</b>; ZUIM, R. L..  Participação em banca de Rafael Porto Rodrigues.Simulador didático do pipeline do MIPS de 32 bits.
+							2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>37. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MELO JUNIOR, F. C.; <b>FRANQUEIRA, T. C.</b>; PIETROBON, C. A. M..  Participação em banca de ndré Furtado Assunção Fonseca.Organização, controle e compartilhamento de arquivos utilizando conceitos de folksonomia e Web 2.0 e o framework Ruby On Rails.
+							2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>38. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">LOPES, T. E. M.; <b>FRANQUEIRA, T. C.</b>; PATROCINIO JUNIOR, Z. C. G..  Participação em banca de Felipe Silva Bichued.Autenticação utilizando compartilhamento de segredo.
+							2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>39. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">MACHADO, A. M. C.; <b>FRANQUEIRA, T. C.</b>; SONG, M. A. J..  Participação em banca de Francisco de Salles Alves Filho.Uma análise evolutiva do método de Wong para inserção e remoção e marcas d água em imagens.
+							2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>40. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">BIRCHAL, M. A. S.; <b>FRANQUEIRA, T. C.</b>; SONG, M. A. J..  Participação em banca de Leonardo Almeida Rocha de Oliveira.Protocolos de rede em tempo real: estudo e avaliação.
+							2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>41. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">BRANDÃO; <b>FRANQUEIRA, T. C.</b>; MOREIRA.  Participação em banca de Samuel de Abreu Mendonça.Uma ferramenta para mapeamento de metadados na arquitetura Open Archives.
+							2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>42. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">BRANDÃO; <b>FRANQUEIRA, T. C.</b>; MOREIRA.  Participação em banca de Mauro Gualter.Implementação de uma ferramenta para geração de código Java Estruturado segundo o modelo MVC (Model-View-Controller).
+							2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>43. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b>FRANQUEIRA, T. C.</b>; PARREIRAS, F. S..  Participação em banca de Eduardo Augusto de Miranda Filhoe.Desenho e implementação de um esquema de banco de dados para um sistema de diagnóstico informacional.
+							2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>44. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b>FRANQUEIRA, T. C.</b>; PARREIRAS, F. S..  Participação em banca de Eduardo Gambogi Cardoso.Desenho e implementação de um esquema de banco de dados para análise de redes sociais.
+							2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>45. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b>FRANQUEIRA, T. C.</b>; MARQUES NETO, H. T..  Participação em banca de Gustavo Formiga Dias.Migração de sistemas proprietários para sistemas livres.
+							2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear"><br class="clear" /><a name="ParticipacaoBancasComissoes"></a><br class="clear" /><div class="inst_back">
+<b>Participação em bancas de comissões julgadoras</b>
+</div>
+<div class="cita-artigos">
+<b>Concurso público</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">PAULA; CHAGAS; <b>FRANQUEIRA, T. C.</b>. Comissão Examinadora do Processo de Seleção Externa de Docentes.
+							2006. Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b>Outras participações</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b>FRANQUEIRA, T. C.</b>; ISHITANI, L.. Comissão Examinadora do Processo de Provimento Interno de Vagas. 2005.
+							2005.
+							Pontifícia Universidade Católica de Minas Gerais. </div>
+</div>
+<br class="clear">
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="Eventos">
+<h1>Eventos</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ParticipacaoEventos"></a><br class="clear" /><div class="inst_back">
+<b>Participação em eventos, congressos, exposições e feiras</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">I Encontro Mineiro de Software Livre.PUx - uma distribuição Linux adaptada para o ensino.
+							2004. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+</div>
+</div><br class="clear" /></div><br class="clear" /><div class="title-wrapper">
+<a name="Orientacoes">
+<h1>Orienta&ccedil;&otilde;es</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="Orientacoesconcluidas"></a><br class="clear" /><div class="inst_back">
+<b>Orientações e supervisões concluídas</b>
+</div>
+<div class="cita-artigos">
+<b>Trabalho de conclusão de curso de graduação</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Bernardo Souza Alves da Silva..
+							Ferramenta para navegação social com filtragem colaborativa.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais. Orientador: Theldo Cruz Franqueira.
+						</div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b>Iniciação científica</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Bruno Pereira Evangelista.
+							Visualização tridimensional e interativa de grafos obtidos mediante extrac ao  de informac oes  de redes f´isicas de computadores.
+							2005.
+							Iniciação Científica. (Graduando em Ciência da Computação)  - Pontifícia Universidade Católica de Minas Gerais,
+							Pontifícia Universidade Católica de Minas Gerais. Orientador: Theldo Cruz Franqueira.
+						</div>
+</div>
+<br class="clear">
+</div><br class="clear" /></div><br class="clear" /><br class="clear" /><div class="rodape-cv">P&aacute;gina gerada pelo Sistema Curr&iacute;culo Lattes em 17/11/2018 &agrave;s 20:59:21</div><br class="clear" /><div class="control-bar-wrapper"><a href="download.do?metodo=apresentar&amp;idcnpq=3356241223151750" target="_blank" class="button"><span class="mini-ico mini-ico-down"></span>Baixar Currículo</a><a class="button" href="javascript:window.print()"><span class="mini-ico mini-ico-list"></span>Imprimir Curr&iacute;culo</a>
+</div><br class="clear" /></div>
+</div>
+</div>
+</div>
+</div>
+<div class="to-top-bar" id="toTop">
+<a href="javascript:void(0)" class="topo-width center">
+<div class="id-orgao">
+<span>CNPq</span> | Uma ag&ecirc;ncia do Minist&eacute;rio da Ci&ecirc;ncia, Tecnologia e Inova&ccedil;&atilde;o</div>
+</a>
+</div>
+</BODY>
+</HTML>

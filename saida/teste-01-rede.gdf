@@ -1,0 +1,3 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,4935788335854516,Wladmir Cardoso Brandao,[Sem rotulo],0,0,0.15,37,12,0,0,25,0,0,0,0,0,2,'10,110,164'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE

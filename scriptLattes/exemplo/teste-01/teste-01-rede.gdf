@@ -1,0 +1,5 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,3356241223151750,Theldo Cruz Franqueira,[Sem rotulo],,,0.15,7,0,0,0,6,1,0,0,0,0,1,'255,255,255'
+1,4935788335854516,Wladmir Cardoso Brandao,[Sem rotulo],,,0.15,44,12,0,1,31,0,0,0,0,0,3,'255,255,255'
+2,8373642444882287,Romanelli Lodron Zuim,[Sem rotulo],,,0.15,11,2,0,1,8,0,0,0,0,0,0,'255,255,255'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE

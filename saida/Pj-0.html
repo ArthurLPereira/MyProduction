@@ -1,0 +1,185 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Pesquisadores</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Pesquisadores</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Total de projetos de pesquisa'}, 
+series: [{data: [[2003,
+1],
+[2005,
+1],
+[2007,
+1],
+[2014,
+3],
+[2015,
+2],
+[2016,
+3],
+[2017,
+1]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Total de projetos de pesquisa</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 12<br>
+                    
+                    
+                    <div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2017-2018</span>. <b>Explorando evidencias semanticas de entidades em recuperacao de informacao</b><br><i><font size=-1>Descrição: Investigar a hipótese de que o uso de evidências semânticas de entidades aumenta a efetividade em tarefas de recuperação de informação. Construção de arcabouço para avaliação da efetividade da utilização de evidências semânticas de entidades em tarefas relacionadas à busca e recomendação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Claudinei Gomes Mendes - Integrante / Lucas Henrique Resende Mari - Integrante / Lucas de Souza Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de orientações: 1</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2016-Atual</span>. <b>BigDataClima: Modelos Neurais para Cenarios Climaticos por meio de Big Data</b><br><i><font size=-1>Descrição: Modelar e identificar padrões atmosféricos usando técnicas de mineração de dados baseadas em redes neurais artificiais sobre um volume massivo de dados, de fontes diversas, em tempo de processamento adequado para seu uso. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><span class="projects">2016-Atual</span>. <b>Proposta de uma Metodologia de Busca de Informacoes e Estimativa de Demanda e Consumo de Clientes Livres Potenciais</b><br><i><font size=-1>Descrição: Proposição de um sistema semiautomático de monitoramento ambiental para apoio na tomada de decisão de prospecção de novos clientes livres do setor elétrico. Espera-se obter um aumento do grau de assertividade na prospecção e na estimativa de demanda e consumo de energia de clientes. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td><span class="projects">2016-2017</span>. <b>Stemming Baseado em Automatos para Recuperacao de Informacao</b><br><i><font size=-1>Descrição: Proposição e avaliação de algoritmos de stemming baseados em autômatos finitos determinísticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Cleber Oliveira Damasceno - Integrante / Raphael Matori da Rocha - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Auxílio financeiro / Pontifícia Universidade Católica de Minas Gerais - Bolsa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2015-Atual</span>. <b>Descoberta de Conhecimento de Dados Complexos via Analise Formal de Conceitos em Ambientes de Big Data</b><br><i><font size=-1>Descrição: Proposição de abordagem para construção de modelos computacionais para redes sociais baseada em regras de implicação oriundas da teoria de análise formal de conceitos. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><span class="projects">2015-Atual</span>. <b>MASWeb: Modelos, Algoritmos e Sistemas para Web</b><br><i><font size=-1>Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2014-2016</span>. <b>Entity-Related Information Extraction and Retrieval from the Web</b><br><i><font size=-1>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Microsoft Corporation - Cooperação.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><span class="projects">2014-2017</span>. <b>Extracao e Recuperacao de Informacao sobre Entidades na Web</b><br><i><font size=-1>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td><span class="projects">2014-2015</span>. <b>Recuperacao de Informacao sobre Entidades na Web</b><br><i><font size=-1>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2007"><h3 class="year">2007</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2007-2009</span>. <b>CNPq/CT-INFO/InfoWeb: Metodos e Ferramentas para Tratamento da Informacao Disponivel na Web</b><br><i><font size=-1>Descrição: Desenvolvimento de novos métodos e ferramentas para tratamento de informação existente em grandes repositórios de dados e coleções de documentos disponíveis na Web. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (21) / Doutorado: (13) . Integrantes: Wladmir Cardoso Brandão - Integrante / Alberto Henrique Frade Laender - Integrante / Berthier Ribeiro de Araújo Neto - Integrante / Wagner Meira Júnior - Integrante / Nivio Ziviani - Coordenador / Marcos André Gonçalves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Número de produções C, T A: 4</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2005"><h3 class="year">2005</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2005-2008</span>. <b>RedeCI - Analise de Redes Sociais Aplicada ao Campo da Ciencia da Informacao</b><br><i><font size=-1>Descrição: Construção e manutenção de base de dados de produção científica da Ciência da Informação no Brasil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Antonio Braz de Oliveira e Silva - Integrante / Fernando Silva Parreiras - Integrante / Jaime Sadao Yamassaki Bastos - Integrante / Marta Araújo Tavares Ferreira - Coordenador. Número de produções C, T A: 4</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div><div id="dv-year-2003"><h3 class="year">2003</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2003-2005</span>. <b>Metodos para Representacao de Conhecimento</b><br><i><font size=-1>Descrição: Construção de métodos para representação conceitual utilizando técnicas de classificação facetada e abordagem analítico-sintética. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Lídia Alvarenga - Coordenador. Número de produções C, T A: 1</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4935788335854516">Wladmir Cardoso Brandao</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2000 até 2017
+<br>Data de processamento: 20/11/2018 02:00:20<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              
