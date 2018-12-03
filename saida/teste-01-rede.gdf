@@ -1,3 +1,3 @@
 nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
-0,4935788335854516,Wladmir Cardoso Brandao,[Sem rotulo],0,0,0.15,37,12,0,0,25,0,0,0,0,0,2,'10,110,164'
+0,6331835838649652,Raquel Aparecida de Freitas Mini,[Sem rotulo],-19.9244673,-43.9913758,0.15,85,15,0,6,63,1,0,0,3,18,14,'10,110,164'
 edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE

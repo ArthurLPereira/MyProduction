@@ -4,7 +4,7 @@ import os
 def definirPesquisadores():
     listaPesquisadores = open("pesquisadores.list", 'w+')
     
-    print ('\n\nInsira o id dos pesquisadores, separados por espaço, o id pode ser encontrado na página lattes do pesquisador embaixo do nome na url, seguindo o padrão: \nhttp://lattes.cnpq.br/<id>:\n')
+    print ('\n\nInsira o id dos pesquisadores, separados por espaço, o id pode ser encontrado na página lattes do pesquisador embaixo do nome na url, seguindo o padrão: \nhttp://lattes.cnpq.br/<id>:')
     persquisadores = [p for p in input().split()]
     for i in persquisadores:
         listaPesquisadores.write(i)
@@ -72,4 +72,4 @@ if __name__ == "__main__":
    definirData()
    mostrarIndices()
 
-# scypy python-lxml
+# 4935788335854516 6331835838649652

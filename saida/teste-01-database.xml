@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<curriculo_lattes data_processamento="20/11/2018 02:00:21">
-  <pesquisador id="4935788335854516">
+<curriculo_lattes data_processamento="22/11/2018 11:38:29">
+  <pesquisador id="6331835838649652">
     <identificacao>
       <identificador10></identificador10>
       <nome_inicial></nome_inicial>
-      <nome_completo>Wladmir Cardoso Brandão</nome_completo>
-      <nome_citacao_bibliografica>BRANDÃO, Wladmir Cardoso;BRANDÃO, W.;BRANDÃO, W.C.;BRANDÃO, WLADMIR;BRANDÃO, WLADMIR C.;Cardoso Brandão, Wladmir;BRANDAO, WLADMIR CARDOSO</nome_citacao_bibliografica>
+      <nome_completo>Raquel Aparecida de Freitas Mini</nome_completo>
+      <nome_citacao_bibliografica>MINI, Raquel Aparecida de Freitas;Mini, Raquel A.F.;Mini, Raquel A. F.;MINI, R.A.F.</nome_citacao_bibliografica>
       <sexo>Masculino</sexo>
     </identificacao>
     <idiomas>
@@ -14,1176 +14,1694 @@
           <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
       </idioma>
       <idioma>
-          <nome>Espanhol</nome>
-          <proficiencia>Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.</proficiencia>
+          <nome>Francês</nome>
+          <proficiencia>Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Razoavelmente.</proficiencia>
       </idioma>
     </idiomas>
     <endereco>
-      <endereco_profissional>Pontifícia Universidade Católica de Minas Gerais, Instituto de Ciências Exatas e Informática da PUC Minas, Programa de Pós-Graduação em Informática. Rua Walter Ianni, 255 São Gabriel 31980110 - Belo Horizonte, MG - Brasil Telefone: (31) 34395204 URL da Homepage: http://www.wladmirbrandao.com</endereco_profissional>
-      <endereco_profissional_lat>0</endereco_profissional_lat>
-      <endereco_profissional_long>0</endereco_profissional_long>
+      <endereco_profissional>Pontifícia Universidade Católica de Minas Gerais, Coração Eucarístico, Coração Eucarístico. Av. Dom José Gaspar nº 500 Coração Eucarístico 30535610 - Belo Horizonte, MG - Brasil Telefone: (31) 33194146 Fax: (31) 33194002</endereco_profissional>
+      <endereco_profissional_lat>-19.9244673</endereco_profissional_lat>
+      <endereco_profissional_long>-43.9913758</endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
-          <ano_inicio>2008</ano_inicio>
-          <ano_conclusao>2013</ano_conclusao>
+          <ano_inicio>2000</ano_inicio>
+          <ano_conclusao>2004</ano_conclusao>
           <tipo>Doutorado em Ciências da Computação</tipo>
           <nome_instituicao>Universidade Federal de Minas Gerais, UFMG, Brasil</nome_instituicao>
-          <descricao>Título: Exploiting Entities for Query Expansion, Ano de obtenção: 2013. Orientador: Nivio Ziviani. Palavras-chave: query expansion; relevance feedback; learning to rank; named entity recognition; Wikipedia. Grande área: Ciências Exatas e da Terra Setores de atividade: Pesquisa e desenvolvimento científico.</descricao>
+          <descricao>com período sanduíche em The State University of New Jersey - New Brunswick (Orientador: Badri Nath). Título: Prediction-based Energy Map for Wireless Sensor Networks, Ano de obtenção: 2004. Orientador: Antônio A F Loureiro. Palavras-chave: energy map; prediction; sensor networks. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Computação Móvel. Setores de atividade: Informática.</descricao>
         </formacao>
         <formacao>
-          <ano_inicio>2003</ano_inicio>
-          <ano_conclusao>2005</ano_conclusao>
-          <tipo>Mestrado em Ciência da Informação</tipo>
+          <ano_inicio>1998</ano_inicio>
+          <ano_conclusao>1999</ano_conclusao>
+          <tipo>Mestrado em Ciências da Computação</tipo>
           <nome_instituicao>Universidade Federal de Minas Gerais, UFMG, Brasil</nome_instituicao>
-          <descricao>Título: Método para produção de representações conceituais a partir da literatura especilizada utilizando a abordagem Analítico-Sintética,Ano de Obtenção: 2005. Orientador: Lídia Alvarenga. Palavras-chave: ciência da informação; representação do conhecimento; teoria da classificação; método analítico-sintético; classificação facetada; modelagem. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Tratamento de Informação / Especialidade: Teoria da Classificação. Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Tratamento de Informação / Especialidade: Recuperação de Informação.</descricao>
+          <descricao>Título: Rastreamento Visual de Múltiplos Objetos utilizando Resolução Múltipla,Ano de Obtenção: 1999. Orientador: Mário Fernando Montenegro Campos. Grande área: Ciências Exatas e da Terra</descricao>
         </formacao>
         <formacao>
-          <ano_inicio>1996</ano_inicio>
-          <ano_conclusao>1996</ano_conclusao>
-          <tipo>Especialização em Gestão Estratégica</tipo>
-          <nome_instituicao>(Carga Horária: 420h)</nome_instituicao>
-          <descricao>Universidade Federal de Minas Gerais, UFMG, Brasil. Título: Aplicação de um plano de marketing em pequenas empresas. Orientador: Wagner Saleme.</descricao>
-        </formacao>
-        <formacao>
-          <ano_inicio>2000</ano_inicio>
-          <ano_conclusao>2001</ano_conclusao>
-          <tipo>Aperfeiçoamento em Gestão Empresarial</tipo>
-          <nome_instituicao>(Carga Horária: 300h)</nome_instituicao>
-          <descricao>Serviço Nacional de Aprendizagem Comercial, SENAC, Brasil. Ano de finalização: 2001.</descricao>
-        </formacao>
-        <formacao>
-          <ano_inicio>1991</ano_inicio>
-          <ano_conclusao>1995</ano_conclusao>
-          <tipo>Graduação em Ciência da Computação</tipo>
-          <nome_instituicao>Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil</nome_instituicao>
-          <descricao></descricao>
+          <ano_inicio>1994</ano_inicio>
+          <ano_conclusao>1997</ano_conclusao>
+          <tipo>Graduação em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade Federal de Minas Gerais, UFMG, Brasil</nome_instituicao>
+          <descricao>Título: Avaliação Dinâmica do Volume Sangüíneo do Ventrículo Esquerdo por meio de Visão Computacional. Orientador: Mário Fernando Montenegro Campos. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.</descricao>
         </formacao>
     </formacao_academica>
     <projetos_pesquisa>
         <projeto>
           <ano_inicio>2017</ano_inicio>
-          <ano_conclusao>2018</ano_conclusao>
-          <nome>Explorando evidências semânticas de entidades em recuperação de informação</nome>
-          <descricao>Descrição: Investigar a hipótese de que o uso de evidências semânticas de entidades aumenta a efetividade em tarefas de recuperação de informação. Construção de arcabouço para avaliação da efetividade da utilização de evidências semânticas de entidades em tarefas relacionadas à busca e recomendação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Claudinei Gomes Mendes - Integrante / Lucas Henrique Resende Mari - Integrante / Lucas de Souza Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de orientações: 1</descricao>
-        </projeto>
-        <projeto>
-          <ano_inicio>2016</ano_inicio>
-          <ano_conclusao>2017</ano_conclusao>
-          <nome>Stemming Baseado em Autômatos para Recuperação de Informação</nome>
-          <descricao>Descrição: Proposição e avaliação de algoritmos de stemming baseados em autômatos finitos determinísticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Cleber Oliveira Damasceno - Integrante / Raphael Matori da Rocha - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Auxílio financeiro / Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
-        </projeto>
-        <projeto>
-          <ano_inicio>2016</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>BigDataClima: Modelos Neurais para Cenários Climáticos por meio de Big Data</nome>
-          <descricao>Descrição: Modelar e identificar padrões atmosféricos usando técnicas de mineração de dados baseadas em redes neurais artificiais sobre um volume massivo de dados, de fontes diversas, em tempo de processamento adequado para seu uso. Situação: Em andamento; Natureza: Pesquisa.</descricao>
-        </projeto>
-        <projeto>
-          <ano_inicio>2016</ano_inicio>
-          <ano_conclusao>Atual</ano_conclusao>
-          <nome>Proposta de uma Metodologia de Busca de Informações e Estimativa de Demanda e Consumo de Clientes Livres Potenciais</nome>
-          <descricao>Descrição: Proposição de um sistema semiautomático de monitoramento ambiental para apoio na tomada de decisão de prospecção de novos clientes livres do setor elétrico. Espera-se obter um aumento do grau de assertividade na prospecção e na estimativa de demanda e consumo de energia de clientes. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+          <nome>Serviços nas Nuvens para Redes Veiculares</nome>
+          <descricao>Descrição: Vários serviços para redes veiculares vêm sendo propostos nos últimos anos. Alguns desses serviços levam em consideração as relações sociais entre os veículos, suas rotinas e trajetórias. Essas relações são obtidas através do estudo da mobilidade dos veículos. O objetivo deste projeto é a implementação de serviços para as redes veiculares e a análise dos benefícios da utilização da computação em nuvem veicular no projeto desses serviços. Os serviços propostos serão avaliados através de simulação. O aspecto principal a ser avaliado é o compromisso entre a latência e a qualidade dos dados. Além disso, questões importantes de segurança e privacidade serão analisadas. Edital 02/2017 - Programa Pesquisador Mineiro (PPM XI) - Processo número PPM 00322-17. Situação: Em andamento; Natureza: Pesquisa.</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2015</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Descoberta de Conhecimento de Dados Complexos via Análise Formal de Conceitos em Ambientes de Big Data</nome>
-          <descricao>Descrição: Proposição de abordagem para construção de modelos computacionais para redes sociais baseada em regras de implicação oriundas da teoria de análise formal de conceitos. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+          <nome>Serviços Em Redes Veiculares</nome>
+          <descricao>Descrição: Edital 02/2015 - Programa Pesquisador Mineiro - PPM IX - Processo número PPM-00534-15.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2015</ano_inicio>
+          <ano_inicio>2014</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>MASWeb: Modelos, Algoritmos e Sistemas para Web</nome>
-          <descricao>Situação: Em andamento; Natureza: Pesquisa.</descricao>
+          <nome>Serviços em Redes Veiculares</nome>
+          <descricao>Descrição: Nas últimas décadas, os problemas de transporte se tornaram uma questão importante na agenda de governos, indústrias, organizações não-governamentais e universidades, devido ao aumento dos custos de combustível, poluição do ar e acidentes de carro. Pesquisas de trânsito mostram que no Brasil acontecem em média 110 mil acidentes de trânsito por ano ou 300 acidentes por dia. Os custos envolvidos nos acidentes de trânsito geram aos cofres públicos um gasto de 22 bilhões de reais. As principais causas dos acidentes são a falta de atenção dos condutores, motoristas que não obedecem a distância de segurança e a velocidade incompatível com o local. Avanços recentes nas tecnologias da informação e comunicação podem contribuir para a redução no número de acidentes e a diminuição na gravidade dos mesmos. Devido à esses avanços, o conceito de redes veiculares tem recebido especial atenção em todo o mundo. A tendência atual é prover os veículos e as estradas com recursos para tornar a infraestrutura de transporte mais segura, mais eficiente e fazer o tempo dos passageiros na estrada mais agradável. Nas redes veiculares, as informações devem ser entregues para veículos numa determinada região de interesse considerando a posição geográfica do carro e a relevância da informação ao mesmo. Um desafio nesse contexto é como distribuir as informações aos veículos de forma eficiente, considerando a dinâmica e mobilidade dos veículos na rede e até mesmo a urgência na informação. O objetivo da pesquisa a ser desenvolvida por este projeto é propor serviços para redes veiculares que levam em consideração as relações sociais entre os veículos, suas rotinas e trajetórias. Neste contexto, é importante considerar os encontros entre os veículos, a frequência desses encontros e o local onde eles acontecem. Assim, através do estudo das características sociais, será possível compreender melhor a evolução diária do tráfego na cidade e propor serviços conscientes desta evolução. Edital MCTI/CNPQ/Universal 14/2014 - Faixa B - até R$ 60.000,00. Processo número 454925/2014-0.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Davidysson Abreu Alvarenga - Integrante / Felipe Domingos da Cunha - Integrante / Ralph Liebessohn Barbosa Vieira - Integrante / Walace de Almeida Rodrigues - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2014</ano_inicio>
-          <ano_conclusao>2017</ano_conclusao>
-          <nome>Extração e Recuperação de Informação sobre Entidades na Web</nome>
-          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
+          <ano_inicio>2013</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Comunicação de Dados em Redes Veiculares</nome>
+          <descricao>Descrição: Nas últimas décadas, os problemas de transporte se tornaram uma questão importante na agenda de governos, indústrias, organizações não-governamentais e universidades, devido ao aumento dos custos de combustível, poluição do ar e acidentes de carro. Pesquisas de trânsito mostram que no Brasil acontecem em média 110 mil acidentes de trânsito por ano ou 300 acidentes por dia. Os custos envolvidos nos acidentes de trânsito geram aos cofres públicos um gasto de 22 bilhões de reais. As principais causas dos acidentes são a falta de atenção dos condutores, motoristas que não obedecem a distância de segurança e a velocidade incompatível com o local. Avanços recentes nas tecnologias da informação e comunicação podem contribuir para a redução no número de acidentes e a diminuição na gravidade dos mesmos. Devido à esses avanços, o conceito de redes veiculares tem recebido especial atenção em todo o mundo. A tendência atual é prover os veículos e as estradas com recursos para tornar a infraestrutura de transporte mais segura, mais eficiente e fazer o tempo dos passageiros na estrada mais agradável. Nas redes veiculares, as informações devem ser entregues para veículos numa determinada região de interesse considerando a posição geográfica do nó e a relevância da informação ao mesmo. Um desafio nesse contexto é como distribuir as informações aos veículos de forma eficiente, considerando a dinâmica e mobilidade dos veículos na rede e até mesmo a urgência na informação. O objetivo da pesquisa apresentada nesta proposta é projetar e analisar protocolos para realizar a comunicação de dados em redes veiculares. Os principais aspectos a serem analisados nas soluções propostas são os requisitos de QoS, considerando principalmente a latência na entrega dos dados. Além do projeto de protocolos para a comunicação de dados, pretende-se também trabalhar na proposição de modelos para caracterizar as topologias para essas redes. Edital Fapemig Programa Pesquisador Mineiro (PPM VII) - Processo número PPM-00345-13.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2014</ano_inicio>
-          <ano_conclusao>2016</ano_conclusao>
-          <nome>Entity-Related Information Extraction and Retrieval from the Web</nome>
-          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Microsoft Corporation - Cooperação.</descricao>
+          <ano_inicio>2011</ano_inicio>
+          <ano_conclusao>2013</ano_conclusao>
+          <nome>Redes de Sensores sem Fio Tolerantes a Atrasos e Desconexões</nome>
+          <descricao>Descrição: As redes de sensores sem fio vêm recebendo muita atenção por parte dos pesquisadores em função da gama de aplicações que elas possuem. Como todas as soluções para essas redes devem ser eficientes em termos de energia, várias técnicas para economizar energia vêm sendo propostas na literatura. Uma das formas mais eficientes para economizar energia é desligar o rádio dos nós sensores de forma que seu ciclo de funcionamento seja dividido em períodos de trabalho e dormência. Além de aumentar a latência, o uso dessa técnica pode levar a quebra de rotas e particionamento da rede devido à intermitência da conectividade de seus nós. Nesse cenário, novas soluções capazes lidar com essas adversidades em redes de sensores sem fio devem ser investigadas. O objetivo desse trabalho é modelar uma rede de sensor sem fio como uma rede tolerante a atrasos e desconexões com o intuito de fazer uso de técnicas empregadas nesse tipo de rede para alcançar melhorias nos protocolos de comunicação de dados das redes de sensores. Os protocolos de controle de acesso ao meio e de roteamento propostos serão analisados em ambientes que apresentam grandes atrasos e desconexões. As análises de desempenho serão realizadas através de simulação e de experimentação com nós sensores reais e comparadas com as abordagens tradicionais que não utilizam técnicas de redes tolerante a atrasos e desconexões. O aspecto principal a ser analisado nessas técnicas é o compromisso entre economia de energia, qualidade dos dados sensoriados e latência. Edital Fapemig Programa Pesquisador Mineiro (PPM V) - Processo número: 00252-11.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Felipe Domingos da Cunha - Integrante / Ilo Amy Saldanha Rivero - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio financeiro.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2014</ano_inicio>
-          <ano_conclusao>2015</ano_conclusao>
-          <nome>Recuperação de Informação sobre Entidades na Web</nome>
-          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
+          <ano_inicio>2010</ano_inicio>
+          <ano_conclusao>2013</ano_conclusao>
+          <nome>Projeto PRONEX: Algoritmos, Otimização e Aplicações - FAPEMIG 020/2008</nome>
+          <descricao>Descrição: O contexto deste projeto de pesquisa envolve algoritmos de otimização explorados em problemas clássicos de Combinatória, mas com grande potencial de aplicação a problemas reais, mas também a três temas de aplicação amarrados a outras linhas clássicas da computação: Engenharia de Software, Robótica, Visão Computacional e Jogos, e Redes de Comunicação. Propomos desenvolver o estudo, desenho, implementação, avaliação, e análise de algoritmos. Para que esta proposta seja efetiva e útil, acreditamos que podemos atuar no estado da arte da literatura e gerar soluções tecnologicamente ricas e possíveis de transferência para sociedade. Esperamos contribuições importantes e críticas. Nosso projeto de pesquisa tem possibilidades tremendas de impacto social. Mais, ele está em linha com as tendências correntes de pesquisa em muitas universidades, laboratórios de pesquisa, e agências de financiamento ao redor do mundo, e de grandes empresas de tecnologia. Para atender as nossas metas, reunimos pesquisadores de algumas universidades de destaque em Minas Gerais, como: UFMG, PUC-MG, UFOP, UFV, UFLA. Este projeto de pesquisa reune uma grande equipe de alunos de graduação e pós-graduação, e dezesseis pesquisadores doutores, sendo sete pesquisadores CNPq.. Situação: Concluído; Natureza: Pesquisa.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2007</ano_inicio>
-          <ano_conclusao>2009</ano_conclusao>
-          <nome>CNPq/CT-INFO/InfoWeb: Métodos e Ferramentas para Tratamento da Informação Disponível na Web</nome>
-          <descricao>Descrição: Desenvolvimento de novos métodos e ferramentas para tratamento de informação existente em grandes repositórios de dados e coleções de documentos disponíveis na Web. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (21) / Doutorado: (13) . Integrantes: Wladmir Cardoso Brandão - Integrante / Alberto Henrique Frade Laender - Integrante / Berthier Ribeiro de Araújo Neto - Integrante / Wagner Meira Júnior - Integrante / Nivio Ziviani - Coordenador / Marcos André Gonçalves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Número de produções C, T A: 4</descricao>
+          <ano_inicio>2010</ano_inicio>
+          <ano_conclusao>2012</ano_conclusao>
+          <nome>Comunicação de Dados baseada no Emissor e no Receptor em Redes de Sensores Sem Fio</nome>
+          <descricao>Descrição: A principal característica que distingue o projeto de soluções para as redes de sensores sem fio das demais redes é que os sensores possuem recursos bastante restritos, tais como limitada capacidade computacional, de memória e de energia. Esses sensores serão equipados com bateria e, em muitas aplicações, eles serão colocados em áreas remotas, impossibilitando o acesso a esses elementos para manutenção. Neste cenário, o tempo de vida da rede depende da quantidade de energia disponível nos nós sensores e, por isso, esses nós devem balancear seus recursos limitados com o objetivo de aumentar o tempo de vida da rede. Portanto, a conservação de energia é um dos aspectos mais importantes a serem considerados no projeto dessas redes. O objetivo da pesquisa apresentada nesta proposta é projetar e analisar protocolos de comunicação de dados que funcionem baseados no emissor e no receptor de acordo com as condições da rede. Uma etapa fundamental da pesquisa aqui proposta é a análise dos fatores que devem ser levados em consideração para alterar o comportamento da comunicação de dados de baseada no emissor para baseada no receptor e vice-versa. O aspecto principal a ser analisado nas técnicas propostas é o compromisso entre economia de energia, qualidade dos dados sensoriados e latência. Projeto financiado pelo CNPq Programa de Expansão da Pós-graduação em Áreas Estratégicas (PGAEST) no Edital 70/2009.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Gabriel Felipe Cândido Novy - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2010</ano_inicio>
+          <ano_conclusao>2012</ano_conclusao>
+          <nome>Projeto de Redes de Sensores sem Fio Tolerantes a Atrasos e Desconexões</nome>
+          <descricao>Descrição: As redes de sensores sem fio vêm recebendo muita atenção por parte dos pesquisadores em função da gama de aplicações que elas possuem. Como todas as soluções para essas redes devem ser eficientes em termos de energia, várias técnicas para economizar energia vêm sendo propostas na literatura. Uma das formas mais eficientes para economizar energia é desligar o rádio dos nós sensores de forma que seu ciclo de funcionamento seja dividido em períodos de trabalho e dormência. Além de aumentar a latência, o uso dessa técnica pode levar a quebra de rotas e particionamento da rede devido à intermitência da conectividade de seus nós. Nesse cenário, novas soluções capazes lidar com essas adversidades em redes de sensores sem fio devem ser investigadas. O objetivo desse trabalho é modelar uma rede de sensor sem fio como uma rede tolerante a atrasos e desconexões com o intuito de fazer uso de técnicas empregadas nesse tipo de rede para alcançar melhorias nos protocolos de comunicação de dados das redes de sensores. Os protocolos de controle de acesso ao meio e de roteamento propostos serão analisados em ambientes que apresentam grandes atrasos e desconexões. As análises de desempenho serão realizadas através de simulação e de experimentação com nós sensores reais e comparadas com as abordagens tradicionais que não utilizam técnicas de redes tolerante a atrasos e desconexões. O aspecto principal a ser analisado nessas técnicas é o compromisso entre economia de energia, qualidade dos dados sensoriados e latência. Edital MCT/CNPq 14/2010 - Universal / Edital MCT/CNPq 14/2010 - Faixa A até R$ 20.000,00. Número do processo: 482227/2010-9.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Felipe Domingos da Cunha - Integrante / Ilo Amy Saldanha Rivero - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2009</ano_inicio>
+          <ano_conclusao>2011</ano_conclusao>
+          <nome>Redução Do Consumo De Energia Em Redes De Sensores Sem Fio</nome>
+          <descricao>Descrição: A principal característica que distingue o projeto de soluções para as redes de sensores sem fio das demais redes é que os sensores possuem recursos bastante restritos, tais como limitada capacidade computacional, de memória e de energia. Esses sensores serão equipados com bateria e, em muitas aplicações, eles serão colocados em áreas remotas, impossibilitando o acesso a esses elementos para manutenção. Neste cenário, o tempo de vida da rede depende da quantidade de energia disponível nos nós sensores e, por isso, esses nós devem balancear seus recursos limitados com o objetivo de aumentar o tempo de vida da rede. Portanto, a conservação de energia é um dos aspectos mais importantes a serem considerados no projeto dessas redes. O objetivo desta pesquisa é propor técnicas para reduzir o consumo de energia em redes de sensores sem fio. As soluções propostas por esta pesquisa devem fazer um melhor uso das reservas limitadas de energia dos nós sensores e estender o tempo de vida da rede, o que certamente contribuirá para que a utilização dessas redes em larga escala se torne realidade. Edital 03/2009 - Programa Pesquisador Mineiro - PPM III - Fapemig Número do processo: PPM-00501-09.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Orlando Silva Junior - Integrante / Efrem Eladie de Oliveira Lousada - Integrante / Michael Martins Consedey - Integrante / Mirna Paula Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio financeiro.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2008</ano_inicio>
+          <ano_conclusao>2010</ano_conclusao>
+          <nome>Projeto Integrado para Comunicação de Dados em Redes de Sensores sem Fio</nome>
+          <descricao>Descrição: Em redes de sensores sem fio, grande economia de energia pode ser alcançada com a utilização de técnicas de projeto integrado. Projeto integrado é a violação da arquitetura fixa de camadas permitindo a troca de informações e o compartilhamento de variáveis entre camadas não adjacentes. Essa violação pode ocorrer com o compartilhamento direto das informações através do auxílio de interfaces, ou então, com a adição de uma área de dados acessível por todas as camadas. O projeto integrado possibilita otimizações e melhorias do desempenho da rede além de permitir que os protocolos se adaptem às mudanças ocorridas no ambiente físico. O objetivo da pesquisa apresentada nesta proposta é projetar e analisar técnicas de projeto integrado entre a camada MAC e a camada de rede para reduzir o consumo de energia na comunicação de dados em redes de sensores sem fio. As técnicas propostas serão analisadas através de simulação e de experimentação com nós sensores reais e comparadas com as abordagens tradicionais que seguem uma arquitetura fixa de camadas. O aspecto principal a ser analisado nessas técnicas é o compromisso entre economia de energia, qualidade dos dados sensoriados e latência. Edital MCT/CNPq 14/2008 - Universal / Edital MCT/CNPq 14/2008 - Universal - Faixa A - Até R$ 20.000,00. Número do processo: 478175/2008-6.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Max do Val Machado - Integrante / Felipe Domingos da Cunha - Integrante / Michelle Nery Nascimento - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2008</ano_inicio>
+          <ano_conclusao>2008</ano_conclusao>
+          <nome>Disseminação de Dados Unicasting em Redes de Sensores Sem Fio</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2006</ano_inicio>
+          <ano_conclusao>2006</ano_conclusao>
+          <nome>Codificação, Fusão e Comunicação de Dados em Redes de Sensores Sem Fio</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2005</ano_inicio>
-          <ano_conclusao>2008</ano_conclusao>
-          <nome>RedeCI - Análise de Redes Sociais Aplicada ao Campo da Ciência da Informação</nome>
-          <descricao>Descrição: Construção e manutenção de base de dados de produção científica da Ciência da Informação no Brasil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Antonio Braz de Oliveira e Silva - Integrante / Fernando Silva Parreiras - Integrante / Jaime Sadao Yamassaki Bastos - Integrante / Marta Araújo Tavares Ferreira - Coordenador. Número de produções C, T A: 4</descricao>
+          <ano_conclusao>2007</ano_conclusao>
+          <nome>Construção do Mapa de Energia para Redes de Sensores Sem Fio</nome>
+          <descricao>Descrição: Um importante desafio no projeto de redes de sensores sem fio é desenvolver técnicas que façam o uso eficiente da sua energia e, assim, estendam o seu tempo de vida. Uma maneira de fazer isso é reduzir a comunicação entre nós, uma vez que a comunicação é o principal responsável pelo consumo da energia. Este trabalho propõe a teoria dos jogos como ferramenta de redução da comunicação em redes de sensores sem fio, uma vez que ela lida com a otimização de um resultado global a partir de decisões locais. Um modelo baseado na teoria dos jogos para construir um mapa de energia para redes de sensores sem fio é proposto e analisado. Resultados de simulação revelam que o uso desse modelo reduz significativamente a quantidade de pacotes requeridos para construir o mapa de energia, mantendo a sua qualidade. Projeto financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq, número 481750/2004-5). Edital Universal 19/2004. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Pedro Olmo Stancioli Vaz de Melo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.</descricao>
         </projeto>
         <projeto>
-          <ano_inicio>2003</ano_inicio>
-          <ano_conclusao>2005</ano_conclusao>
-          <nome>Métodos para Representação de Conhecimento</nome>
-          <descricao>Descrição: Construção de métodos para representação conceitual utilizando técnicas de classificação facetada e abordagem analítico-sintética. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Lídia Alvarenga - Coordenador. Número de produções C, T A: 1</descricao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2006</ano_conclusao>
+          <nome>Disseminação de Dados Ciente da Energia para Redes de Sensores Sem Fio</nome>
+          <descricao>Descrição: Avanços recentes na tecnologia circuitos integrados têm permitido a confecção e o desenvolvimento de novas aplicações baseadas em uma grande quantidade de dispositivos computacionais que se comunicam entre si e, juntos, formam as Redes de Sensores Sem Fio (RSSFs). Estes dispositivos computacionais são sensores de baixo custo que podem se comunicar através de uma interface sem fio e possuem capacidade limitada de computação e de memória. Nesse cenário, sensores inteligentes coletam dados do ambiente em que foram inseridos e, em seguida, processam e propagam esses dados para um nó de monitoração. O principal objetivo destas redes é realizar tarefas de sensoriamento distribuído, principalmente em aplicações como monitoração de ambientes, espaços inteligentes e sistemas médicos. O consumo de energia deve ser o aspecto primordial no projeto de qualquer solução para as RSSFs. Portanto, propor soluções cientes da energia é uma direção bastante promissora dentro do contexto das RSSFs. Neste trabalho, pretende-se avançar nesta direção propondo algoritmos para realizar a disseminação de dados ciente da energia. Projeto financiado pela FAPEMIG, Jovens Doutores. Edital 05/04. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Raquel Aparecida de Freitas Mini - Coordenador / Daniel Ludovico Guidoni - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio financeiro.</descricao>
         </projeto>
     </projetos_pesquisa>
     <area_atuacao>
-          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados.</descricao>
-          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação.</descricao>
-          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Engenharia de Software para Computação Ubíqua.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes Veiculares.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Computação Ubíqua.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Computação Móvel.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes de Sensores sem Fio.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes de Computadores.</descricao>
     </area_atuacao>
     <premios_titulos>
         <premio_titulo>
-          <ano>2017</ano>
-          <descricao>Professor Homenageado da Turma Formada no 1o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2017</ano>
-          <descricao>Melhor artigo de estudante na área de Banco de Dados e Integração de Sistemas de Informação na 19th International Conference on Enterprise Information Systems (ICEIS 2017), Institute for Systems and Technologies of Information, Control and Communication (INSTICC).</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2017</ano>
-          <descricao>Melhor trabalho da área de Ciências Exatas e da Terra no 25o. Seminário de Iniciação Científica, Pontifícia Universidade Católica de Minas Gerais (PUC Minas).</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2017</ano>
-          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2017 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2016</ano>
-          <descricao>Paraninfo da Turma Formada no 1o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2016</ano>
-          <descricao>Patrono da Turma Formada no 2o. Período de 2016 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2015</ano>
-          <descricao>Professor Homenageado da Turma Formada no 1o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
-          <ano>2015</ano>
-          <descricao>Patrono da Turma Formada no 2o. Período de 2015 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
-        </premio_titulo>
-        <premio_titulo>
           <ano>2014</ano>
-          <descricao>Patrono da Turma Formada no 1o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+          <descricao>Menção honrosa de melhores artigos do SBCUP 2014 pelo artigo "Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio", VI Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP).</descricao>
         </premio_titulo>
         <premio_titulo>
-          <ano>2014</ano>
-          <descricao>Microsoft Azure Research Award, Microsoft.</descricao>
+          <ano>2012</ano>
+          <descricao>Prêmio Capes de Teses 2012 para o trabalho ?Aplicação dos conceitos mundo pequeno no projeto de topologias para redes de sensores sem fio heterogêneas", Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).</descricao>
         </premio_titulo>
         <premio_titulo>
-          <ano>2014</ano>
-          <descricao>Patrono da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+          <ano>2012</ano>
+          <descricao>Prêmio UFMG de Teses pleo trabalho intitulado "Aplicação do Conceito de Mundo Pequeno no Projeto de Topologias para Redes de Sensores sem Fio Heterogêneas", Universidade Federal de Minas Gerais.</descricao>
         </premio_titulo>
         <premio_titulo>
-          <ano>2014</ano>
-          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2014 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+          <ano>2010</ano>
+          <descricao>Menção honrosa de Melhores Artigos do SBRC 2010 pelo artigo "Comunicação de Dados baseada no Receptor para Redes de Sensores sem Fio", XXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2010).</descricao>
         </premio_titulo>
         <premio_titulo>
-          <ano>2013</ano>
-          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2013 no Curso de Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+          <ano>2008</ano>
+          <descricao>Menção honrosa concedida pelo Comitê de Programa do SBRC 2008 com o trabalho intitulado "O Problema da Cooperação entre Redes de Sensores Sem Fio", XXVI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2008).</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2006</ano>
+          <descricao>Menção honrosa concedida pelo Comitê de Programa do SBRC 2006 com o trabalho intitulado "Difusão de Dados baseada em Atraso e Energia para Redes de Sensores sem Fio", XXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2006).</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2005</ano>
+          <descricao>3º Lugar no XVIII Concurso de Teses e Dissertações (CTD), trabalho intitulado 'Prediction-based Energy Map for Wireless Sensor Networks', Sociedade Brasileira de Computação (SBC).</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2005</ano>
+          <descricao>Menção honrosa na Área de Ciências Tecnológicas, aluno de Iniciação Científica Daniel Ludovico Guidoni, trabalho intitulado `Projeto de Algoritmos Distribuídos Cientes da Energia para Redes de Sensores Sem Fio`, Pontifícia Universidade Federal de Minas Gerais (PUC Minas).</descricao>
         </premio_titulo>
         <premio_titulo>
           <ano>2003</ano>
-          <descricao>Professor Homenageado da Turma Formada no 2o. Período de 2003 no Curso de Ciência da Computação, Pontifícia Universidade Católica de Minas Gerais.</descricao>
+          <descricao>Trabalho selecionado para Best Paper Award do 8th IFIP PWC: Prediction-based Energy Map for Wireless Sensor Networks (convidado para Ad Hoc Networks Journal), IFIP.</descricao>
         </premio_titulo>
         <premio_titulo>
-          <ano>2002</ano>
-          <descricao>Microsoft Certified Professional, Microsoft.</descricao>
+          <ano>2001</ano>
+          <descricao>Melhor trabalho na área de Ciências Tecnológicas, aluno de Iniciação Científica Max do Val Machado, trabalho intitulado 'Algoritmos de Roteamento para Redes Móveis Ad Hoc', Pontifícia Universidade Federal de Minas Gerais (PUC Minas).</descricao>
         </premio_titulo>
     </premios_titulos>
     <colaboradores>
-        <id_lattes_colaborador>4414718560764818</id_lattes_colaborador>
-        <id_lattes_colaborador>1126314445760059</id_lattes_colaborador>
-        <id_lattes_colaborador>5151080740697775</id_lattes_colaborador>
-        <id_lattes_colaborador>3527197809276361</id_lattes_colaborador>
-        <id_lattes_colaborador>6155937639497516</id_lattes_colaborador>
-        <id_lattes_colaborador>2000159854235169</id_lattes_colaborador>
-        <id_lattes_colaborador>1162362624079364</id_lattes_colaborador>
-        <id_lattes_colaborador>9205421345814071</id_lattes_colaborador>
-        <id_lattes_colaborador>5192167823493756</id_lattes_colaborador>
-        <id_lattes_colaborador>4935788335854516</id_lattes_colaborador>
-        <id_lattes_colaborador>9080381631282096</id_lattes_colaborador>
-        <id_lattes_colaborador>2907572425394470</id_lattes_colaborador>
-        <id_lattes_colaborador>0649348132051570</id_lattes_colaborador>
-        <id_lattes_colaborador>3564597309576489</id_lattes_colaborador>
+        <id_lattes_colaborador>0350208006499503</id_lattes_colaborador>
+        <id_lattes_colaborador>3710305842336098</id_lattes_colaborador>
+        <id_lattes_colaborador>7996460112668685</id_lattes_colaborador>
+        <id_lattes_colaborador>4655334338360669</id_lattes_colaborador>
+        <id_lattes_colaborador>2234449680136248</id_lattes_colaborador>
+        <id_lattes_colaborador>7122552927617910</id_lattes_colaborador>
+        <id_lattes_colaborador>1001143553081693</id_lattes_colaborador>
+        <id_lattes_colaborador>1448696292042915</id_lattes_colaborador>
+        <id_lattes_colaborador>9060002746939878</id_lattes_colaborador>
         <id_lattes_colaborador>3286329883412205</id_lattes_colaborador>
-        <id_lattes_colaborador>6261175351521953</id_lattes_colaborador>
-        <id_lattes_colaborador>8710167967324399</id_lattes_colaborador>
-        <id_lattes_colaborador>7814251057051192</id_lattes_colaborador>
-        <id_lattes_colaborador>6447152946871851</id_lattes_colaborador>
-        <id_lattes_colaborador>0864387467991172</id_lattes_colaborador>
-        <id_lattes_colaborador>6895596224159751</id_lattes_colaborador>
-        <id_lattes_colaborador>7027397326836366</id_lattes_colaborador>
-        <id_lattes_colaborador>4737852130924504</id_lattes_colaborador>
-        <id_lattes_colaborador>6343812963286391</id_lattes_colaborador>
-        <id_lattes_colaborador>8886542904032896</id_lattes_colaborador>
-        <id_lattes_colaborador>0876621345057877</id_lattes_colaborador>
-        <id_lattes_colaborador>1197632799680549</id_lattes_colaborador>
-        <id_lattes_colaborador>2468284485612789</id_lattes_colaborador>
-        <id_lattes_colaborador>7889873539154418</id_lattes_colaborador>
-        <id_lattes_colaborador>7898883574312931</id_lattes_colaborador>
-        <id_lattes_colaborador>9355913138976768</id_lattes_colaborador>
-        <id_lattes_colaborador>3743547049132556</id_lattes_colaborador>
-        <id_lattes_colaborador>3841441176161322</id_lattes_colaborador>
-        <id_lattes_colaborador>8324937657941048</id_lattes_colaborador>
-        <id_lattes_colaborador>3405503472010994</id_lattes_colaborador>
-        <id_lattes_colaborador>1864473087690223</id_lattes_colaborador>
-        <id_lattes_colaborador>6616037648507681</id_lattes_colaborador>
-        <id_lattes_colaborador>6188724715662481</id_lattes_colaborador>
-        <id_lattes_colaborador>0133030200436061</id_lattes_colaborador>
-        <id_lattes_colaborador>2484471713795378</id_lattes_colaborador>
-        <id_lattes_colaborador>8060260176693064</id_lattes_colaborador>
-        <id_lattes_colaborador>2652890139812923</id_lattes_colaborador>
-        <id_lattes_colaborador>5672923385898818</id_lattes_colaborador>
+        <id_lattes_colaborador>4245038207639425</id_lattes_colaborador>
+        <id_lattes_colaborador>1191032241263225</id_lattes_colaborador>
+        <id_lattes_colaborador>8886634592087842</id_lattes_colaborador>
+        <id_lattes_colaborador>4964580751096899</id_lattes_colaborador>
+        <id_lattes_colaborador>6935433850568144</id_lattes_colaborador>
+        <id_lattes_colaborador>8624503347594626</id_lattes_colaborador>
+        <id_lattes_colaborador>6289602045034353</id_lattes_colaborador>
+        <id_lattes_colaborador>7955837132687218</id_lattes_colaborador>
+        <id_lattes_colaborador>7957606883987162</id_lattes_colaborador>
+        <id_lattes_colaborador>6331835838649652</id_lattes_colaborador>
+        <id_lattes_colaborador>1059640637829204</id_lattes_colaborador>
+        <id_lattes_colaborador>1946315322575953</id_lattes_colaborador>
+        <id_lattes_colaborador>8717178214835011</id_lattes_colaborador>
+        <id_lattes_colaborador>2361965786456118</id_lattes_colaborador>
+        <id_lattes_colaborador>5792248901353552</id_lattes_colaborador>
+        <id_lattes_colaborador>7979903064399755</id_lattes_colaborador>
+        <id_lattes_colaborador>9314744999783676</id_lattes_colaborador>
+        <id_lattes_colaborador>4304861930372695</id_lattes_colaborador>
+        <id_lattes_colaborador>6149193169335196</id_lattes_colaborador>
+        <id_lattes_colaborador>0062205640779624</id_lattes_colaborador>
+        <id_lattes_colaborador>8690279349884777</id_lattes_colaborador>
+        <id_lattes_colaborador>8338908425321389</id_lattes_colaborador>
+        <id_lattes_colaborador>0004730081140352</id_lattes_colaborador>
+        <id_lattes_colaborador>4753402114906101</id_lattes_colaborador>
+        <id_lattes_colaborador>9830590737740134</id_lattes_colaborador>
+        <id_lattes_colaborador>3262926164579789</id_lattes_colaborador>
         <id_lattes_colaborador>0898459356361957</id_lattes_colaborador>
-        <id_lattes_colaborador>0037340114779480</id_lattes_colaborador>
-        <id_lattes_colaborador>3457219624656691</id_lattes_colaborador>
-        <id_lattes_colaborador>4656690295059138</id_lattes_colaborador>
     </colaboradores>
     <artigos_em_periodicos>
         <artigo>
-          <doi>http://dx.doi.org/10.15388/infedu.2017.12</doi>
-          <titulo>Automatic content recommendation and aggregation according to SCORM</titulo>
-          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
-          <revista>INFORMATICS IN EDUCATION</revista>
-          <volume>INFORMATICS IN EDUCATION</volume>
-          <paginas>225-256</paginas>
+          <doi>http://dx.doi.org/10.1109/tla.2017.8071091</doi>
+          <titulo>Geo-Oriented Protocol: Retransmissions and Hops Analysis</titulo>
+          <autores>SILVA, LUIZ H. C. ; Mini, Raquel A. F. ; Maia, Guilherme ; CUNHA, FELIPE D.</autores>
+          <revista>IEEE Latin America Transactions</revista>
+          <volume>IEEE Latin America Transactions</volume>
+          <paginas>2298-2304</paginas>
           <numero></numero>
           <ano>2017</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.5753/rbie.2016.24.1.11</doi>
-          <titulo>Metodologia para recomendação e agregação de objetos de aprendizagem no padrão SCORM</titulo>
-          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
-          <revista>Revista Brasileira de Informática na Educação</revista>
-          <volume>Revista Brasileira de Informática na Educação</volume>
-          <paginas>11-30</paginas>
+          <doi>http://dx.doi.org/10.1016/j.adhoc.2016.02.017</doi>
+          <titulo>Data Communication in VANETs: Survey, Applications and Challenges</titulo>
+          <autores>CUNHA, FELIPE ; VILLAS, LEANDRO ; BOUKERCHE, Azzedine ; MAIA, Guilherme ; VIANA, Aline ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.</autores>
+          <revista>Ad Hoc Networks</revista>
+          <volume>Ad Hoc Networks</volume>
+          <paginas>90-103</paginas>
           <numero></numero>
           <ano>2016</ano>
         </artigo>
         <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jpdc.2014.10.007</doi>
+          <titulo>An Enhanced Location-Free Greedy Forward Algorithm with Hole Bypass Capability in Wireless Sensor Networks</titulo>
+          <autores>OLIVEIRA, Horacio Antonio Braga Fernandes de ; BOUKERCHE, Azzedine ; GUIDONI, Daniel Ludovico ; NAKAMURA, E. F. ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.</autores>
+          <revista>Journal of Parallel and Distributed Computing (Print)</revista>
+          <volume>Journal of Parallel and Distributed Computing (Print)</volume>
+          <paginas>1-10</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.3390/s150306607</doi>
+          <titulo>Sensing in the Collaborative Internet of Things</titulo>
+          <autores>BORGES NETO, J. ; SILVA, T. H. ; ASSUNCAO, R. M. ; MINI, R.A.F. ; LOUREIRO, A. A. F.</autores>
+          <revista>Sensors (Basel)</revista>
+          <volume>Sensors (Basel)</volume>
+          <paginas>6607-6632</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1109/TC.2012.229</doi>
+          <titulo>MuSA: Multivariate Sampling Algorithmfor Wireless Sensor Networks</titulo>
+          <autores>AQUINO, ANDRE L.L. ; JUNIOR, ORLANDO S. ; FRERY, ALEJANDRO C. ; DE ALBUQUERQUE, EDLER LINS ; Mini, Raquel A.F.</autores>
+          <revista>IEEE Transactions on Computers (Print)</revista>
+          <volume>IEEE Transactions on Computers (Print)</volume>
+          <paginas>968-978</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.4013/jacr.2014.41.04</doi>
+          <titulo>A hybrid sender and receiver-based routing protocol for Wireless Sensor Networks</titulo>
+          <autores>NOVY, G. F. C. ; FIGUEIREDO, F. L. P. D. ; MINI, R.A.F.</autores>
+          <revista>Journal of Applied Computing Research</revista>
+          <volume>Journal of Applied Computing Research</volume>
+          <paginas>35-48</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.adhoc.2013.01.004</doi>
+          <titulo>A distributed data storage protocol for heterogeneous wireless sensor networks with mobile sinks</titulo>
+          <autores>MAIA, Guilherme ; Guidoni, Daniel L. ; VIANA, ALINE C. ; AQUINO, ANDRE L.L. ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.</autores>
+          <revista>Ad Hoc Networks</revista>
+          <volume>Ad Hoc Networks</volume>
+          <paginas>1588-1602</paginas>
+          <numero></numero>
+          <ano>2013</ano>
+        </artigo>
+        <artigo>
           <doi></doi>
-          <titulo>Learning to expand queries using entities</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso; SANTOS, Rodrygo Luis Teodoro ; ZIVIANI, Nivio ; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares</autores>
-          <revista>Journal of The American Society For Information Science and Technology (Online)</revista>
-          <volume>Journal of The American Society For Information Science and Technology (Online)</volume>
-          <paginas>1870-1883</paginas>
+          <titulo>Applying the Small World Concepts in the Design of Heterogeneous Wireless Sensor Networks</titulo>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <revista>IEEE Communications Letters (Print)</revista>
+          <volume>IEEE Communications Letters (Print)</volume>
+          <paginas>953-955</paginas>
           <numero></numero>
-          <ano>2014</ano>
+          <ano>2012</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1145/2641383.2641393</doi>
-          <titulo>Exploiting entities for query expansion</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <revista>ACM SIGIR Forum</revista>
-          <volume>ACM SIGIR Forum</volume>
-          <paginas>43-43</paginas>
+          <doi>http://dx.doi.org/10.1016/j.comcom.2012.05.009</doi>
+          <titulo>Energy-efficient design of wireless sensor networks based on finite energy budget</titulo>
+          <autores>Mini, Raquel A.F.; Loureiro, Antonio A.F.</autores>
+          <revista>Computer Communications</revista>
+          <volume>Computer Communications</volume>
+          <paginas>1736-1748</paginas>
           <numero></numero>
-          <ano>2014</ano>
+          <ano>2012</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1007/s10791-009-9119-7</doi>
-          <titulo>Classifying documents with link-based bibliometric measures</titulo>
-          <autores>COUTO, Thierson ; ZIVIANI, Nivio ; CALADO, Pável Pereira ; DE CRISTO, Marco Antônio Pinheiro ; GONÇALVES, Marcos André ; DE MOURA, Edleno Silva ; BRANDÃO, W.</autores>
-          <revista>Information Retrieval (Dordrecht. Online)</revista>
-          <volume>Information Retrieval (Dordrecht. Online)</volume>
-          <paginas>315-345</paginas>
+          <doi>http://dx.doi.org/10.1016/j.comnet.2009.10.021</doi>
+          <titulo>On the design of resilient heterogeneous wireless sensor networks based on small world concepts. Computer Networks</titulo>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <revista>Computer Networks (1999)</revista>
+          <volume>Computer Networks (1999)</volume>
+          <paginas>1266-1281</paginas>
           <numero></numero>
           <ano>2010</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.5433/1981-8920.2007v12n1espp110</doi>
-          <titulo>Redes em Ciência da Informação: evidências comportamentais dos pesquisadores e tendências evolutivas das redes de coautoria.</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e</autores>
-          <revista>Informação & Informação (UEL. Online)</revista>
-          <volume>Informação & Informação (UEL. Online)</volume>
-          <paginas>110</paginas>
+          <doi></doi>
+          <titulo>Comunicação de Dados baseada no Receptor para Redes de Sensores Sem Fio</titulo>
+          <autores>MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <revista>Revista Brasileira de Redes de Computadores e Sistemas Distribuídos</revista>
+          <volume>Revista Brasileira de Redes de Computadores e Sistemas Distribuídos</volume>
+          <paginas>21-31</paginas>
           <numero></numero>
-          <ano>2007</ano>
-        </artigo>
-        <artigo>
-          <doi>http://dx.doi.org/10.1590/S1413-99362006000300002</doi>
-          <titulo>RedeCI: colaboração e produção científica em ciência da informação no Brasil</titulo>
-          <autores>PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso</autores>
-          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
-          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
-          <paginas>302-317</paginas>
-          <numero>2</numero>
-          <ano>2006</ano>
+          <ano>2010</ano>
         </artigo>
         <artigo>
           <doi></doi>
-          <titulo>Proposta para um esquema de classificação das fontes de informação para negócio</titulo>
-          <autores>SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso</autores>
-          <revista>Datagramazero (Rio de Janeiro)</revista>
-          <volume>Datagramazero (Rio de Janeiro)</volume>
-          <paginas>2</paginas>
-          <numero>5</numero>
+          <titulo>Data Dissemination based on the Energy Map</titulo>
+          <autores>GOUSSEVSKAIA, Olga ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva</autores>
+          <revista>IEEE Communications Magazine (Print)</revista>
+          <volume>IEEE Communications Magazine (Print)</volume>
+          <paginas>134-143</paginas>
+          <numero>7</numero>
           <ano>2005</ano>
         </artigo>
         <artigo>
           <doi></doi>
-          <titulo>Impactos e desafios na implementação de uma infra-estrutura de software livre nas organizações: estudo de caso de uma empresa do setor siderúrgico</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva</autores>
-          <revista>IP (Belo Horizonte)</revista>
-          <volume>IP (Belo Horizonte)</volume>
-          <paginas>53-66</paginas>
+          <titulo>Prediction-based Energy Map for Wireless Sensor Networks</titulo>
+          <autores>MINI, Raquel Aparecida de Freitas; MACHADO, Max Do Val ; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <revista>Ad Hoc Networks</revista>
+          <volume>Ad Hoc Networks</volume>
+          <paginas>235-253</paginas>
+          <numero>2</numero>
+          <ano>2005</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1109/jsac.2005.857209</doi>
+          <titulo>Data dissemination in autonomic wireless sensor networks</titulo>
+          <autores>MACHADO, MD.V. ; MATEUS, G.R. ; REZENDE, C.G. ; LOUREIRO, A.A.F. ; MINI, R.A.F. ; NOGUEIRA, J.M.S. ; GOUSSEVSKAIA, O.</autores>
+          <revista>IEEE Journal on Selected Areas in Communications (Print)</revista>
+          <volume>IEEE Journal on Selected Areas in Communications (Print)</volume>
+          <paginas>2305-2319</paginas>
           <numero></numero>
           <ano>2005</ano>
         </artigo>
         <artigo>
           <doi></doi>
-          <titulo>A internet como fonte de informações para negócio: um ensaio sobre a realidade da internet brasileira</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
-          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
-          <paginas>88-99</paginas>
-          <numero>1</numero>
-          <ano>2004</ano>
-        </artigo>
-        <artigo>
-          <doi></doi>
-          <titulo>Monitoração ambiental em contextos dinâmicos: busca e uso de informação por gerentes bancários</titulo>
-          <autores>BASTOS, Jaime Sadao Yamassaki ; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso</autores>
-          <revista>Perspectivas em Ciência da Informação (Impresso)</revista>
-          <volume>Perspectivas em Ciência da Informação (Impresso)</volume>
-          <paginas>218-229</paginas>
-          <numero>2</numero>
-          <ano>2004</ano>
-        </artigo>
-        <artigo>
-          <doi></doi>
-          <titulo>O uso de portais departamentais na gestão dos processos de desenvolvimento de software: o caso da Unisys do Brasil</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva</autores>
-          <revista>Informação & Sociedade (UFPB. Online)</revista>
-          <volume>Informação & Sociedade (UFPB. Online)</volume>
-          <paginas>139-157</paginas>
-          <numero>2</numero>
+          <titulo>The Distinctive Design Characteristics of a Wireless Sensor Network: The Energy Map</titulo>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <revista>Computer Communications</revista>
+          <volume>Computer Communications</volume>
+          <paginas>935-945</paginas>
+          <numero>10</numero>
           <ano>2004</ano>
         </artigo>
     </artigos_em_periodicos>
-    <texto_em_jornal>
-        <texto>
-          <ano>2015</ano>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Mineração de Dados</titulo>
-          <nome_jornal>Revista PUC Minas, </nome_jornal>
-          <data>01 set. 2015</data>
-          <volume>11</volume>
-          <paginas>54-55</paginas>
-        </texto>
-        <texto>
-          <ano>2004</ano>
-          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki</autores>
-          <titulo>Inclusão digital: utilização de código aberto pode facilitar o acesso da sociedade à informação</titulo>
-          <nome_jornal>Revista de Economia do Jornal Estado de Minas</nome_jornal>
-          <data>01 jul. 2004</data>
+    <capitulos_livros>
+        <capitulo>
+          <livro>Anna Maria Vegni, Valeria Loscrì, Athanasios V. Vasilakos. (Org.). Vehicular Social Networks. 1ªed</livro>
+          <titulo>Socially Inspired Data Dissemination for Vehicular Ad Hoc Networks</titulo>
+          <autores>CUNHA, F. D. ; MENEZES, J. G. M. ; VILLAS, L. A. ; VIANA, A. C. ; MINI, R.A.F. ; LOUREIRO, A.A.F.</autores>
+          <edicao></edicao>
+          <editora>CRC Press</editora>
           <volume></volume>
-          <paginas>16-17</paginas>
-        </texto>
-    </texto_em_jornal>
+          <paginas>1-208</paginas>
+          <ano>2016</ano>
+        </capitulo>
+        <capitulo>
+          <livro>Yan Zhang; Mohsen Guizani. (Org.). Theory for Wireless Communications and Networking</livro>
+          <titulo>Game Theory in Wireless Sensor Networks</titulo>
+          <autores>MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; ALMEIDA, Virgílio Augusto Fernandes Almeida</autores>
+          <edicao></edicao>
+          <editora>CRC Press</editora>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2010</ano>
+        </capitulo>
+        <capitulo>
+          <livro>L. E. Rodrigues, H. Miranda, and B. Garbinato. (Org.). Middleware for Network Eccentric and Mobile Applications. Berlin</livro>
+          <titulo>Energy in Wireless Sensor Networks</titulo>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <edicao></edicao>
+          <editora>Springer</editora>
+          <volume></volume>
+          <paginas>3-24</paginas>
+          <ano>2009</ano>
+        </capitulo>
+        <capitulo>
+          <livro>Hai Jin, Wenbin Jiang. (Org.). Handbook of Research on Developments and Trends in Wireless Sensor Networks: From Principle to Practice. Hershey, PA</livro>
+          <titulo>QoS: Requirements, Design Features, and Challenges on Wireless Sensor Networks</titulo>
+          <autores>Ricardo H. González ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas</autores>
+          <edicao></edicao>
+          <editora>IGI Global</editora>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2009</ano>
+        </capitulo>
+        <capitulo>
+          <livro>21º Simpósio Brasileiro de Redes de Computadores. (Org.). Minicurso do SBRC</livro>
+          <titulo>Redes de Sensores Sem Fio</titulo>
+          <autores>LOUREIRO, Antonio Alfredo Ferreira ; NOGUEIRA, José Marcos S ; RUIZ, Linnyer Beatryz ; MINI, Raquel Aparecida de Freitas</autores>
+          <edicao></edicao>
+          <editora></editora>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2003</ano>
+        </capitulo>
+        <capitulo>
+          <livro>Simpósio Brasileiro de Computação. (Org.). Jornada de Atualização em Informática</livro>
+          <titulo>Redes de Sensores Sem Fio</titulo>
+          <autores>LOUREIRO, Antonio Alfredo Ferreira ; NOGUEIRA, José Marcos S ; RUIZ, Linnyer Beatryz ; MINI, Raquel Aparecida de Freitas</autores>
+          <edicao></edicao>
+          <editora></editora>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2002</ano>
+        </capitulo>
+    </capitulos_livros>
     <trabalho_completo_congresso>
         <trabalho_completo>
           <doi></doi>
-          <autores>SILVA, Paula Raissa Costa e ; DIAS, Sérgio Mariano ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho ; ZARATE, Luis Enrique</autores>
-          <titulo>Formal concept analysis applied to professional social networks analysis</titulo>
-          <nome_evento>International Conference on Enterprise Information Systems (ICEIS)</nome_evento>
-          <ano>2017</ano>
-          <volume>1</volume>
-          <paginas>123-134</paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>DA SILVEIRA, Márcio Vinícius Campos ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Characterizing crimes from Web</titulo>
-          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <autores>SILVA, M. D. ; NUNES, I. O. ; MINI, R.A.F. ; LOUREIRO, A. A. F.</autores>
+          <titulo>ST-Drop: Uma Nova Estratégia de Gerenciamento de Buffer em Redes D2D Oportunistas</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
           <ano>2017</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>PEREIRA-JUNIOR, Otmar Martins ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho</autores>
-          <titulo>Automatic formal specification generation of APIs by mining unit tests</titulo>
-          <nome_evento>ACM Symposium on Applied Computing (SAC)</nome_evento>
-          <ano>2016</ano>
+          <autores>SILVA, L. H. C. ; MINI, R.A.F. ; CUNHA, F. D.</autores>
+          <titulo>Um Protocolo de Disseminação de Dados Geo-Orientado em Redes Veiculares</titulo>
+          <nome_evento>I WORKSHOP DE COMPUTAÇÃO URBANA (CoUrb)</nome_evento>
+          <ano>2017</ano>
           <volume></volume>
-          <paginas>1542-1545</paginas>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>PISTOLATO, Amanda Carolina ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>ConnectCity: a collaborative e-government approach to report city incidents</titulo>
-          <nome_evento>IADIS International Conference on WWW/INTERNET (ICWI)</nome_evento>
+          <autores>SILVA, M. D. ; NUNES, I. O. ; MINI, R.A.F. ; LOUREIRO, A. A. F.</autores>
+          <titulo>ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks</titulo>
+          <nome_evento>22nd IEEE Symposium on Computers and Communication (ISCC 2017)</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, F. D. ; SILVA, F. A. ; CELES, C. S. F. S. ; MENEZES, J. G. M. ; RUIZ, Linnyer B ; ANDRADE, R. M. C. ; MINI, R.A.F. ; BOUKERCHE, Azzedine ; LOUREIRO, A. A. F.</autores>
+          <titulo>Communication Analysis of Real Vehicular Calibrated Traces</titulo>
+          <nome_evento>IEEE International Conference on Communications (ICC)</nome_evento>
           <ano>2016</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>SOUZA, Caio Henrique Prado ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Análise comparativa de abordagens para análise de sentimento utilizando tweets em língua portuguesa</titulo>
-          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
+          <autores>ALVARENGA, D. A. ; CUNHA, F. D. ; MINI, R.A.F. ; LOUREIRO, A. A. F. ; VIANA, A. C.</autores>
+          <titulo>Classificando Comportamentos Sociais em Redes Veiculares</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1-14</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOUSADA, E. E. O. ; MINI, R.A.F.</autores>
+          <titulo>Internet das Coisas Aplicada nas Redes Elétricas Inteligentes Brasileiras</titulo>
+          <nome_evento>Simpósio Brasileiro de Computação Ubíqua e Pervasiva</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1-10</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>RIVERO, I. A. S. ; SANTOS, P. ; SILVA, R. ; JUNIOR, D. ; MINI, R.A.F.</autores>
+          <titulo>Controle de Consumo de Água Baseado em Reconhecimento Facial</titulo>
+          <nome_evento>Simpósio Brasileiro de Computação Ubíqua e Pervasiva</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1-10</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOUSADA, E. E. O. ; MINI, R.A.F.</autores>
+          <titulo>Proposta de Solução para Aplicação de Internet das Coisas nas Redes Elétricas Inteligentes Brasileiras Considerando as Limitações das Normas Vigentes</titulo>
+          <nome_evento>Seminário Integrado de Software e Hardware</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1-12</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, F. D. ; ALVARENGA, D. A. ; MENEZES, J. G. M. ; VIANA, A. C. ; MINI, R.A.F. ; LOUREIRO, A. A. F.</autores>
+          <titulo>Exploring Interactions in Vehicular Networks</titulo>
+          <nome_evento>The 14th ACM International Symposium on Mobility Management and Wireless Access (MOBIWAC)</nome_evento>
           <ano>2016</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>LESSA, Leandro Figueira ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Abordagem para descoberta de conhecimento em instrumentos avaliativos de organizações de ensino superior</titulo>
-          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
-          <ano>2016</ano>
-          <volume></volume>
-          <paginas></paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>DE PAULA, Andrey Leonardo ; BRANDÃO, Wladmir Cardoso ; GOMES, Rodrigo Richard</autores>
-          <titulo>Utilizando entidades na criação de descritores para avaliar a qualidade de recomendações de novos itens no problema de Cold-Start</titulo>
-          <nome_evento>Simpósio Mineiro de Sistemas de Informação (SMSI)</nome_evento>
-          <ano>2016</ano>
-          <volume></volume>
-          <paginas></paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso ; ZARATE, Luis Enrique</autores>
-          <titulo>Análise de redes sociais profissionais por meio de análise formal de conceitos</titulo>
-          <nome_evento>Symposium on Knowledge Discovery</nome_evento>
-          <ano>2016</ano>
-          <volume></volume>
-          <paginas></paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>ARPPA: mining professional profiles from LinkedIn using association rules</titulo>
-          <nome_evento>International Conference on Information</nome_evento>
+          <autores>MACHADO, Max Do Val ; MINI, R.A.F. ; LOUREIRO, A.A.F.</autores>
+          <titulo>Hybrid Policy to Determine Awaking Sensor Nodes</titulo>
+          <nome_evento>IEEE International Conference on Communications (ICC)</nome_evento>
           <ano>2015</ano>
           <volume></volume>
-          <paginas>72-77</paginas>
+          <paginas>1-6</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>FERREIRA, Wadson Gomes ; DOS SANTOS, Willian Antônio ; DE SOUZA, Breno Macena Pereira ; ZAIDAN, Tiago Matta Machado ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Assessing the efficiency of suffix stripping approaches for portuguese stemming</titulo>
-          <nome_evento>International Symposium on String Processing and Information Retrieval (SPIRE)</nome_evento>
+          <autores>MACHADO, Max Do Val ; MINI, R.A.F. ; LOUREIRO, A. A. F.</autores>
+          <titulo>Difusão de Dados em Redes de Sensores Sem Fio com Ciclo de Trabalho Reduzido</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
           <ano>2015</ano>
           <volume></volume>
-          <paginas>210-221</paginas>
+          <paginas>1-14</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>OLIVEIRA, Rafael de Almeida ; BRANDÃO, Wladmir Cardoso ; MARQUES-NETO, Humberto Torres</autores>
-          <titulo>Characterizing user behavior on a mobile SMS-based chat service</titulo>
-          <nome_evento>Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)</nome_evento>
+          <autores>FERREIRA, B. ; CUNHA, F. D. ; MINI, R.A.F. ; LOUREIRO, A. A. F. ; BRAZ, F. A. F. ; CAMPOS, S. V. A.</autores>
+          <titulo>Intelligent Service to Perform Overtaking in Vehicular Networks</titulo>
+          <nome_evento>IEEE Symposium on Computers and Communication (ISCC)</nome_evento>
           <ano>2015</ano>
           <volume></volume>
-          <paginas>130-139</paginas>
+          <paginas>1-8</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>PEREIRA, Bruno Laporais ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>ARCA: mining crime patterns using association rules</titulo>
-          <nome_evento>IADIS International Conference on Applied Computing (AC)</nome_evento>
+          <autores>CUNHA, F. D. ; ALVARENGA, D. A. ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, A. A. F.</autores>
+          <titulo>Understanding Interactions in Vehicular Networks Through Taxi Mobility</titulo>
+          <nome_evento>12th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CHAMON, J. P. ; SOUZA, T. ; ROSA, A. ; MINI, R.A.F.</autores>
+          <titulo>Um Sistema Inteligente Para Uso no Controle de Presença Acadêmico</titulo>
+          <nome_evento>Simpósio Brasileiro de Automação Inteligente</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-6</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, Felipe Domingos da ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Is it Possible to Find Social Properties in Vehicular Networks?</titulo>
+          <nome_evento>19th IEEE Symposium on Computers and Communications (ISCC)</nome_evento>
           <ano>2014</ano>
           <volume></volume>
-          <paginas>159-166</paginas>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila</autores>
-          <titulo>Recomendação e agregação de conteúdos relacionados em conformidade com o padrão SCORM</titulo>
-          <nome_evento>Simpósio Brasileiro de Informática na Educação (SBIE)</nome_evento>
+          <autores>CUNHA, Felipe Domingos da ; RODRIGUES, T. ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Extração de Propriedades Sociais em Redes Veiculares</titulo>
+          <nome_evento>Workshop de Redes P2P</nome_evento>
           <ano>2014</ano>
           <volume></volume>
-          <paginas>953-957</paginas>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>DE OLIVEIRA, Vitor Campos ; GOMES, Guilherme ; BELÉM, Fabiano Muniz ; BRANDÃO, Wladmir Cardoso ; DE ALMEIDA, Jussara Marques ; ZIVIANI, Nivio ; GONÇALVES, Marcos André</autores>
-          <titulo>Automatic query expansion based on tag recommendation</titulo>
-          <nome_evento>ACM International Conference on Information and Knowledge Management (CIKM)</nome_evento>
+          <autores>DAMASCENO, A. G. M. ; Mini, Raquel A. F. ; MARQUES NETO, Humberto Torres</autores>
+          <titulo>BaSCoP: um Esquema de Precificação para Redes de Celular Baseado no Congestionamento de Estações Base</titulo>
+          <nome_evento>Seminário Integrado de Software e Hardware (SEMISH)</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CHAMON, J. P. ; SOUZA, T. ; ROSA, A. ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Registro Ubíquo de Controle Acadêmico: Localização em Ambiente Interno utilizando Ciclo de Trabalho Dinâmico</titulo>
+          <nome_evento>Simpósio Brasileiro de Computação Ubíqua e Pervasiva</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>NOVY, Gabriel Felipe Cândido ; MACHADO, Max Do Val ; Fátima L.P.D. Figueiredo ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Computação Ubíqua e Pervasiva</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, Felipe Domingos da ; MENEZES, J. G. M. ; VIANA, Aline C. ; MINI, Raquel Aparecida de Freitas ; VILLAS, Leandro Aparecido ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Socially Inspired Data Dissemination for Vehicular Ad Hoc Networks</titulo>
+          <nome_evento>ACM International Conference on Modeling</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MARTINS, T. M. ; MINI, Raquel Aparecida de Freitas ; MARQUES NETO, H. T.</autores>
+          <titulo>UbiTester: Um Framework para Geração de Planos de Teste para Computação Ubíqua</titulo>
+          <nome_evento>Simpósio Brasileiro de Qualidade de Software</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, Felipe Domingos da ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>How effective is to look at a Vehicular Network under a Social Perception?</titulo>
+          <nome_evento>Internet of Things Communications and Technologies (IoT 2013) in conjunction with IEEE WImob 2013</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Política Híbrida para Determinar o Momento Acordado do Próximo Nó na Comunicação em Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
           <ano>2012</ano>
           <volume></volume>
-          <paginas>1985-1989</paginas>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>BOTELHO, Fabiano Cupertino ; BRANDÃO, Wladmir Cardoso ; ZIVIANI, Nivio</autores>
-          <titulo>Minimal perfect hashing and bloom filters made practical</titulo>
-          <nome_evento>IADIS International Conference on Applied Computing (AC)</nome_evento>
+          <autores>MAIA, Guilherme ; GUIDONI, Daniel Ludovico ; VIANA, Aline ; AQUINO, Andre Luiz Lins de ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Um Protocolo de Distribuição de Dados para Redes de Sensores Sem Fio Heterogêneas com Sink Móvel</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; VILLAS, Leandro Aparecido ; SOUZA, Fernanda S. H. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Framework based on Small World Features to Design HSNs Topologies with QoS</titulo>
+          <nome_evento>IEEE Symposium on Computers and Communications (ISCC)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, Felipe Domingos da ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Sensor-MAC with Dynamic Duty Cycle in Wireless Sensor Networks</titulo>
+          <nome_evento>IEEE Global Communications Conference Exhibition Industry Forum (Globecom)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; Villas, Leandro A. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Tree-based Approach to Design Heterogeneous Sensor Networks Based on Small World Concepts</titulo>
+          <nome_evento>7th IEEE International Workshop on Performance and Management of Wireless and Mobile Networks</nome_evento>
           <ano>2011</ano>
           <volume></volume>
-          <paginas>465-470</paginas>
+          <paginas>666-672</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>BRANDÃO, Wladmir Cardoso; DA SILVA, Altigran Soares ; DE MOURA, Edleno Silva ; ZIVIANI, Nivio</autores>
-          <titulo>Exploiting entity semantics for query expansion</titulo>
-          <nome_evento>IADIS International Conference on WWW/INTERNET (ICWI)</nome_evento>
-          <ano>2011</ano>
-          <volume></volume>
-          <paginas>365-372</paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva</autores>
-          <titulo>Uma abordagem baseada em métricas de redes complexas para o estabelecimento do grau de influência de termos em documentos</titulo>
-          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <autores>GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; OLIVEIRA, Horacio Antonio Braga Fernandes de ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Small World Model to Improve Synchronization Algorithms for Wireless Sensor Networks</titulo>
+          <nome_evento>IEEE Symposium on Computers and Communications</nome_evento>
           <ano>2010</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>BRANDÃO, Wladmir Cardoso; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares ; ZIVIANI, Nivio</autores>
-          <titulo>A self-supervised approach for extraction of attribute-value pairs from Wikipedia articles</titulo>
-          <nome_evento>International Symposium on String Processing and Information Retrieval (SPIRE)</nome_evento>
+          <autores>CUNHA, Felipe Domingos da ; NASCIMENTO, Michelle Nery ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Projeto Integrado para Comunicação de Dados em Redes de Sensores sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
           <ano>2010</ano>
           <volume></volume>
-          <paginas>279-289</paginas>
+          <paginas>89-102</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva</autores>
-          <titulo>Produtividade científica em programas de pós-graduação em ciência da informação no Brasil e nos EUA</titulo>
-          <nome_evento>I Colóquio Mediações e Usos de Saberes e da Informação: Um Diálogo França-Brasil</nome_evento>
+          <autores>MACHADO, Max Do Val ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Comunicação de Dados Baseada no Receptor para Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>61-74</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>JUNIOR, Orlando Silva ; AQUINO, Andre Luiz Lins de ; Mini, Raquel A.F.</autores>
+          <titulo>Um Algoritmo de Amostragem Multivariada Para Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>103-116</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CUNHA, Felipe Domingos da ; RAMOS, Heitor ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Roteamento Oportunístico em Redes de Sensores Tolerantes a Atrasos e Desconexões</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>423-436</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; SOUZA, Fernanda S. H. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Small World Model based on Multi-interface and Multi-channel to Design Heterogeneous Wireless Sensor Networks</titulo>
+          <nome_evento>IEEE Globecom</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Combined Approach for Receiver-based MAC and Network Layers in Wireless Sensor Networks</titulo>
+          <nome_evento>The 44th IEEE International Conference on Communications (ICC)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas>1-6</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>JUNIOR, Orlando Silva ; AQUINO, Andre Luiz Lins de ; MINI, Raquel Aparecida de Freitas ; FIGUEIREDO, Carlos Maurício Seródio</autores>
+          <titulo>Multivariate Reduction in Wireless Sensors Networks</titulo>
+          <nome_evento>XIV IEEE Symposium On Computers and Communications (ISCC)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas>726-729</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MELO, Pedro Olmo Stancioli Vaz de ; LOUREIRO, Antonio Alfredo Ferreira ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Um Protocolo Baseado em Teoria dos Jogos para a Cooperação entre Diferentes Redes de Sensores Sem Fio</titulo>
+          <nome_evento>XXVII Simpósio Brasileiro de Redes Computadores (SBRC)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas>1-14</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; BOUKERCHE, Azzedine</autores>
+          <titulo>An On-line Model to Design Heterogeneous Wireless Sensor Networks Based on Small World Concepts</titulo>
+          <nome_evento>XV IEEE Symposium On Computers and Communications (ISCC)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas>513-519</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MELO, Pedro Olmo Stancioli Vaz de ; CUNHA, Felipe Domingos da ; ALMEIDA, Jussara M. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>O Problema da Cooperação entre Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
           <ano>2008</ano>
           <volume></volume>
-          <paginas>248-262</paginas>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Redes de co-autoria dos professores da ciência da informação: um retrato da colaboração científica dessa disciplina no Brasil</titulo>
-          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Creating Small-World Models in Wireless Sensor Networks</titulo>
+          <nome_evento>IEEE International Symposium on Personal</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>On the Design of Heterogeneous Sensor Networks Based on Small World Concepts</titulo>
+          <nome_evento>11th ACM International Conference on Modeling</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MELO, Pedro Olmo Stancioli Vaz de ; CUNHA, Felipe Domingos da ; ALMEIDA, Jussara M. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>The Problem of Cooperation Among Different Wireless Sensor Networks</titulo>
+          <nome_evento>11th ACM-IEEE International Symposium on Modeling</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas>86-91</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>AQUINO, Andre Luiz Lins de ; LOUREIRO, Antonio Alfredo Ferreira ; OTAVIO, Antonio ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>An In-Network Reduction Algorithm for Real-Time Wireless Sensor Networks Applications</titulo>
+          <nome_evento>Fourth ACM International Workshop on Wireless Multimedia Networking and Performance Modeling (WMuNeP'08)</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>AQUINO, Andre Luiz Lins de ; FIGUEIREDO, Carlos Maurício Seródio ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas ; NAKAMURA, E. F. ; OLIVEIRA, Horacio Antonio Braga Fernandes de ; RUIZ, Linnyer Beatryz</autores>
+          <titulo>Redes de Sensores sem Fio para Monitoramento de Anfíbios</titulo>
+          <nome_evento>Grand Challenges in Computer Science Research in Latin America Workshop (CharLa'08)</nome_evento>
+          <ano>2008</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas ; MACHADO, Max Do Val ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Teoria dos Jogos na Comunicação de Dados em Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
+          <ano>2007</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; GUIDONI, Daniel Ludovico ; MELO, Pedro Olmo Stancioli Vaz de</autores>
+          <titulo>Gossiping using the Energy Map in Wireless Sensor Networks</titulo>
+          <nome_evento>10th ACM/IEEE International Symposium on Modeling</nome_evento>
+          <ano>2007</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>OLIVEIRA, Eduardo Mucelli Rezende ; MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Comunicação, Codificação e Fusão de Dados para uma Aplicação de Detecção de Incêndios utilizando Redes de Sensores sem Fio</titulo>
+          <nome_evento>1º Workshop on Pervasive and Ubiquitous Computing (WPUC)</nome_evento>
+          <ano>2007</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Difusão de Dados Baseada em Atraso e Energia para Redes de Sensores Sem Fio</titulo>
+          <nome_evento>24º Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
           <ano>2006</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Proposta para um esquema de classificação das fontes de informação para negócio</titulo>
-          <nome_evento>Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)</nome_evento>
+          <autores>PASSOS, Rodrigo ; NACIF, José Augusto ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; OTAVIO, Antonio ; COELHO, Claudionor</autores>
+          <titulo>System-level Dynamic Power Management Techniques for Communication Intensive Devices</titulo>
+          <nome_evento>14th IFIP International Conference on Very Large Scale Integration (VLSI)</nome_evento>
+          <ano>2006</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACHADO, Max Do Val ; GOUSSEVSKAIA, Olga ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva</autores>
+          <titulo>Data Dissemination Using the Energy Map</titulo>
+          <nome_evento>The Second Annual Conference on Wireless On demand Network Systems and Services (WONS)</nome_evento>
           <ano>2005</ano>
           <volume></volume>
-          <paginas></paginas>
+          <paginas>139-148</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Informação e cooperação nas comunidades de desenvolvimento de software livre: um panorama do cenário brasileiro</titulo>
-          <nome_evento>Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)</nome_evento>
+          <autores>PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Dynamic Power Management in Wireless Sensor Networks: An Application-driven Approach</titulo>
+          <nome_evento>The Second Annual Conference on Wireless On demand Network Systems and Services (WONS)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas>109-118</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GOUSSEVSKAIA, Olga ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva</autores>
+          <titulo>Avoiding Low-Energy Areas in Wireless Sensor Network Data Dissemination</titulo>
+          <nome_evento>23º Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas>565-578</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Energy-efficient Application-aware Communication for Wireless Sensor Networks</titulo>
+          <nome_evento>10th IFIP International Conference on Personal Wireless Communications (PWC)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas>1-15</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <titulo>A State-based Energy Dissipation Model for Wireless Sensor Nodes</titulo>
+          <nome_evento>10th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GUIDONI, Daniel Ludovico ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>TreeDC: Um Algoritmo de Coleta de dados Ciente da Energia para Redes de Sensores Sem Fio</titulo>
+          <nome_evento>Concurso de Trabalhos de Iniciação Científica (CTIC/SBC)</nome_evento>
+          <ano>2005</ano>
+          <volume></volume>
+          <paginas>1-10</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <titulo>The Best Energy Map of a Wireless Sensor Network</titulo>
+          <nome_evento>22º Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas>323-336</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <titulo>A More Realistic Energy Dissipation Model for Sensor Nodes</titulo>
+          <nome_evento>22º Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas>365-378</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <titulo>Energy Map Construction for Wireless Sensor Network under a Finite Energy Budget</titulo>
+          <nome_evento>The Seventh ACM/IEEE International Symposium on Modeling</nome_evento>
+          <ano>2004</ano>
+          <volume></volume>
+          <paginas>165-169</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Dynamic Power Management in Wireless Sensor Networks: An Application-driven Approach</titulo>
+          <nome_evento>VI Workshop de Comunicação sem Fio e Computação Móvel (WCSF)</nome_evento>
           <ano>2004</ano>
           <volume></volume>
           <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Inclusão digital, política de software e outras políticas de informação</titulo>
-          <nome_evento>Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)</nome_evento>
+          <autores>MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Um Modelo de Amostragem para a Construção do Mapa de Energia</titulo>
+          <nome_evento>VI Workshop de Comunicação sem Fio e Computação Móvel (WCSF)</nome_evento>
           <ano>2004</ano>
           <volume></volume>
-          <paginas></paginas>
+          <paginas>67-76</paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
-          <autores>BAX, Marcello Peixoto ; ALVARENGA, Lídia ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Sistema automático de disseminação seletiva de informação</titulo>
-          <nome_evento>IFLA World Library and Information Congress: Management and Marketing (IFLA MM)</nome_evento>
-          <ano>2004</ano>
-          <volume></volume>
-          <paginas></paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso</autores>
-          <titulo>Gestão do conhecimento: um estudo sobre empresas do setor de informática em Minas Gerais</titulo>
-          <nome_evento>Congresso Brasileiro de Gestão do Conhecimento (KMBRASIL)</nome_evento>
+          <autores>MINI, Raquel Aparecida de Freitas; NATH, Badri ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>Prediction-based Approaches to Construct the Energy Map for Wireless Sensor Networks</titulo>
+          <nome_evento>21º Simpósio Brasileiro de Redes de Computadores (SBRC)</nome_evento>
           <ano>2003</ano>
           <volume></volume>
-          <paginas></paginas>
+          <paginas>715-730</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri</autores>
+          <titulo>Prediction-based Energy Map for Wireless Sensor Networks</titulo>
+          <nome_evento>8th International Conference on Personal Wireless Communications (PWC). Lecture Notes in Computer Science</nome_evento>
+          <ano>2003</ano>
+          <volume></volume>
+          <paginas>12-26</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACHADO, Max Do Val ; TEIXEIRA, Gustavo Gomes ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas</autores>
+          <titulo>Avaliação de Classes de Nodos em Algoritmos de Roteamento para Redes Móveis Ad Hoc</titulo>
+          <nome_evento>Workshop de Comunicação sem Fio e Computação Móvel (WCSF)</nome_evento>
+          <ano>2002</ano>
+          <volume></volume>
+          <paginas>112-122</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MINI, Raquel Aparecida de Freitas; NATH, Badri ; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <titulo>A Probabilistic Approach to Predict the Energy Consumption in Wireless Sensor Networks</titulo>
+          <nome_evento>Workshop de Comunicação sem Fio e Computação Móvel (WCSF)</nome_evento>
+          <ano>2002</ano>
+          <volume></volume>
+          <paginas>232-245</paginas>
         </trabalho_completo>
     </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>DAMASCENO, A. G. M. ; Mini, Raquel A. F. ; MARQUES-NETO, H. T.</autores>
+          <titulo>A Base Station Congestion-Dependent Princing Scheme for Cellular Data Network</titulo>
+          <nome_evento>Student Workshop of 9th International Conference on emerging Networking EXperiments and Technologies, 2013, Santa Barbara, CA - EUA. Student Workshop at ACM CoNEXT 2013</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
     <apresentacao_trabalho>
         <trabalho_apresentado>
-          <titulo>Google cluster: arquitetura e componentes</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>The Energy Role in the Design of Applications for Wireless Sensor Network. Tutorial presented in 23rd ACM Symposium on Applied Computing</titulo>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira</autores>
           <ano>2008</ano>
-          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+          <natureza>Apresentação de Trabalho/Simpósio</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
-          <titulo>Gestão de conteúdo no apoio à gestão do conhecimento</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <ano>2005</ano>
-          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
-        </trabalho_apresentado>
-        <trabalho_apresentado>
-          <titulo>Gestão do conhecimento em organizações brasileiras</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <ano>2005</ano>
+          <titulo>Energy in Wireless Sensor Networks. Tutorial presented in Fourth International Conference on Networked Sensing Systems (INSS) - www.inss-conf.org</titulo>
+          <autores>MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira</autores>
+          <ano>2007</ano>
           <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
         </trabalho_apresentado>
     </apresentacao_trabalho>
     <producao_bibliografica>
         <producao>
-          <titulo>Exploiting entities for query expansion</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <ano>2013</ano>
-          <natureza>Tese de Doutorado</natureza>
+          <titulo>Redes de Sensoriamento Participativo: Desafios e Oportunidades</titulo>
+          <autores>SILVA, T. H. ; MELO, P. O. S. V. ; BORGES NETO, J. ; RIBEIRO, A. I. J. T. ; CELES, C. S. F. S. ; MOTA, V. F. S. ; CUNHA, F. D. ; FERREIRA, A. P. G. ; MACHADO, K. L. S. ; MINI, R.A.F. ; ALMEIDA, J. M. ; LOUREIRO, A. A. F.</autores>
+          <ano>2015</ano>
+          <natureza>Minicurso apresentado no SBRC 2015</natureza>
         </producao>
         <producao>
-          <titulo>Método para produção de representações conceituais a partir de literatura especializada utilizando a abordagem analítico-sintética</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>TreeDC: Um Algoritmo de Coleta de Dados Ciente da Energia para Redes de Sensores sem Fio. REIC - Revista eletrônica de iniciação científica (volume 5)</titulo>
+          <autores>GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; MACHADO, Max Do Val</autores>
           <ano>2005</ano>
-          <natureza>Dissertação de Mestrado</natureza>
+          <natureza>volume 5), 2005 (Artigo científico</natureza>
         </producao>
     </producao_bibliografica>
     <trabalhos_tecnicos>
         <trabalho>
-          <titulo>Construção e Publicação de Artigos Científicos em Computação</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC). 2017</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do IEEE International Workshop on Performance and Management of Wireless and Mobile Networks (P2MNet)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do IEEE International Workshop on Performance and Management of Wireless and Mobile Networks (P2MNet)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Coordenadora do Comitê de Programa do Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC). 2016</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)</titulo>
+          <autores>MINI, R.A.F</autores>
           <ano>2015</ano>
         </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2015</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do IEEE International Workshop on Performance and Management of Wireless and Mobile Networks (P2MNet)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2015</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2015</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2014</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2013</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2012</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Membro do Comitê de Programa do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)</titulo>
+          <autores>MINI, R.A.F</autores>
+          <ano>2011</ano>
+        </trabalho>
     </trabalhos_tecnicos>
-    <producao_tecnica>
-        <producao>
-          <titulo>Oficina de Elaboração de Projetos de Pesquisa</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <natureza>Curso de curta duração ministrado/Outra</natureza>
-          <ano>2016</ano>
-        </producao>
-        <producao>
-          <titulo>Gestão Eletrônica de Documentos</titulo>
-          <autores>BRANDÃO, Wladmir Cardoso</autores>
-          <natureza>Curso de curta duração ministrado/Especialização</natureza>
-          <ano>2007</ano>
-        </producao>
-    </producao_tecnica>
+    <orientacao_doutorado_em_andamento>
+        <tese>
+          <nome_aluno>Efrem Eladie de Oliveira Lousada</nome_aluno>
+          <titulo_trabalho>Serviços nas Nuvens para Redes Veiculares</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>João Batista Borges Neto</nome_aluno>
+          <titulo_trabalho>Qualidade de Serviços na Internet das Coisas</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Coorientador).</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_em_andamento>
     <orientacao_mestrado_em_andamento>
         <dissertacao>
-          <nome_aluno>Leandro Figueira Lessa</nome_aluno>
-          <titulo_trabalho>Graduate course recommendation</titulo_trabalho>
+          <nome_aluno>Luiz Henrique da Costa Silva</nome_aluno>
+          <titulo_trabalho>Serviços para Redes Veiculares</titulo_trabalho>
           <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Luis Antônio Martins dos Reis</nome_aluno>
+          <titulo_trabalho>Serviços em Redes Veiculares</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Michael Dougras Silva</nome_aluno>
+          <titulo_trabalho>ST-Drop: Uma Nova Estratégia de Gerenciamento de Buffer em Redes Oportunistas D2D</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Coorientador).</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_em_andamento>
+    <orientacao_doutorado_concluido>
+        <tese>
+          <nome_aluno>Felipe Domingos da Cunha</nome_aluno>
+          <titulo_trabalho>Serviços em Redes Veiculares Cientes da Mobilidade Social</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Max do Val Machado</nome_aluno>
+          <titulo_trabalho>Comunicação de Dados baseada no Escalonamento de Trabalho de Nós Vizinhos em Redes de Sensores Sem Fio, Ano de obtenção</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Daniel Ludovico Guidoni</nome_aluno>
+          <titulo_trabalho>Applying the Small World Concepts in the Design of Heterogeneous Wireless Sensor Networks Topologies</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_concluido>
+    <orientacao_mestrado_concluido>
+        <dissertacao>
+          <nome_aluno>Davidysson Abreu Alvarenga</nome_aluno>
+          <titulo_trabalho>Algoritmos para Redes Veiculares</titulo_trabalho>
+          <ano>2015</ano>
           <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Úrsula Rosa Monteiro de Castro</nome_aluno>
-          <titulo_trabalho>Characterizing criminal patterns and predicting crimes from Web</titulo_trabalho>
-          <ano>2017</ano>
+          <nome_aluno>João Paulo Machado Chamon</nome_aluno>
+          <titulo_trabalho>Registro Ubíquo de Presença para Controle Acadêmico</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Paulo Sérgio Lipanga</nome_aluno>
+          <titulo_trabalho>Protocolo Adaptativo de Disseminação de Dados para Redes Veiculares</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Agripino Gabriel Miranda Damasceno</nome_aluno>
+          <titulo_trabalho>BASCOP: Um Esquema de Precificação para Redes de Celular Baseado no Congestionamento de Estações Base</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Rodrigo Santos Novelli</nome_aluno>
+          <titulo_trabalho>Detecção de Presença em Ambientes Fechados usando Redes sem Fio</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Gabriel Felipe Cândido Novy</nome_aluno>
+          <titulo_trabalho>Protocolo de Roteamento Híbrido baseado em Emissor e em Receptor para Redes de Sensores sem Fio</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Thiago Moraes Martins</nome_aluno>
+          <titulo_trabalho>Geração de Planos de Teste para Computação Ubíqua</titulo_trabalho>
+          <ano>2013</ano>
           <instituicao>Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
-    </orientacao_mestrado_em_andamento>
-    <orientacao_especializacao_concluido>
-        <monografia>
-          <nome_aluno>Cristiano Saúde Belém</nome_aluno>
-          <titulo_trabalho>Proposição de metodologia de implantação de portais corporativos baseada na experiência dos Correios de Minas Gerais</titulo_trabalho>
+        <dissertacao>
+          <nome_aluno>Francisco Borges Rodrigues</nome_aluno>
+          <titulo_trabalho>UbiUML: Perfil da UML para Modelagem de Sistemas de Computação Ubíqua</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Ilo Amy Saldanha Rivero</nome_aluno>
+          <titulo_trabalho>Rede de Sensores sem Fio para Monitoramento de Equipamentos Eletrônicos</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Marzon Pereira de Castilho</nome_aluno>
+          <titulo_trabalho>Arquitetura de Software para Prolongar a Energia Disponível em Redes de Sensores Sem Fio</titulo_trabalho>
           <ano>2009</ano>
-          <instituicao>(Aperfeiçoamento/Especialização em Gestão da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </monografia>
-        <monografia>
-          <nome_aluno>Nohelen Maria Souto Ribeiro</nome_aluno>
-          <titulo_trabalho>Construção de uma proposta metodológica para implantação de gestão do conhecimento em órgãos públicos</titulo_trabalho>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Efrem Eladie de Oliveira Lousada</nome_aluno>
+          <titulo_trabalho>Ciclo de Trabalho Dinâmico em uma Rede para Medição de Energia Elétrica</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Felipe Domingos da Cunha</nome_aluno>
+          <titulo_trabalho>Projeto Integrado para Coleta de Dados em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Orlando Silva Junior</nome_aluno>
+          <titulo_trabalho>Redução de Dados Multivariados em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Michelle Nery Nascimento</nome_aluno>
+          <titulo_trabalho>Projeto Integrado entre Protocolos MAC e Roteamento em Redes de Sensores sem Fio</titulo_trabalho>
           <ano>2008</ano>
-          <instituicao>(Aperfeiçoamento/Especialização em Gestão da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </monografia>
-    </orientacao_especializacao_concluido>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Pedro Olmo Stancioli Vaz de Melo</nome_aluno>
+          <titulo_trabalho>Teoria dos Jogos na Comunicação de Dados em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2007</ano>
+          <instituicao>Dissertação (Mestrado em Mestrado Em Informática) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Daniel Ludovico Guidoni</nome_aluno>
+          <titulo_trabalho>Difusão de Dados Baseada em Atraso e Energia para Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2007</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Max do Val Machado</nome_aluno>
+          <titulo_trabalho>Disseminação de dados baseada em trajetórias e energia para redes de sensore sem fio</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Rodrigo Passos</nome_aluno>
+          <titulo_trabalho>Gerenciamento Dinâmico de Energia em Redes de Sensores Sem Fio: Uma Abordagem Orientada à Aplicação</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_concluido>
     <orientacao_tcc_concluido>
         <tcc>
-          <nome_aluno>Matheus de Oliveira Salim</nome_aluno>
-          <titulo_trabalho>Predição do sucesso dos times da NFL utilizando análise de redes complexas</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Dayene Dias do Vale</nome_aluno>
-          <titulo_trabalho>Identificando esteriótipos da percepção online de confiabilidade</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Ana Carolina Conceição de Jesus</nome_aluno>
-          <titulo_trabalho>Análise do comportamento de rotatividade no LinkedIn utilizando aprendizado de máquina</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Daniel Reis de Almeida</nome_aluno>
-          <titulo_trabalho>Explorando entidades reconhecidas em sinopse para a recomendação de filmes</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Vinícius Ferreira Salgado</nome_aluno>
-          <titulo_trabalho>CRION: Dataset para análise e predição de crimes</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Engenharia de Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Dehua Chen</nome_aluno>
-          <titulo_trabalho>Avaliação de arquiteturas de aprendizagem profunda para construção de sistemas de diálogo orientado a objetivo</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Felipe Coelho Silva</nome_aluno>
-          <titulo_trabalho>SSV: Interactive visualization system for social media stock-related content analysis</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Rodolpho Rodrigo Tomaz Lopes</nome_aluno>
-          <titulo_trabalho>Abordagem para recomendação de cursos de especialização através do LinkedIn</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>William Célio dos Santos Pereira</nome_aluno>
-          <titulo_trabalho>Explorando tweets para mineração de opiniões sobre sítios de comércio eletrônico</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Sidrac Victor Pedercini Barony</nome_aluno>
-          <titulo_trabalho>Otimização de projeto e consulta em bancos de dados de eventos climáticos</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Tiago Fortunato Lino</nome_aluno>
-          <titulo_trabalho>Proposta de viabilidade de aplicação de um algoritmo de busca distribuído para compartilhamento dinâmico de rotas</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Márcio Vinícius Campos da Silveira</nome_aluno>
-          <titulo_trabalho>Predição de padrões criminais utilizando dados da Web</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Raphael Matori da Rocha</nome_aluno>
-          <titulo_trabalho>Automata-based stemming</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Victor Portella Nunes</nome_aluno>
-          <titulo_trabalho>Proposta de um algoritmo paralelo de stemming com processamento GPU em plataforma CUDA</titulo_trabalho>
+          <nome_aluno>Luiz Henrique da Costa Silva</nome_aluno>
+          <titulo_trabalho>Uma Solução para Disseminação de Vídeo para Regiões de Interesse em Redes Veiculares</titulo_trabalho>
           <ano>2016</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Caio Henrique Prado de Souza</nome_aluno>
-          <titulo_trabalho>Análise comparativa de abordagens para análise de sentimento utilizando tweets em língua portuguesa</titulo_trabalho>
+          <nome_aluno>Ana Cristina Pereira Teixeira</nome_aluno>
+          <titulo_trabalho>Análise de Dados Coletados em Testbed de Redes de Sensores Sem Fio</titulo_trabalho>
           <ano>2016</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Amanda Carolina Pistolato</nome_aluno>
-          <titulo_trabalho>ConnectCity: A collaborative e-government social network based on incidents</titulo_trabalho>
-          <ano>2015</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Mikaele Maia Cassaro</nome_aluno>
-          <titulo_trabalho>Proposta de banco de dados para reciclagem e reuso de materiais eletrônicos</titulo_trabalho>
-          <ano>2015</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Wadson Gomes Ferreira</nome_aluno>
-          <titulo_trabalho>Proposta de abordagem não supervisionada para classificação de artigos da Wikipedia</titulo_trabalho>
-          <ano>2015</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Lucas de Bessa Silva</nome_aluno>
-          <titulo_trabalho>Análise de impacto de variações de carga em SGBDRs multi-inquilino de instância em nuvem</titulo_trabalho>
-          <ano>2015</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <nome_aluno>Rafael Moreira Melo</nome_aluno>
+          <titulo_trabalho>Análise de Redes de Sensoriamento Participativo para o Pareamento Local de Serviços</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Lucas Fernando Maçoni Ferreira</nome_aluno>
-          <titulo_trabalho>VaiPedirOQue: Sistema colaborativo móvel para busca e avaliação de produtos em bares e restaurantes</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <nome_aluno>Daniel Durães Caminhas</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de Aplicações de Sensoriamento Participativo</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduação em Engenharia de Sistemas) - Universidade Federal de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Thiago Gonçalves Teixeira</nome_aluno>
-          <titulo_trabalho>Descoberta de conhecimento em dados de utilização de rede universitária: Um estudo de caso na PUC Minas</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Alline Cristiane Dias</nome_aluno>
-          <titulo_trabalho>Proposta de aplicativo móvel para disseminação de informação meteorológica</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Leonardo de Jesus Carmônio</nome_aluno>
-          <titulo_trabalho>Aplicabilidade de midias sociais para mensurar opinião da população online: um estudo de caso das eleições presidenciais no Brasil em 2014</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Paula Raissa Costa e Silva</nome_aluno>
-          <titulo_trabalho>ARPPA: Mining professional profiles from LinkedIn using association rules</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Bruno Laporais Pereira</nome_aluno>
-          <titulo_trabalho>ARCA: Mining crime patterns using association rules</titulo_trabalho>
-          <ano>2014</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>César Augusto Silveira de Andrade</nome_aluno>
-          <titulo_trabalho>Análise cooperativa de soluções antivírus para estações de trabalho</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Carlos Antônio Barbosa Nascimento Junior</nome_aluno>
-          <titulo_trabalho>Aplicação móvel para suporte à gestão acadêmica</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Eduardo Guilherme de Andrade</nome_aluno>
-          <titulo_trabalho>Aplicação de SOA para integração de aplicações móveis e Web</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Victor de Sousa Oliveira</nome_aluno>
-          <titulo_trabalho>Metalinguagem para geração e correção automática de avaliações acadêmicas</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Gilson Assunção Rodrigues</nome_aluno>
-          <titulo_trabalho>Proposta de melhoria do processo de gerenciamento de incidentes baseado na abordagem ITIL: Um estudo de caso em uma empresa de grande porte do ramo varejista</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Victor Henrique Bernardo do Nascimento</nome_aluno>
-          <titulo_trabalho>Um estudo de caso sobre virtualização de estações de trabalho em ambiente corporativo</titulo_trabalho>
-          <ano>2013</ano>
-          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Sandra Maria Pereira</nome_aluno>
-          <titulo_trabalho>Proposta de arquitetura de informação para a distribuição de conteúdo interativo do Sistema Brasileiro de Televisão Digital Terrestre - SBTVD-T</titulo_trabalho>
+          <nome_aluno>Egberto Linhares Leal</nome_aluno>
+          <titulo_trabalho>Integração Automática entre UbiWise e o Framework Aura</titulo_trabalho>
           <ano>2009</ano>
-          <instituicao>(Graduação em Ciência da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Vinícius Soares Pires e Luz</nome_aluno>
-          <titulo_trabalho>Modelagem do fluxo de informação para melhoria do processo de integração em uma indústria farmacêutica: um estudo de caso</titulo_trabalho>
+          <nome_aluno>Hugo Costa Azevedo</nome_aluno>
+          <titulo_trabalho>Fornecedor Base: Extensão do Framework Arquitetural Aura para Implantação de Ambientes Ubíquos</titulo_trabalho>
           <ano>2009</ano>
-          <instituicao>(Graduação em Engenharia de Produção) - Faculdade de Engenharia de Agrimensura de Minas Gerais</instituicao>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Natália de Fátima Fernandes Silva</nome_aluno>
-          <titulo_trabalho>Caracterização de problemas de comunicação da rede social RDEIN-BH</titulo_trabalho>
+          <nome_aluno>Marco Santos Chalub</nome_aluno>
+          <titulo_trabalho>UbiUML: Perfil UML para Modelagem de Sistemas de Computação Ubíqua</titulo_trabalho>
           <ano>2009</ano>
-          <instituicao>(Graduação em Ciência da Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Eduardo Gambogi Cardoso</nome_aluno>
-          <titulo_trabalho>Proposta de modelagem de um banco de dados para análise de rede social</titulo_trabalho>
+          <nome_aluno>Gustavo de Alckmin Ferreira</nome_aluno>
+          <titulo_trabalho>Análise da presença de usuários egoístas em redes Par-a-Par utilizando a teoria dos jogos</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Maria Cecília Ribeiro Marques</nome_aluno>
+          <titulo_trabalho>Caracterização de tráfego de sistemas IPTV e P2PTV</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Mario Henrique Gontijo Freitas</nome_aluno>
+          <titulo_trabalho>Análise de Desempenho do Servidor Asterisk PBX em Ligações SIP</titulo_trabalho>
+          <ano>2008</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Eduardo Mucelli Rezende Oliveira</nome_aluno>
+          <titulo_trabalho>Comunicação, Codificação e Fusão de Dados para uma Aplicação de Detecção de Incêndios utilizando Redes de Sensores sem Fio</titulo_trabalho>
+          <ano>2008</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Daniel Dias Lopes Goulart</nome_aluno>
+          <titulo_trabalho>Um Protocolo MAC para Disseminação em Curvas nas Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2008</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Felipe Domingos da Cunha</nome_aluno>
+          <titulo_trabalho>Eleição de Líder com Mapa de Energia Localizado em Redes de Sensores sem Fio</titulo_trabalho>
           <ano>2006</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Márcio Teixeira Miranda</nome_aluno>
-          <titulo_trabalho>Migração automática de dados entre uma base de dados de Survey on-line e uma base de dados para Análise de Rede Social</titulo_trabalho>
+          <nome_aluno>Henrique de Miranda Gontijo</nome_aluno>
+          <titulo_trabalho>Difusão de Dados baseada em Gossiping para Redes de Sensores sem Fio</titulo_trabalho>
           <ano>2006</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Irleu Baldini das Neves</nome_aluno>
-          <titulo_trabalho>Automatização de carga de dados em banco de dados para análise de rede social: Uma proposta de utilização da API do Google</titulo_trabalho>
+          <nome_aluno>Thiago de Matos Rabelo</nome_aluno>
+          <titulo_trabalho>Utilizando do Aspecto Temporal na Construção do Mapa de Energia para Redes de Sensores Sem Fio</titulo_trabalho>
           <ano>2006</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Juliana Maria Ribeiro</nome_aluno>
-          <titulo_trabalho>Impactos decorrentes da portabilidade de um Sistema de Informação para diferentes Sistemas Gerenciadores de Bancos de Dados Relacionais: o caso do Group Software</titulo_trabalho>
+          <nome_aluno>Danilo Santos Melo</nome_aluno>
+          <titulo_trabalho>Avaliação de um Sistema de Detecção de Intrusão para Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2006</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Sheila Rosa Braz</nome_aluno>
+          <titulo_trabalho>Algoritmos de Roteamento para Redes Móveis Ad Hoc</titulo_trabalho>
           <ano>2005</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Glayce Kelen Horta</nome_aluno>
-          <titulo_trabalho>Estudo comparatório entre modelos de dados multidimensionais e modelos de dados relacionais</titulo_trabalho>
+          <nome_aluno>Daniel Ludovico Guidoni</nome_aluno>
+          <titulo_trabalho>TreeDC: Um Algoritmo de Coleta de Dados Ciente da Energia para Redes de Sensores sem Fio</titulo_trabalho>
           <ano>2005</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Rodrigo Bessa Sze</nome_aluno>
-          <titulo_trabalho>Um sistema para auxílio ao aprendizado de álgebra relacional</titulo_trabalho>
-          <ano>2005</ano>
+          <nome_aluno>César Augusto Rocha Vieira</nome_aluno>
+          <titulo_trabalho>Deficit Round Robin: Análise de Escalonamento em Redes de Troca de Pacotes</titulo_trabalho>
+          <ano>2004</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Daniel Mourão Felizardo</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de uma proposta de ontologia para o problema de representações geográficas</titulo_trabalho>
-          <ano>2005</ano>
+          <nome_aluno>Vitor Tee How Siao Junior</nome_aluno>
+          <titulo_trabalho>Disseminação de Pacotes em RSSFs Utilizando Orçamento Finito</titulo_trabalho>
+          <ano>2004</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Samuel Gontijo</nome_aluno>
-          <titulo_trabalho>Uso de ontologia para a definição de um histórico escolar</titulo_trabalho>
-          <ano>2005</ano>
+          <nome_aluno>Bruno Cezar Carvalho Pinheiro</nome_aluno>
+          <titulo_trabalho>Mapa de Energia Localizado para Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2004</ano>
           <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Raphael Gallo Araújo Lima</nome_aluno>
+          <titulo_trabalho>Análise do Random Early Detection</titulo_trabalho>
+          <ano>2004</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Mozart Fernandes Moreira Lima</nome_aluno>
+          <titulo_trabalho>Redes de Curto Alcance Baseadas em Bluetooth</titulo_trabalho>
+          <ano>2003</ano>
+          <instituicao>(Graduação em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
     </orientacao_tcc_concluido>
     <orientacao_iniciacao_cientifica_concluido>
         <iniciacao_cientifica>
-          <nome_aluno>Adriane de Jesus Miranda Gomes</nome_aluno>
-          <titulo_trabalho>Abordagem supervisionada para identificação de mensagens maliciosas em chats SMS</titulo_trabalho>
-          <ano>2017</ano>
-          <instituicao>(Graduando em Sistemas de Informação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <nome_aluno>Wadson Gomes Ferreira</nome_aluno>
+          <titulo_trabalho>Disseminação de Dados em Redes Veiculares</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Caio Eduardo Ribeiro</nome_aluno>
+          <titulo_trabalho>Avaliando Codificação em Redes no Projeto de Protocolos para RSSFs Tolerantes a Atrasos e Desconexões</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
           <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
         <iniciacao_cientifica>
-          <nome_aluno>Claudinei Gomes Mendes</nome_aluno>
-          <titulo_trabalho>Explorando evidências semânticas de entidades em recuperação de informação</titulo_trabalho>
-          <ano>2017</ano>
+          <nome_aluno>Thiago Assis de Oliveira Rodrigues</nome_aluno>
+          <titulo_trabalho>Utilizando Métricas de Redes Complexas no Projeto de Protocolos de Roteamento para RSSFs Tolerantes a Atrasos e Desconexões</titulo_trabalho>
+          <ano>2012</ano>
           <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Marcelo Abi-Acl Xavier</nome_aluno>
+          <titulo_trabalho>Redes de Sensores sem Fio para Monitoramento de Ambientes</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Michael Martins Consedey</nome_aluno>
+          <titulo_trabalho>Sincronização em Redes de Sensores de Sensores sem Fio</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Mirna Paula Silva</nome_aluno>
+          <titulo_trabalho>Sincronização em Redes de Sensores sem Fio</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Cristiano de Oliveira Baumgartl</nome_aluno>
+          <titulo_trabalho>Projeto Integrado das Camadas de Acesso ao Meio e de Rede em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2007</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Eduardo Mucelli Rezende Oliveira</nome_aluno>
+          <titulo_trabalho>Codificação, Fusão e Comunicação de Dados em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2006</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Felipe Domingos da Cunha</nome_aluno>
+          <titulo_trabalho>Modelo de Orçamento Finito de Energia para a Eleição de Nós Líderes em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Thiago de Matos Rabelo</nome_aluno>
+          <titulo_trabalho>Utilizando o Aspecto Temporal na Construção do Mapa de Energia para Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2005</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Daniel Ludovico Guidoni</nome_aluno>
+          <titulo_trabalho>Projeto de Algoritmos Distribuídos cientes da Energia para Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2004</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Marcelo Cordeiro Leite</nome_aluno>
+          <titulo_trabalho>Análise de Algoritmos de Predição para a Construção do Mapa de Energia em Redes de Sensores Sem Fio</titulo_trabalho>
+          <ano>2004</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Max do Val Machado</nome_aluno>
+          <titulo_trabalho>Algoritmos de Roteamento para Redes Móveis Ad Hoc</titulo_trabalho>
+          <ano>2001</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Gustavo Gomes Teixeira</nome_aluno>
+          <titulo_trabalho>Utilizando Agentes Móveis no Ambiente de Rede de Comunicação Sem Fio</titulo_trabalho>
+          <ano>2001</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais</instituicao>
+          <agencia_de_fomento>Pontifícia Universidade Católica de Minas Gerais</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
     </orientacao_iniciacao_cientifica_concluido>
     <participacao_evento>
         <evento>
-          <titulo>Simpósio Brasileiro de Multimidia e Web (WebMedia).Membro de Comitê de Programa. 2017. (Simpósio).</titulo>
-          <ano>2017</ano>
-        </evento>
-        <evento>
-          <titulo>IADIS International Conference on WWW/INTERNET (ICWI). ConnectCity: a collaborative e-government approach to report city incidents. 2016. (Congresso).</titulo>
-          <ano>2016</ano>
-        </evento>
-        <evento>
-          <titulo>Simpósio Brasileiro de Multimidia e Web (WebMedia).Membro de Comitê de Programa. 2016. (Simpósio).</titulo>
-          <ano>2016</ano>
-        </evento>
-        <evento>
-          <titulo>International Symposium on String Processing and Information Retrieval (SPIRE).Assessing the Efficiency of Suffix Stripping Approaches for Portuguese Stemming. 2015. (Simpósio).</titulo>
-          <ano>2015</ano>
-        </evento>
-        <evento>
-          <titulo>IV International Workshop Innovation and Clusters. 2014. (Seminário).</titulo>
+          <titulo>17th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM). Socially Inspired Data Dissemination for Vehicular Ad Hoc Networks. 2014. (Congresso).</titulo>
           <ano>2014</ano>
         </evento>
         <evento>
-          <titulo>6th Alberto Mendelzon International Workshop on Foundations of Data Management.Explointing Entity Semantics for Query Expansion. 2012. (Oficina).</titulo>
+          <titulo>XXXII Simpósio Brasileira de Redes de Computadores e Sistemas Distribuídos.Extração de Propriedades Sociais em Redes Veiculares. 2014. (Simpósio).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>XXXIV Congresso da Sociedade Brasileira de Computação (CSBC). Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio. 2014. (Congresso).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>XXX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos.Política Híbrida para Determinar o Momento Acordado do Próximo Nó na Comunicação em Redes de Sensores Sem Fio. 2012. (Simpósio).</titulo>
           <ano>2012</ano>
         </evento>
         <evento>
-          <titulo>3o. Workshop de Pesquisa do Instituto Nacional de Ciência e Tecnologia para Web (INWEB2011).Exploiting entity semantics for query expansion. 2011. (Oficina).</titulo>
-          <ano>2011</ano>
-        </evento>
-        <evento>
-          <titulo>IADIS International Conference Applied Computing 2011 (AC2011). Minimal perfect hashing and bloom filters made practical. 2011. (Congresso).</titulo>
-          <ano>2011</ano>
-        </evento>
-        <evento>
-          <titulo>IADIS International Conference WWW/INTERNET 2011 (ICWI2011). Exploiting entity semantics for query expansion. 2011. (Congresso).</titulo>
-          <ano>2011</ano>
-        </evento>
-        <evento>
-          <titulo>International Symposium on String Processing and Information Retrieval (SPIRE).A Self-Supervised Approach for Extraction of Attribute-Value Pairs from Wikipedia Articles. 2010. (Simpósio).</titulo>
+          <titulo>XXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos.Comunicação de Dados Baseada no Receptor para Redes de Sensores Sem Fio. 2010. (Simpósio).</titulo>
           <ano>2010</ano>
         </evento>
         <evento>
-          <titulo>XI Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2010). Uma abordagem baseada em métricas de redes complexas para o estabelecimento do grau de influência de termos de documentos. 2010. (Congresso).</titulo>
+          <titulo>XXX Congresso da Sociedade Brasileira de Computação. 2010. (Congresso).</titulo>
           <ano>2010</ano>
         </evento>
         <evento>
-          <titulo>1o. Workshop de Pesquisa do Instituto Nacional de Ciência e Tecnologia para Web (INWEB2009). 2009. (Oficina).</titulo>
-          <ano>2009</ano>
-        </evento>
-        <evento>
-          <titulo>I Colóquio Mediações e Usos de Saberes e da Informação (REDEMUSSI2008).Produtividade científica em programas de pós-graduação em ciência da informação no Brasil e nos EUA. 2008. (Outra).</titulo>
+          <titulo>The 23rd ACM Symposium on Applied Computing.Apresentação de tutorial. 2008. (Simpósio).</titulo>
           <ano>2008</ano>
         </evento>
         <evento>
-          <titulo>V Semana da Informática.Google cluster: arquitetura e componentes. 2008. (Encontro).</titulo>
-          <ano>2008</ano>
+          <titulo>Fourth International Conference on Networked Sensing Systems. Energy in Wireless Sensor Networks. 2007. (Congresso).</titulo>
+          <ano>2007</ano>
         </evento>
         <evento>
-          <titulo>VII Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2006).Redes de co-autoria dos professores da ciência da informação: um retrato da colaboração científica dessa disciplina no Brasil. 2006. (Encontro).</titulo>
+          <titulo>XXVII Congresso da Sociedade Brasileira de Computação. 2007. (Congresso).</titulo>
+          <ano>2007</ano>
+        </evento>
+        <evento>
+          <titulo>XXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos.Teoria dos Jogos na Comunicação de Dados em Redes de Sensores Sem Fio. 2007. (Simpósio).</titulo>
+          <ano>2007</ano>
+        </evento>
+        <evento>
+          <titulo>Congresso da Sociedade Brasileira de Computaçãp. XXVI Congresso da Sociedade Brasileira de Computação. 2006. (Congresso).</titulo>
           <ano>2006</ano>
         </evento>
         <evento>
-          <titulo>Gestão do Conhecimento para a Área Jurídica (IBC2005).Gestão do conhecimento em organizações brasileiras. 2005. (Encontro).</titulo>
+          <titulo>Congresso da Sociedade Brasileira de Computação. XXV Congresso da Sociedade Brasileira de Computação. 2005. (Congresso).</titulo>
           <ano>2005</ano>
         </evento>
         <evento>
-          <titulo>VI Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB2005).Proposta para um esquema de classificação das fontes de informação para negócio. 2005. (Encontro).</titulo>
-          <ano>2005</ano>
-        </evento>
-        <evento>
-          <titulo>V Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM2004). Informação e cooperação nas comunidades de desenvolvimento de software livre: um panorama do cenário brasileiro. 2004. (Congresso).</titulo>
+          <titulo>Simpósio Brasileiro de Redes de Computadores.22º Simpósio Brasileiro de Redes de Computadores (SBRC 2004). 2004. (Simpósio).</titulo>
           <ano>2004</ano>
         </evento>
         <evento>
-          <titulo>2º Congresso Brasileiro de Gestão do Conhecimento (KMBRASIL2003). Gestão do conhecimento: um estudo sobre empresas do setor de informática em Minas Gerais. 2003. (Congresso).</titulo>
+          <titulo>21º Simpósio Brasileiro de Redes de Computadores.21º Simpósio Brasileiro de Redes de Computadores (SBRC/2003). 2003. (Simpósio).</titulo>
           <ano>2003</ano>
         </evento>
         <evento>
-          <titulo>II Encontro sobre Bibliotecas Digitais. 2003. (Encontro).</titulo>
-          <ano>2003</ano>
+          <titulo>Olimpíada Brasileira de Informática.Olimíada Brasileira de Informática. 2001. (Outra).</titulo>
+          <ano>2001</ano>
         </evento>
     </participacao_evento>
-    <organizacao_evento>
-        <evento>
-          <titulo></titulo>
-          <natureza></natureza>
-          <ano>0</ano>
-        </evento>
-        <evento>
-          <titulo></titulo>
-          <natureza></natureza>
-          <ano>0</ano>
-        </evento>
-        <evento>
-          <titulo></titulo>
-          <natureza></natureza>
-          <ano>0</ano>
-        </evento>
-        <evento>
-          <titulo></titulo>
-          <natureza></natureza>
-          <ano>0</ano>
-        </evento>
-        <evento>
-          <titulo>I Ciclo de Seminários NETIC</titulo>
-          <natureza>Outro</natureza>
-          <ano>2004</ano>
-        </evento>
-        <evento>
-          <titulo>II Ciclo de Seminários NETIC</titulo>
-          <natureza>Outro</natureza>
-          <ano>2004</ano>
-        </evento>
-        <evento>
-          <titulo></titulo>
-          <natureza></natureza>
-          <ano>0</ano>
-        </evento>
-    </organizacao_evento>
   </pesquisador>
 </curriculo_lattes>

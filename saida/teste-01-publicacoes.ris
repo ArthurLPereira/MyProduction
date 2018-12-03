@@ -1,374 +1,595 @@
 
 
 TY  - JOUR
-AU  - NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila
-TI  - Automatic content recommendation and aggregation according to SCORM
-JO  - INFORMATICS IN EDUCATION
+AU  - SILVA, LUIZ H. C. ; Mini, Raquel A. F. ; Maia, Guilherme ; CUNHA, FELIPE D.
+TI  - Geo-Oriented Protocol: Retransmissions and Hops Analysis
+JO  - IEEE Latin America Transactions
+VL  - 15
+IS  - 
+SP  - 2298
+EP  - 2304
+PY  - 2017
+L2  - http://dx.doi.org/10.1109/tla.2017.8071091
+L3  - 1548-0992
+ER  - 
+
+TY  - JOUR
+AU  - CUNHA, FELIPE ; VILLAS, LEANDRO ; BOUKERCHE, Azzedine ; MAIA, Guilherme ; VIANA, Aline ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.
+TI  - Data Communication in VANETs: Survey, Applications and Challenges
+JO  - Ad Hoc Networks
+VL  - 44
+IS  - 
+SP  - 90
+EP  - 103
+PY  - 2016
+L2  - http://dx.doi.org/10.1016/j.adhoc.2016.02.017
+L3  - 1570-8705
+ER  - 
+
+TY  - JOUR
+AU  - BORGES NETO, J. ; SILVA, T. H. ; ASSUNCAO, R. M. ; MINI, R.A.F. ; LOUREIRO, A. A. F.
+TI  - Sensing in the Collaborative Internet of Things
+JO  - Sensors (Basel)
+VL  - 15
+IS  - 
+SP  - 6607
+EP  - 6632
+PY  - 2015
+L2  - http://dx.doi.org/10.3390/s150306607
+L3  - 1424-8220
+ER  - 
+
+TY  - JOUR
+AU  - OLIVEIRA, Horacio Antonio Braga Fernandes de ; BOUKERCHE, Azzedine ; GUIDONI, Daniel Ludovico ; NAKAMURA, E. F. ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.
+TI  - An Enhanced Location-Free Greedy Forward Algorithm with Hole Bypass Capability in Wireless Sensor Networks
+JO  - Journal of Parallel and Distributed Computing (Print)
+VL  - 77
+IS  - 
+SP  - 1
+EP  - 10
+PY  - 2015
+L2  - http://dx.doi.org/10.1016/j.jpdc.2014.10.007
+L3  - 0743-7315
+ER  - 
+
+TY  - JOUR
+AU  - AQUINO, ANDRE L.L. ; JUNIOR, ORLANDO S. ; FRERY, ALEJANDRO C. ; DE ALBUQUERQUE, EDLER LINS ; Mini, Raquel A.F.
+TI  - MuSA: Multivariate Sampling Algorithmfor Wireless Sensor Networks
+JO  - IEEE Transactions on Computers (Print)
+VL  - 63
+IS  - 
+SP  - 968
+EP  - 978
+PY  - 2014
+L2  - http://dx.doi.org/10.1109/TC.2012.229
+L3  - 0018-9340
+ER  - 
+
+TY  - JOUR
+AU  - NOVY, G. F. C. ; FIGUEIREDO, F. L. P. D. ; MINI, R.A.F.
+TI  - A hybrid sender and receiver-based routing protocol for Wireless Sensor Networks
+JO  - Journal of Applied Computing Research
+VL  - 4
+IS  - 
+SP  - 35
+EP  - 48
+PY  - 2014
+L2  - http://dx.doi.org/10.4013/jacr.2014.41.04
+L3  - 2236-8434
+ER  - 
+
+TY  - JOUR
+AU  - MAIA, Guilherme ; Guidoni, Daniel L. ; VIANA, ALINE C. ; AQUINO, ANDRE L.L. ; Mini, Raquel A.F. ; Loureiro, Antonio A.F.
+TI  - A distributed data storage protocol for heterogeneous wireless sensor networks with mobile sinks
+JO  - Ad Hoc Networks
+VL  - 11
+IS  - 
+SP  - 1588
+EP  - 1602
+PY  - 2013
+L2  - http://dx.doi.org/10.1016/j.adhoc.2013.01.004
+L3  - 1570-8705
+ER  - 
+
+TY  - JOUR
+AU  - GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+TI  - Applying the Small World Concepts in the Design of Heterogeneous Wireless Sensor Networks
+JO  - IEEE Communications Letters (Print)
 VL  - 16
 IS  - 
-SP  - 225
-EP  - 256
-PY  - 2017
-L2  - http://dx.doi.org/10.15388/infedu.2017.12
-L3  - 1648-5831
-ER  - 
-
-TY  - JOUR
-AU  - NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila
-TI  - Metodologia para recomendação e agregação de objetos de aprendizagem no padrão SCORM
-JO  - Revista Brasileira de Informática na Educação
-VL  - 24
-IS  - 
-SP  - 11
-EP  - 30
-PY  - 2016
-L2  - http://dx.doi.org/10.5753/rbie.2016.24.1.11
-L3  - 1414-5685
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso
-TI  - Exploiting entities for query expansion
-JO  - ACM SIGIR Forum
-VL  - 48
-IS  - 
-SP  - 43
-EP  - 43
-PY  - 2014
-L2  - http://dx.doi.org/10.1145/2641383.2641393
-L3  - 0163-5840
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso; SANTOS, Rodrygo Luis Teodoro ; ZIVIANI, Nivio ; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares
-TI  - Learning to expand queries using entities
-JO  - Journal of The American Society For Information Science and Technology (Online)
-VL  - 65
-IS  - 
-SP  - 1870
-EP  - 1883
-PY  - 2014
-L2  - 
-L3  - 1532-2890
-ER  - 
-
-TY  - JOUR
-AU  - COUTO, Thierson ; ZIVIANI, Nivio ; CALADO, Pável Pereira ; DE CRISTO, Marco Antônio Pinheiro ; GONÇALVES, Marcos André ; DE MOURA, Edleno Silva ; BRANDÃO, W.
-TI  - Classifying documents with link-based bibliometric measures
-JO  - Information Retrieval (Dordrecht. Online)
-VL  - 13
-IS  - 
-SP  - 315
-EP  - 345
-PY  - 2010
-L2  - http://dx.doi.org/10.1007/s10791-009-9119-7
-L3  - 1573-7659
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e
-TI  - Redes em Ciência da Informação: evidências comportamentais dos pesquisadores e tendências evolutivas das redes de coautoria.
-JO  - Informação & Informação (UEL. Online)
-VL  - 12
-IS  - 
-SP  - 110
-EP  - 
-PY  - 2007
-L2  - http://dx.doi.org/10.5433/1981-8920.2007v12n1espp110
-L3  - 1981-8920
-ER  - 
-
-TY  - JOUR
-AU  - PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso
-TI  - RedeCI: colaboração e produção científica em ciência da informação no Brasil
-JO  - Perspectivas em Ciência da Informação (Impresso)
-VL  - 11
-IS  - 2
-SP  - 302
-EP  - 317
-PY  - 2006
-L2  - http://dx.doi.org/10.1590/S1413-99362006000300002
-L3  - 1413-9936
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva
-TI  - Impactos e desafios na implementação de uma infra-estrutura de software livre nas organizações: estudo de caso de uma empresa do setor siderúrgico
-JO  - IP (Belo Horizonte)
-VL  - 7
-IS  - 
-SP  - 53
-EP  - 66
-PY  - 2005
-L2  - 
-L3  - 1516-697X
-ER  - 
-
-TY  - JOUR
-AU  - SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso
-TI  - Proposta para um esquema de classificação das fontes de informação para negócio
-JO  - Datagramazero (Rio de Janeiro)
-VL  - 6
-IS  - 5
-SP  - 2
-EP  - 
-PY  - 2005
-L2  - 
-L3  - 1517-3801
-ER  - 
-
-TY  - JOUR
-AU  - BASTOS, Jaime Sadao Yamassaki ; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso
-TI  - Monitoração ambiental em contextos dinâmicos: busca e uso de informação por gerentes bancários
-JO  - Perspectivas em Ciência da Informação (Impresso)
-VL  - 9
-IS  - 2
-SP  - 218
-EP  - 229
-PY  - 2004
-L2  - 
-L3  - 1413-9936
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso
-TI  - A internet como fonte de informações para negócio: um ensaio sobre a realidade da internet brasileira
-JO  - Perspectivas em Ciência da Informação (Impresso)
-VL  - 9
-IS  - 1
-SP  - 88
-EP  - 99
-PY  - 2004
-L2  - 
-L3  - 1413-9936
-ER  - 
-
-TY  - JOUR
-AU  - BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva
-TI  - O uso de portais departamentais na gestão dos processos de desenvolvimento de software: o caso da Unisys do Brasil
-JO  - Informação & Sociedade (UFPB. Online)
-VL  - 14
-IS  - 2
-SP  - 139
-EP  - 157
-PY  - 2004
-L2  - 
-L3  - 1809-4783
-ER  - 
-
-TY  - MGZN
-AU  - BRANDÃO, Wladmir Cardoso
-T1  - Mineração de Dados
-TI  - Revista PUC Minas, 
-PY  - 2015
-VL  - 11
-SP  - 54
-EP  - 55
-M1  - 01 set. 2015
-ER  - 
-
-TY  - MGZN
-AU  - BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki
-T1  - Inclusão digital: utilização de código aberto pode facilitar o acesso da sociedade à informação
-TI  - Revista de Economia do Jornal Estado de Minas
-PY  - 2004
-VL  - 
-SP  - 16
-EP  - 17
-M1  - 01 jul. 2004
-ER  - 
-
-TY  - CONF
-AU  - DA SILVEIRA, Márcio Vinícius Campos ; BRANDÃO, Wladmir Cardoso
-T1  - Characterizing crimes from Web
-TI  - Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2017
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SILVA, Paula Raissa Costa e ; DIAS, Sérgio Mariano ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho ; ZARATE, Luis Enrique
-T1  - Formal concept analysis applied to professional social networks analysis
-TI  - International Conference on Enterprise Information Systems (ICEIS)
-VL  - 1
-SP  - 123
-EP  - 134
-PY  - 2017
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - DE PAULA, Andrey Leonardo ; BRANDÃO, Wladmir Cardoso ; GOMES, Rodrigo Richard
-T1  - Utilizando entidades na criação de descritores para avaliar a qualidade de recomendações de novos itens no problema de Cold-Start
-TI  - Simpósio Mineiro de Sistemas de Informação (SMSI)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - LESSA, Leandro Figueira ; BRANDÃO, Wladmir Cardoso
-T1  - Abordagem para descoberta de conhecimento em instrumentos avaliativos de organizações de ensino superior
-TI  - Simpósio Mineiro de Sistemas de Informação (SMSI)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - PEREIRA-JUNIOR, Otmar Martins ; BRANDÃO, Wladmir Cardoso ; SONG, Mark Alan Junho
-T1  - Automatic formal specification generation of APIs by mining unit tests
-TI  - ACM Symposium on Applied Computing (SAC)
-VL  - 
-SP  - 1542
-EP  - 1545
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - PISTOLATO, Amanda Carolina ; BRANDÃO, Wladmir Cardoso
-T1  - ConnectCity: a collaborative e-government approach to report city incidents
-TI  - IADIS International Conference on WWW/INTERNET (ICWI)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso ; ZARATE, Luis Enrique
-T1  - Análise de redes sociais profissionais por meio de análise formal de conceitos
-TI  - Symposium on Knowledge Discovery
-VL  - 
-SP  - 
-EP  - 
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SOUZA, Caio Henrique Prado ; BRANDÃO, Wladmir Cardoso
-T1  - Análise comparativa de abordagens para análise de sentimento utilizando tweets em língua portuguesa
-TI  - Simpósio Mineiro de Sistemas de Informação (SMSI)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2016
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - FERREIRA, Wadson Gomes ; DOS SANTOS, Willian Antônio ; DE SOUZA, Breno Macena Pereira ; ZAIDAN, Tiago Matta Machado ; BRANDÃO, Wladmir Cardoso
-T1  - Assessing the efficiency of suffix stripping approaches for portuguese stemming
-TI  - International Symposium on String Processing and Information Retrieval (SPIRE)
-VL  - 
-SP  - 210
-EP  - 221
-PY  - 2015
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - OLIVEIRA, Rafael de Almeida ; BRANDÃO, Wladmir Cardoso ; MARQUES-NETO, Humberto Torres
-T1  - Characterizing user behavior on a mobile SMS-based chat service
-TI  - Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)
-VL  - 
-SP  - 130
-EP  - 139
-PY  - 2015
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SILVA, Paula Raissa Costa e ; BRANDÃO, Wladmir Cardoso
-T1  - ARPPA: mining professional profiles from LinkedIn using association rules
-TI  - International Conference on Information
-VL  - 
-SP  - 72
-EP  - 77
-PY  - 2015
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - NEVES, Daniel Eugênio ; BRANDÃO, Wladmir Cardoso ; ISHITANI, Lucila
-T1  - Recomendação e agregação de conteúdos relacionados em conformidade com o padrão SCORM
-TI  - Simpósio Brasileiro de Informática na Educação (SBIE)
-VL  - 
 SP  - 953
-EP  - 957
+EP  - 955
+PY  - 2012
+L2  - 
+L3  - 1089-7798
+ER  - 
+
+TY  - JOUR
+AU  - Mini, Raquel A.F.; Loureiro, Antonio A.F.
+TI  - Energy-efficient design of wireless sensor networks based on finite energy budget
+JO  - Computer Communications
+VL  - 35
+IS  - 
+SP  - 1736
+EP  - 1748
+PY  - 2012
+L2  - http://dx.doi.org/10.1016/j.comcom.2012.05.009
+L3  - 0140-3664
+ER  - 
+
+TY  - JOUR
+AU  - GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+TI  - On the design of resilient heterogeneous wireless sensor networks based on small world concepts. Computer Networks
+JO  - Computer Networks (1999)
+VL  - 54
+IS  - 
+SP  - 1266
+EP  - 1281
+PY  - 2010
+L2  - http://dx.doi.org/10.1016/j.comnet.2009.10.021
+L3  - 1389-1286
+ER  - 
+
+TY  - JOUR
+AU  - MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+TI  - Comunicação de Dados baseada no Receptor para Redes de Sensores Sem Fio
+JO  - Revista Brasileira de Redes de Computadores e Sistemas Distribuídos
+VL  - 3
+IS  - 
+SP  - 21
+EP  - 31
+PY  - 2010
+L2  - 
+L3  - 1983-4217
+ER  - 
+
+TY  - JOUR
+AU  - GOUSSEVSKAIA, Olga ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva
+TI  - Data Dissemination based on the Energy Map
+JO  - IEEE Communications Magazine (Print)
+VL  - 43
+IS  - 7
+SP  - 134
+EP  - 143
+PY  - 2005
+L2  - 
+L3  - 0163-6804
+ER  - 
+
+TY  - JOUR
+AU  - MACHADO, MD.V. ; MATEUS, G.R. ; REZENDE, C.G. ; LOUREIRO, A.A.F. ; MINI, R.A.F. ; NOGUEIRA, J.M.S. ; GOUSSEVSKAIA, O.
+TI  - Data dissemination in autonomic wireless sensor networks
+JO  - IEEE Journal on Selected Areas in Communications (Print)
+VL  - 23
+IS  - 
+SP  - 2305
+EP  - 2319
+PY  - 2005
+L2  - http://dx.doi.org/10.1109/jsac.2005.857209
+L3  - 0733-8716
+ER  - 
+
+TY  - JOUR
+AU  - MINI, Raquel Aparecida de Freitas; MACHADO, Max Do Val ; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+TI  - Prediction-based Energy Map for Wireless Sensor Networks
+JO  - Ad Hoc Networks
+VL  - 3
+IS  - 2
+SP  - 235
+EP  - 253
+PY  - 2005
+L2  - 
+L3  - 1570-8705
+ER  - 
+
+TY  - JOUR
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+TI  - The Distinctive Design Characteristics of a Wireless Sensor Network: The Energy Map
+JO  - Computer Communications
+VL  - 27
+IS  - 10
+SP  - 935
+EP  - 945
+PY  - 2004
+L2  - 
+L3  - 0140-3664
+ER  - 
+
+TY  - CHAP
+AU  - CUNHA, F. D. ; MENEZES, J. G. M. ; VILLAS, L. A. ; VIANA, A. C. ; MINI, R.A.F. ; LOUREIRO, A.A.F.
+T1  - Socially Inspired Data Dissemination for Vehicular Ad Hoc Networks
+TI  - Anna Maria Vegni, Valeria Loscrì, Athanasios V. Vasilakos. (Org.). Vehicular Social Networks. 1ªed
+IS  - 
+PB  - CRC Press
+PY  - 2016
+VL  - 
+SP  - 1
+EP  - 208
+ER  - 
+
+TY  - CHAP
+AU  - MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; ALMEIDA, Virgílio Augusto Fernandes Almeida
+T1  - Game Theory in Wireless Sensor Networks
+TI  - Yan Zhang; Mohsen Guizani. (Org.). Theory for Wireless Communications and Networking
+IS  - 
+PB  - CRC Press
+PY  - 2010
+VL  - 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - CHAP
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Energy in Wireless Sensor Networks
+TI  - L. E. Rodrigues, H. Miranda, and B. Garbinato. (Org.). Middleware for Network Eccentric and Mobile Applications. Berlin
+IS  - 
+PB  - Springer
+PY  - 2009
+VL  - 
+SP  - 3
+EP  - 24
+ER  - 
+
+TY  - CHAP
+AU  - Ricardo H. González ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas
+T1  - QoS: Requirements, Design Features, and Challenges on Wireless Sensor Networks
+TI  - Hai Jin, Wenbin Jiang. (Org.). Handbook of Research on Developments and Trends in Wireless Sensor Networks: From Principle to Practice. Hershey, PA
+IS  - 
+PB  - IGI Global
+PY  - 2009
+VL  - 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - CHAP
+AU  - LOUREIRO, Antonio Alfredo Ferreira ; NOGUEIRA, José Marcos S ; RUIZ, Linnyer Beatryz ; MINI, Raquel Aparecida de Freitas
+T1  - Redes de Sensores Sem Fio
+TI  - 21º Simpósio Brasileiro de Redes de Computadores. (Org.). Minicurso do SBRC
+IS  - 
+PB  - 
+PY  - 2003
+VL  - 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - CHAP
+AU  - LOUREIRO, Antonio Alfredo Ferreira ; NOGUEIRA, José Marcos S ; RUIZ, Linnyer Beatryz ; MINI, Raquel Aparecida de Freitas
+T1  - Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Computação. (Org.). Jornada de Atualização em Informática
+IS  - 
+PB  - 
+PY  - 2002
+VL  - 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - CONF
+AU  - SILVA, L. H. C. ; MINI, R.A.F. ; CUNHA, F. D.
+T1  - Um Protocolo de Disseminação de Dados Geo-Orientado em Redes Veiculares
+TI  - I WORKSHOP DE COMPUTAÇÃO URBANA (CoUrb)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2017
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SILVA, M. D. ; NUNES, I. O. ; MINI, R.A.F. ; LOUREIRO, A. A. F.
+T1  - ST-Drop: Uma Nova Estratégia de Gerenciamento de Buffer em Redes D2D Oportunistas
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 
+EP  - 
+PY  - 2017
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SILVA, M. D. ; NUNES, I. O. ; MINI, R.A.F. ; LOUREIRO, A. A. F.
+T1  - ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks
+TI  - 22nd IEEE Symposium on Computers and Communication (ISCC 2017)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2017
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ALVARENGA, D. A. ; CUNHA, F. D. ; MINI, R.A.F. ; LOUREIRO, A. A. F. ; VIANA, A. C.
+T1  - Classificando Comportamentos Sociais em Redes Veiculares
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 1
+EP  - 14
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, F. D. ; ALVARENGA, D. A. ; MENEZES, J. G. M. ; VIANA, A. C. ; MINI, R.A.F. ; LOUREIRO, A. A. F.
+T1  - Exploring Interactions in Vehicular Networks
+TI  - The 14th ACM International Symposium on Mobility Management and Wireless Access (MOBIWAC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, F. D. ; SILVA, F. A. ; CELES, C. S. F. S. ; MENEZES, J. G. M. ; RUIZ, Linnyer B ; ANDRADE, R. M. C. ; MINI, R.A.F. ; BOUKERCHE, Azzedine ; LOUREIRO, A. A. F.
+T1  - Communication Analysis of Real Vehicular Calibrated Traces
+TI  - IEEE International Conference on Communications (ICC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOUSADA, E. E. O. ; MINI, R.A.F.
+T1  - Internet das Coisas Aplicada nas Redes Elétricas Inteligentes Brasileiras
+TI  - Simpósio Brasileiro de Computação Ubíqua e Pervasiva
+VL  - 
+SP  - 1
+EP  - 10
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOUSADA, E. E. O. ; MINI, R.A.F.
+T1  - Proposta de Solução para Aplicação de Internet das Coisas nas Redes Elétricas Inteligentes Brasileiras Considerando as Limitações das Normas Vigentes
+TI  - Seminário Integrado de Software e Hardware
+VL  - 
+SP  - 1
+EP  - 12
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - RIVERO, I. A. S. ; SANTOS, P. ; SILVA, R. ; JUNIOR, D. ; MINI, R.A.F.
+T1  - Controle de Consumo de Água Baseado em Reconhecimento Facial
+TI  - Simpósio Brasileiro de Computação Ubíqua e Pervasiva
+VL  - 
+SP  - 1
+EP  - 10
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CHAMON, J. P. ; SOUZA, T. ; ROSA, A. ; MINI, R.A.F.
+T1  - Um Sistema Inteligente Para Uso no Controle de Presença Acadêmico
+TI  - Simpósio Brasileiro de Automação Inteligente
+VL  - 
+SP  - 1
+EP  - 6
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, F. D. ; ALVARENGA, D. A. ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, A. A. F.
+T1  - Understanding Interactions in Vehicular Networks Through Taxi Mobility
+TI  - 12th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc
+VL  - 
+SP  - 
+EP  - 
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - FERREIRA, B. ; CUNHA, F. D. ; MINI, R.A.F. ; LOUREIRO, A. A. F. ; BRAZ, F. A. F. ; CAMPOS, S. V. A.
+T1  - Intelligent Service to Perform Overtaking in Vehicular Networks
+TI  - IEEE Symposium on Computers and Communication (ISCC)
+VL  - 
+SP  - 1
+EP  - 8
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, R.A.F. ; LOUREIRO, A. A. F.
+T1  - Difusão de Dados em Redes de Sensores Sem Fio com Ciclo de Trabalho Reduzido
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 1
+EP  - 14
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, R.A.F. ; LOUREIRO, A.A.F.
+T1  - Hybrid Policy to Determine Awaking Sensor Nodes
+TI  - IEEE International Conference on Communications (ICC)
+VL  - 
+SP  - 1
+EP  - 6
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CHAMON, J. P. ; SOUZA, T. ; ROSA, A. ; MINI, Raquel Aparecida de Freitas
+T1  - Registro Ubíquo de Controle Acadêmico: Localização em Ambiente Interno utilizando Ciclo de Trabalho Dinâmico
+TI  - Simpósio Brasileiro de Computação Ubíqua e Pervasiva
+VL  - 
+SP  - 
+EP  - 
 PY  - 2014
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - PEREIRA, Bruno Laporais ; BRANDÃO, Wladmir Cardoso
-T1  - ARCA: mining crime patterns using association rules
-TI  - IADIS International Conference on Applied Computing (AC)
+AU  - CUNHA, Felipe Domingos da ; MENEZES, J. G. M. ; VIANA, Aline C. ; MINI, Raquel Aparecida de Freitas ; VILLAS, Leandro Aparecido ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Socially Inspired Data Dissemination for Vehicular Ad Hoc Networks
+TI  - ACM International Conference on Modeling
 VL  - 
-SP  - 159
-EP  - 166
+SP  - 
+EP  - 
 PY  - 2014
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - DE OLIVEIRA, Vitor Campos ; GOMES, Guilherme ; BELÉM, Fabiano Muniz ; BRANDÃO, Wladmir Cardoso ; DE ALMEIDA, Jussara Marques ; ZIVIANI, Nivio ; GONÇALVES, Marcos André
-T1  - Automatic query expansion based on tag recommendation
-TI  - ACM International Conference on Information and Knowledge Management (CIKM)
+AU  - CUNHA, Felipe Domingos da ; RODRIGUES, T. ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Extração de Propriedades Sociais em Redes Veiculares
+TI  - Workshop de Redes P2P
 VL  - 
-SP  - 1985
-EP  - 1989
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, Felipe Domingos da ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Is it Possible to Find Social Properties in Vehicular Networks?
+TI  - 19th IEEE Symposium on Computers and Communications (ISCC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - DAMASCENO, A. G. M. ; Mini, Raquel A. F. ; MARQUES NETO, Humberto Torres
+T1  - BaSCoP: um Esquema de Precificação para Redes de Celular Baseado no Congestionamento de Estações Base
+TI  - Seminário Integrado de Software e Hardware (SEMISH)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - NOVY, Gabriel Felipe Cândido ; MACHADO, Max Do Val ; Fátima L.P.D. Figueiredo ; MINI, Raquel Aparecida de Freitas
+T1  - Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Computação Ubíqua e Pervasiva
+VL  - 
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, Felipe Domingos da ; VIANA, Aline C. ; Mini, Raquel A. F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - How effective is to look at a Vehicular Network under a Social Perception?
+TI  - Internet of Things Communications and Technologies (IoT 2013) in conjunction with IEEE WImob 2013
+VL  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MARTINS, T. M. ; MINI, Raquel Aparecida de Freitas ; MARQUES NETO, H. T.
+T1  - UbiTester: Um Framework para Geração de Planos de Teste para Computação Ubíqua
+TI  - Simpósio Brasileiro de Qualidade de Software
+VL  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, Felipe Domingos da ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Sensor-MAC with Dynamic Duty Cycle in Wireless Sensor Networks
+TI  - IEEE Global Communications Conference Exhibition Industry Forum (Globecom)
+VL  - 
+SP  - 
+EP  - 
 PY  - 2012
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - BOTELHO, Fabiano Cupertino ; BRANDÃO, Wladmir Cardoso ; ZIVIANI, Nivio
-T1  - Minimal perfect hashing and bloom filters made practical
-TI  - IADIS International Conference on Applied Computing (AC)
+AU  - GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; VILLAS, Leandro Aparecido ; SOUZA, Fernanda S. H. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Framework based on Small World Features to Design HSNs Topologies with QoS
+TI  - IEEE Symposium on Computers and Communications (ISCC)
 VL  - 
-SP  - 465
-EP  - 470
+SP  - 
+EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Política Híbrida para Determinar o Momento Acordado do Próximo Nó na Comunicação em Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 
+EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MAIA, Guilherme ; GUIDONI, Daniel Ludovico ; VIANA, Aline ; AQUINO, Andre Luiz Lins de ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Um Protocolo de Distribuição de Dados para Redes de Sensores Sem Fio Heterogêneas com Sink Móvel
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 
+EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; Villas, Leandro A. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Tree-based Approach to Design Heterogeneous Sensor Networks Based on Small World Concepts
+TI  - 7th IEEE International Workshop on Performance and Management of Wireless and Mobile Networks
+VL  - 
+SP  - 666
+EP  - 672
 PY  - 2011
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - BRANDÃO, Wladmir Cardoso; DA SILVA, Altigran Soares ; DE MOURA, Edleno Silva ; ZIVIANI, Nivio
-T1  - Exploiting entity semantics for query expansion
-TI  - IADIS International Conference on WWW/INTERNET (ICWI)
+AU  - CUNHA, Felipe Domingos da ; NASCIMENTO, Michelle Nery ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Projeto Integrado para Comunicação de Dados em Redes de Sensores sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
 VL  - 
-SP  - 365
-EP  - 372
-PY  - 2011
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - BRANDÃO, Wladmir Cardoso; DE MOURA, Edleno Silva ; DA SILVA, Altigran Soares ; ZIVIANI, Nivio
-T1  - A self-supervised approach for extraction of attribute-value pairs from Wikipedia articles
-TI  - International Symposium on String Processing and Information Retrieval (SPIRE)
-VL  - 
-SP  - 279
-EP  - 289
+SP  - 89
+EP  - 102
 PY  - 2010
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - BRANDÃO, Wladmir Cardoso; PARREIRAS, Fernando Silva
-T1  - Uma abordagem baseada em métricas de redes complexas para o estabelecimento do grau de influência de termos em documentos
-TI  - Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)
+AU  - CUNHA, Felipe Domingos da ; RAMOS, Heitor ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Roteamento Oportunístico em Redes de Sensores Tolerantes a Atrasos e Desconexões
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 423
+EP  - 436
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; BOUKERCHE, Azzedine ; OLIVEIRA, Horacio Antonio Braga Fernandes de ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Small World Model to Improve Synchronization Algorithms for Wireless Sensor Networks
+TI  - IEEE Symposium on Computers and Communications
 VL  - 
 SP  - 
 EP  - 
@@ -377,20 +598,185 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - BRANDÃO, Wladmir Cardoso; SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva
-T1  - Produtividade científica em programas de pós-graduação em ciência da informação no Brasil e nos EUA
-TI  - I Colóquio Mediações e Usos de Saberes e da Informação: Um Diálogo França-Brasil
+AU  - GUIDONI, Daniel Ludovico ; SOUZA, Fernanda S. H. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Small World Model based on Multi-interface and Multi-channel to Design Heterogeneous Wireless Sensor Networks
+TI  - IEEE Globecom
 VL  - 
-SP  - 248
-EP  - 262
+SP  - 
+EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - JUNIOR, Orlando Silva ; AQUINO, Andre Luiz Lins de ; Mini, Raquel A.F.
+T1  - Um Algoritmo de Amostragem Multivariada Para Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos
+VL  - 
+SP  - 103
+EP  - 116
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; Mini, Raquel A.F. ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Comunicação de Dados Baseada no Receptor para Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos
+VL  - 
+SP  - 61
+EP  - 74
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; BOUKERCHE, Azzedine
+T1  - An On-line Model to Design Heterogeneous Wireless Sensor Networks Based on Small World Concepts
+TI  - XV IEEE Symposium On Computers and Communications (ISCC)
+VL  - 
+SP  - 513
+EP  - 519
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - JUNIOR, Orlando Silva ; AQUINO, Andre Luiz Lins de ; MINI, Raquel Aparecida de Freitas ; FIGUEIREDO, Carlos Maurício Seródio
+T1  - Multivariate Reduction in Wireless Sensors Networks
+TI  - XIV IEEE Symposium On Computers and Communications (ISCC)
+VL  - 
+SP  - 726
+EP  - 729
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Combined Approach for Receiver-based MAC and Network Layers in Wireless Sensor Networks
+TI  - The 44th IEEE International Conference on Communications (ICC)
+VL  - 
+SP  - 1
+EP  - 6
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MELO, Pedro Olmo Stancioli Vaz de ; LOUREIRO, Antonio Alfredo Ferreira ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas
+T1  - Um Protocolo Baseado em Teoria dos Jogos para a Cooperação entre Diferentes Redes de Sensores Sem Fio
+TI  - XXVII Simpósio Brasileiro de Redes Computadores (SBRC)
+VL  - 
+SP  - 1
+EP  - 14
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AQUINO, Andre Luiz Lins de ; FIGUEIREDO, Carlos Maurício Seródio ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas ; NAKAMURA, E. F. ; OLIVEIRA, Horacio Antonio Braga Fernandes de ; RUIZ, Linnyer Beatryz
+T1  - Redes de Sensores sem Fio para Monitoramento de Anfíbios
+TI  - Grand Challenges in Computer Science Research in Latin America Workshop (CharLa'08)
+VL  - 
+SP  - 
+EP  - 
 PY  - 2008
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; MATHEUS, Renato Fabiano ; BRANDÃO, Wladmir Cardoso
-T1  - Redes de co-autoria dos professores da ciência da informação: um retrato da colaboração científica dessa disciplina no Brasil
-TI  - Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)
+AU  - AQUINO, Andre Luiz Lins de ; LOUREIRO, Antonio Alfredo Ferreira ; OTAVIO, Antonio ; MINI, Raquel Aparecida de Freitas
+T1  - An In-Network Reduction Algorithm for Real-Time Wireless Sensor Networks Applications
+TI  - Fourth ACM International Workshop on Wireless Multimedia Networking and Performance Modeling (WMuNeP'08)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Creating Small-World Models in Wireless Sensor Networks
+TI  - IEEE International Symposium on Personal
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - On the Design of Heterogeneous Sensor Networks Based on Small World Concepts
+TI  - 11th ACM International Conference on Modeling
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MELO, Pedro Olmo Stancioli Vaz de ; CUNHA, Felipe Domingos da ; ALMEIDA, Jussara M. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - O Problema da Cooperação entre Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MELO, Pedro Olmo Stancioli Vaz de ; CUNHA, Felipe Domingos da ; ALMEIDA, Jussara M. ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - The Problem of Cooperation Among Different Wireless Sensor Networks
+TI  - 11th ACM-IEEE International Symposium on Modeling
+VL  - 
+SP  - 86
+EP  - 91
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; GUIDONI, Daniel Ludovico ; MELO, Pedro Olmo Stancioli Vaz de
+T1  - Gossiping using the Energy Map in Wireless Sensor Networks
+TI  - 10th ACM/IEEE International Symposium on Modeling
+VL  - 
+SP  - 
+EP  - 
+PY  - 2007
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas ; MACHADO, Max Do Val ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Teoria dos Jogos na Comunicação de Dados em Redes de Sensores Sem Fio
+TI  - Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2007
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - OLIVEIRA, Eduardo Mucelli Rezende ; MELO, Pedro Olmo Stancioli Vaz de ; MINI, Raquel Aparecida de Freitas
+T1  - Comunicação, Codificação e Fusão de Dados para uma Aplicação de Detecção de Incêndios utilizando Redes de Sensores sem Fio
+TI  - 1º Workshop on Pervasive and Ubiquitous Computing (WPUC)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2007
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GUIDONI, Daniel Ludovico ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Difusão de Dados Baseada em Atraso e Energia para Redes de Sensores Sem Fio
+TI  - 24º Simpósio Brasileiro de Redes de Computadores (SBRC)
 VL  - 
 SP  - 
 EP  - 
@@ -399,20 +785,130 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - SILVA, Antonio Braz de Oliveira e ; CAMPOS, Marcus José de Oliveira ; BRANDÃO, Wladmir Cardoso
-T1  - Proposta para um esquema de classificação das fontes de informação para negócio
-TI  - Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB)
+AU  - PASSOS, Rodrigo ; NACIF, José Augusto ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; OTAVIO, Antonio ; COELHO, Claudionor
+T1  - System-level Dynamic Power Management Techniques for Communication Intensive Devices
+TI  - 14th IFIP International Conference on Very Large Scale Integration (VLSI)
 VL  - 
 SP  - 
 EP  - 
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - GOUSSEVSKAIA, Olga ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva
+T1  - Avoiding Low-Energy Areas in Wireless Sensor Network Data Dissemination
+TI  - 23º Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 565
+EP  - 578
 PY  - 2005
 L2  - 
 ER  - 
 
 TY  - CONF
-AU  - BAX, Marcello Peixoto ; ALVARENGA, Lídia ; PARREIRAS, Fernando Silva ; BRANDÃO, Wladmir Cardoso
-T1  - Sistema automático de disseminação seletiva de informação
-TI  - IFLA World Library and Information Congress: Management and Marketing (IFLA MM)
+AU  - GUIDONI, Daniel Ludovico ; MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas
+T1  - TreeDC: Um Algoritmo de Coleta de dados Ciente da Energia para Redes de Sensores Sem Fio
+TI  - Concurso de Trabalhos de Iniciação Científica (CTIC/SBC)
+VL  - 
+SP  - 1
+EP  - 10
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; GOUSSEVSKAIA, Olga ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira ; MATEUS, Geraldo Robson ; NOGUEIRA, José Marcos Silva
+T1  - Data Dissemination Using the Energy Map
+TI  - The Second Annual Conference on Wireless On demand Network Systems and Services (WONS)
+VL  - 
+SP  - 139
+EP  - 148
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+T1  - A State-based Energy Dissipation Model for Wireless Sensor Nodes
+TI  - 10th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+VL  - 
+SP  - 1
+EP  - 8
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas
+T1  - Dynamic Power Management in Wireless Sensor Networks: An Application-driven Approach
+TI  - The Second Annual Conference on Wireless On demand Network Systems and Services (WONS)
+VL  - 
+SP  - 109
+EP  - 118
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas
+T1  - Energy-efficient Application-aware Communication for Wireless Sensor Networks
+TI  - 10th IFIP International Conference on Personal Wireless Communications (PWC)
+VL  - 
+SP  - 1
+EP  - 15
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; MINI, Raquel Aparecida de Freitas ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Um Modelo de Amostragem para a Construção do Mapa de Energia
+TI  - VI Workshop de Comunicação sem Fio e Computação Móvel (WCSF)
+VL  - 
+SP  - 67
+EP  - 76
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+T1  - The Best Energy Map of a Wireless Sensor Network
+TI  - 22º Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 323
+EP  - 336
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+T1  - A More Realistic Energy Dissipation Model for Sensor Nodes
+TI  - 22º Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 365
+EP  - 378
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+T1  - Energy Map Construction for Wireless Sensor Network under a Finite Energy Budget
+TI  - The Seventh ACM/IEEE International Symposium on Modeling
+VL  - 
+SP  - 165
+EP  - 169
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PASSOS, Rodrigo ; COELHO, Claudionor ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas
+T1  - Dynamic Power Management in Wireless Sensor Networks: An Application-driven Approach
+TI  - VI Workshop de Comunicação sem Fio e Computação Móvel (WCSF)
 VL  - 
 SP  - 
 EP  - 
@@ -421,34 +917,56 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - PARREIRAS, Fernando Silva ; SILVA, Antonio Braz de Oliveira e ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso
-T1  - Informação e cooperação nas comunidades de desenvolvimento de software livre: um panorama do cenário brasileiro
-TI  - Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)
+AU  - MINI, Raquel Aparecida de Freitas; LOUREIRO, Antonio Alfredo Ferreira ; NATH, Badri
+T1  - Prediction-based Energy Map for Wireless Sensor Networks
+TI  - 8th International Conference on Personal Wireless Communications (PWC). Lecture Notes in Computer Science
 VL  - 
-SP  - 
-EP  - 
-PY  - 2004
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso
-T1  - Inclusão digital, política de software e outras políticas de informação
-TI  - Encontro Nacional de Ensino e Pesquisa em Informação (CINFORM)
-VL  - 
-SP  - 
-EP  - 
-PY  - 2004
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - SILVA, Antonio Braz de Oliveira e ; PARREIRAS, Fernando Silva ; BASTOS, Jaime Sadao Yamassaki ; BRANDÃO, Wladmir Cardoso
-T1  - Gestão do conhecimento: um estudo sobre empresas do setor de informática em Minas Gerais
-TI  - Congresso Brasileiro de Gestão do Conhecimento (KMBRASIL)
-VL  - 
-SP  - 
-EP  - 
+SP  - 12
+EP  - 26
 PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; NATH, Badri ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - Prediction-based Approaches to Construct the Energy Map for Wireless Sensor Networks
+TI  - 21º Simpósio Brasileiro de Redes de Computadores (SBRC)
+VL  - 
+SP  - 715
+EP  - 730
+PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, Max Do Val ; TEIXEIRA, Gustavo Gomes ; LOUREIRO, Antonio Alfredo Ferreira ; MINI, Raquel Aparecida de Freitas
+T1  - Avaliação de Classes de Nodos em Algoritmos de Roteamento para Redes Móveis Ad Hoc
+TI  - Workshop de Comunicação sem Fio e Computação Móvel (WCSF)
+VL  - 
+SP  - 112
+EP  - 122
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MINI, Raquel Aparecida de Freitas; NATH, Badri ; LOUREIRO, Antonio Alfredo Ferreira
+T1  - A Probabilistic Approach to Predict the Energy Consumption in Wireless Sensor Networks
+TI  - Workshop de Comunicação sem Fio e Computação Móvel (WCSF)
+VL  - 
+SP  - 232
+EP  - 245
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - DAMASCENO, A. G. M. ; Mini, Raquel A. F. ; MARQUES-NETO, H. T.
+T1  - A Base Station Congestion-Dependent Princing Scheme for Cellular Data Network
+TI  - Student Workshop of 9th International Conference on emerging Networking EXperiments and Technologies, 2013, Santa Barbara, CA - EUA. Student Workshop at ACM CoNEXT 2013
+VL  - 
+SP  - 
+EP  - 
+PY  - 2013
 L2  - 
 ER  - 

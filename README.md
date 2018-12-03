@@ -3,7 +3,7 @@
 Trabalho de Engenharia de Software 2, My Production:
     Um Script com intuito de calcular o índice geral e o índice restrito de um Pesquisador ou grupo de pesquisadores cadastrados na plataforma Lattes.
 
-    Fizemos uso de uma ferramenta de webscraping desenvolvida para extração de dados da plataforma lattes, o ScriptLattes, por falta de disponibilidade de serviços de extração de dados oficiais disponibilizados pelo CNPq. A apliação desenvolvida faz uma chamada direta ao ScriptLattes, que foi alterado para cumprir nossos propósitos.
+    Fizemos uso de uma ferramenta de webscraping desenvolvida para extração de dados da plataforma lattes, o ScriptLattes, por falta de disponibilidade de serviços de extração de dados oficiais disponibilizados pelo CNPq. A aplicação desenvolvida faz uma chamada direta ao ScriptLattes, que foi alterado para cumprir nossos propósitos.
 
 ## REQUIREMENTS
 
@@ -13,7 +13,7 @@ Trabalho de Engenharia de Software 2, My Production:
 sudo apt-get install python-all python-setuptools python-utidylib python-matplotlib python-levenshtein python-pygraphviz
 sudo apt-get install python-numpy tidy python-scipy python-imaging python-mechanize python-pandas
 sudo easy_install pytidylib
-sudo apt-get install python-scypy
+sudo apt-get install python-scipy
 sudo apt-get install python-lxml
 ```
 
