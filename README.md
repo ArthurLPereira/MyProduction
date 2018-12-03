@@ -28,5 +28,8 @@ ScriptLattes não foi desenvolvido por nós e está disponível neste [link](htt
 
 script_extender.py funciona em conjunto com o scriptLattes para calcular o índice geral e o índice restrito dos pesquisadores a partir dos dados extraídos com a ferramenta.
 
+### Grupo
 
+- Arthur Ladislau Pereira
+- Ernesto Athayde de Queiroz
 
