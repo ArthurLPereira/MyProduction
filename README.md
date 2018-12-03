@@ -1,9 +1,9 @@
 # My Production
 
 Trabalho de Engenharia de Software 2, My Production:
-    Um Script com intuito de calcular o índice geral e o índice restrito de um Pesquisador ou grupo de pesquisadores cadastrados na plataforma Lattes.
+   Um Script com intuito de calcular o índice geral e o índice restrito de um Pesquisador ou grupo de pesquisadores cadastrados na plataforma Lattes.
 
-    Fizemos uso de uma ferramenta de webscraping desenvolvida para extração de dados da plataforma lattes, o ScriptLattes, por falta de disponibilidade de serviços de extração de dados oficiais disponibilizados pelo CNPq. A aplicação desenvolvida faz uma chamada direta ao ScriptLattes, que foi alterado para cumprir nossos propósitos.
+   Fizemos uso de uma ferramenta de webscraping desenvolvida para extração de dados da plataforma lattes, o ScriptLattes, por falta de disponibilidade de serviços de extração de dados oficiais disponibilizados pelo CNPq. A aplicação desenvolvida faz uma chamada direta ao ScriptLattes, que foi alterado para cumprir nossos propósitos.
 
 ## REQUIREMENTS
 
